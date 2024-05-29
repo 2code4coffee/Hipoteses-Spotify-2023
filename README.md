@@ -1,6 +1,6 @@
 # 🎼Hipoteses-Spotify-2023 
 
-- [**💡 Resumo do projeto**](#Resumo-do-projeto)
+- [**💡 Resumo do projeto**](#💡-Resumo-do-projeto)
 - [**🎯 Objetivo**](#Objetivo)
 - [**👥 Equipe**](#Equipe)
 - [**🖥️ Ferramentas e Tecnologias**](#Ferramentas-e-Tecnologias)
