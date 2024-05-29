@@ -1,13 +1,4 @@
 # 🎼Hipoteses-Spotify-2023 
-
-- [**💡 Resumo do projeto**](#💡-Resumo-do-projeto)
-- [**🎯 Objetivo**](#Objetivo)
-- [**👥 Equipe**](#Equipe)
-- [**🖥️ Ferramentas e Tecnologias**](#Ferramentas-e-Tecnologias)
-- [**📊 Processo documentado e fórmulas**](#Passos-do-projeto-e-ficha-técnica)
-- [**🔗 Links de interesse**](#Links-de-interesse)
-- [**📚 Referências**](#Referências)
-
  ___________________________________________________________________________________
 
 - ## **💡 Resumo do projeto** 
