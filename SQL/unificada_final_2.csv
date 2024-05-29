@@ -1,0 +1,949 @@
+track_id_atualizado,track_name_clean,artist_s__name_clean,count_songs,artist_count,data_de_lancamento,streams,in_spotify_charts,in_spotify_playlists,in_apple_charts,in_apple_playlists,in_deezer_charts,in_deezer_playlists,total_participation_in_playlist,bpm,danceability__,valence__,energy__,acousticness__,instrumentalness__,liveness__,speechiness__,terciles_streams,categoria_streams,terciles_bpm,categoria_bpm,terciles_danceability,categoria_danceability,terciles_valence,categoria_valence,terciles_energy,categoria_energy,terciles_acousticness,categoria_acousticness,terciles_instrumentalness,categoria_instrumentalness,terciles_liveness,categoria_liveness,terciles_speechiness,categoria_speechiness
+8576945,rockin around the christmas tree,brenda lee,1,1,1958-01-01,769213520,0,14994,168,191,0,206,15391,140,70,85,41,71,0,45,5,3,alto,3,alto,2,medio,3,alto,1,baixo,3,alto,1,baixo,3,alto,2,medio
+6372609,jingle bell rock,bobby helms,1,1,1957-01-01,741301563,0,10326,99,165,0,104,10595,119,74,78,37,84,0,6,3,3,alto,2,medio,2,medio,3,alto,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+4002890,a holly jolly christmas  single version,burl ives,1,1,1952-01-01,395591396,0,7930,120,108,0,73,8111,140,67,81,36,64,0,15,3,2,medio,3,alto,2,medio,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo
+6593931,driving home for christmas  2019 remaster,chris rea,1,1,1986-01-01,429504768,0,888,0,50,0,6,944,180,51,87,58,36,0,18,4,2,medio,3,alto,1,baixo,3,alto,2,medio,3,alto,1,baixo,3,alto,1,baixo
+8167749,deck the hall  remastered 1999,nat king cole,2,1,1959-01-01,127027715,0,3299,39,65,0,41,3405,107,69,96,36,81,0,8,4,1,baixo,2,medio,2,medio,3,alto,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+8597238,run rudolph run  single version,chuck berry,1,1,1958-01-01,245350949,0,8612,30,120,0,52,8784,152,69,94,71,79,0,7,8,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto,1,baixo,2,medio
+3092002,jingle bells  remastered 1999,frank sinatra,1,1,1957-01-01,178660459,0,4326,3,32,0,65,4423,175,51,94,34,73,0,10,5,1,baixo,3,alto,1,baixo,3,alto,1,baixo,3,alto,1,baixo,1,baixo,2,medio
+8729578,pass the dutchie,musical youth,1,1,1982-01-01,195918494,0,5328,76,54,0,900,6282,151,73,88,67,20,0,32,5,2,medio,3,alto,2,medio,3,alto,2,medio,2,medio,2,medio,3,alto,2,medio
+1534505,dream on,aerosmith,1,1,1973-01-05,838586769,0,168,0,0,0,5,173,80,39,24,43,39,0,23,3,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,3,alto,1,baixo
+7224008,last christmas,wham,1,1,1984-01-01,1159176109,0,22153,111,274,0,1302,23729,107,74,88,65,28,0,46,3,3,alto,2,medio,2,medio,3,alto,2,medio,2,medio,2,medio,3,alto,1,baixo
+4738813,merry christmas everyone,shakin stevens,1,1,1984-01-01,351636786,0,1087,35,90,0,5,1182,101,72,91,87,14,0,13,3,2,medio,1,baixo,2,medio,3,alto,3,alto,2,medio,2,medio,2,medio,1,baixo
+7921549,bloody mary,lady gaga,2,1,2011-01-01,372476382,0,3909,26,66,3,277,4252,100,59,49,65,2,0,13,3,2,medio,1,baixo,1,baixo,2,medio,2,medio,1,baixo,1,baixo,2,medio,1,baixo
+5666047,mistletoe,justin bieber,3,1,2011-01-01,629173063,0,9577,111,195,0,310,10082,162,67,88,54,51,0,9,4,3,alto,3,alto,2,medio,3,alto,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+3181974,thinking out loud,ed sheeran,9,1,2014-01-01,2280566092,0,33032,129,363,0,3895,37290,79,78,58,45,47,0,18,3,3,alto,1,baixo,3,alto,2,medio,1,baixo,3,alto,1,baixo,3,alto,1,baixo
+2061482,only love can hurt like this,paloma faith,1,1,2014-01-01,588955257,0,5148,22,90,0,365,5603,91,57,30,89,10,0,33,8,3,alto,1,baixo,1,baixo,1,baixo,3,alto,2,medio,1,baixo,3,alto,2,medio
+1904373,cool for the summer,demi lovato,1,1,2015-01-01,677389855,0,9243,5,155,0,577,9975,114,59,30,62,1,0,8,4,3,alto,2,medio,1,baixo,1,baixo,2,medio,1,baixo,3,alto,1,baixo,1,baixo
+7792660,wait a minute,willow,1,1,2015-01-11,924193303,0,11985,80,79,3,250,12314,101,76,63,71,3,0,10,3,3,alto,1,baixo,3,alto,2,medio,2,medio,1,baixo,1,baixo,1,baixo,1,baixo
+7498965,house of memories,panic at the disco,1,1,2016-01-15,582863434,0,2948,2,10,0,150,3108,110,51,48,82,0,0,5,3,3,alto,2,medio,1,baixo,2,medio,3,alto,1,baixo,1,baixo,1,baixo,1,baixo
+2886961,snowman,sia,2,1,2017-01-01,690104769,0,5140,110,85,0,500,5725,105,72,33,51,48,0,9,3,3,alto,1,baixo,2,medio,1,baixo,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+6047703,astronaut in the ocean,masked wolf,1,1,2019-01-01,1138474110,0,7191,18,146,0,478,7815,150,78,47,70,18,0,15,9,3,alto,3,alto,3,alto,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto
+3557036,the business,ti,1,1,2020-01-01,1062345656,0,14311,32,255,0,582,15148,120,80,24,62,41,2,11,23,3,alto,2,medio,3,alto,1,baixo,2,medio,3,alto,3,alto,2,medio,3,alto
+7726159,sacrifice,the weeknd,21,1,2022-01-07,326792833,0,4440,77,81,0,133,4654,122,70,91,79,3,0,7,10,2,medio,2,medio,2,medio,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto
+7853001,out of time,the weeknd,21,1,2022-01-07,339659802,0,3711,88,49,0,62,3822,93,65,82,74,27,0,32,5,2,medio,1,baixo,2,medio,3,alto,3,alto,2,medio,3,alto,3,alto,2,medio
+4501584,how do i make you love me,the weeknd,21,1,2022-01-07,119238316,0,1915,47,7,0,15,1937,121,80,62,51,2,0,9,8,1,baixo,2,medio,3,alto,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,2,medio
+6131592,gasoline,the weeknd,21,1,2022-01-07,116903579,0,2297,29,11,0,14,2322,123,74,35,73,0,0,21,5,1,baixo,2,medio,2,medio,1,baixo,2,medio,1,baixo,1,baixo,3,alto,2,medio
+5426643,less than zero,the weeknd,21,1,2022-01-07,200660871,0,2800,77,18,0,61,2879,143,53,50,79,0,0,8,3,2,medio,3,alto,1,baixo,2,medio,3,alto,1,baixo,1,baixo,1,baixo,1,baixo
+6386843,best friends,the weeknd,21,1,2022-01-07,101114984,0,1292,18,3,0,14,1309,87,49,49,59,44,0,35,21,1,baixo,1,baixo,1,baixo,2,medio,2,medio,3,alto,1,baixo,3,alto,3,alto
+7175350,dawn fm,the weeknd,21,1,2022-01-07,53933526,0,811,8,1,0,6,818,78,27,10,49,62,0,49,5,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,3,alto,2,medio
+2717112,starry eyes,the weeknd,21,1,2022-01-07,74601456,0,1014,17,1,0,11,1026,86,28,13,41,50,0,19,3,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,3,alto,1,baixo
+2038144,dont break my,the weeknd,21,1,2022-01-07,63803529,0,1184,5,1,0,6,1191,122,77,25,62,34,0,23,3,1,baixo,2,medio,3,alto,1,baixo,2,medio,3,alto,1,baixo,3,alto,1,baixo
+3355993,a tale by quincy,the weeknd,21,1,2022-01-07,41924466,0,733,2,0,0,2,735,94,46,55,50,71,0,10,11,1,baixo,1,baixo,1,baixo,2,medio,1,baixo,3,alto,1,baixo,1,baixo,3,alto
+1297061,every angel is terrifying,the weeknd,21,1,2022-01-07,37307967,0,715,1,0,0,2,717,118,44,52,94,11,0,4,29,1,baixo,2,medio,1,baixo,2,medio,3,alto,2,medio,2,medio,1,baixo,3,alto
+7332091,phantom regret by jim,the weeknd,21,1,2022-01-07,31959571,0,768,1,1,0,3,772,108,46,23,48,75,30,14,4,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+8715137,miserable man,david kushner,2,1,2022-01-07,124407432,0,788,0,13,1,32,833,110,63,31,35,93,0,29,3,1,baixo,2,medio,2,medio,1,baixo,1,baixo,3,alto,1,baixo,3,alto,1,baixo
+5810373,l,stromae,1,1,2022-01-09,108809090,0,2035,122,41,0,394,2470,88,56,58,55,35,0,23,11,1,baixo,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto,3,alto,3,alto
+5922471,the rumbling tv size,sim,1,1,2022-01-10,71014967,0,254,4,0,0,23,277,145,41,65,88,0,0,26,5,1,baixo,3,alto,1,baixo,3,alto,3,alto,1,baixo,3,alto,3,alto,2,medio
+7822780,blessedcursed,enhypen,3,1,2022-01-10,77337771,0,246,12,2,0,10,258,127,60,40,89,9,0,60,6,1,baixo,2,medio,1,baixo,1,baixo,3,alto,2,medio,2,medio,3,alto,2,medio
+4064553,polaroid love,enhypen,3,1,2022-01-10,211372494,0,461,56,10,0,17,488,138,74,65,67,46,0,36,4,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,1,baixo
+7120733,light switch,charlie puth,2,1,2022-01-19,500340342,0,4049,6,119,1,85,4253,184,69,91,63,11,0,9,31,3,alto,3,alto,2,medio,3,alto,2,medio,2,medio,1,baixo,1,baixo,3,alto
+3284752,billie eilish,armani white,1,1,2022-01-20,277132266,0,2537,1,49,11,67,2653,100,90,75,50,11,0,9,26,2,medio,1,baixo,3,alto,3,alto,1,baixo,2,medio,3,alto,1,baixo,3,alto
+3923724,numb little bug,em beihold,1,1,2022-01-28,258714692,0,2026,3,47,12,42,2115,85,74,61,52,30,0,26,9,2,medio,1,baixo,2,medio,2,medio,1,baixo,2,medio,3,alto,3,alto,3,alto
+3814674,malvada,z fe,1,1,2022-01-28,154119539,0,601,73,28,0,64,693,135,89,89,86,16,0,8,5,1,baixo,3,alto,3,alto,3,alto,3,alto,2,medio,1,baixo,1,baixo,2,medio
+5911914,love again,the kid laroi,2,1,2023-01-27,147538971,0,1283,4,57,0,48,1388,107,66,47,40,72,0,11,3,1,baixo,2,medio,2,medio,2,medio,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+8704695,llylm,rosal,2,1,2023-01-27,124988687,0,1838,41,105,1,114,2057,170,56,56,63,13,0,19,27,1,baixo,3,alto,1,baixo,2,medio,2,medio,2,medio,1,baixo,3,alto,3,alto
+8537557,sugar rush ride,tomorrow x together,1,1,2023-01-27,107642809,0,359,56,12,0,13,384,125,71,83,89,1,0,17,9,1,baixo,2,medio,2,medio,3,alto,3,alto,1,baixo,1,baixo,2,medio,3,alto
+3546129,everything i love,morgan wallen,11,1,2023-01-31,95623148,0,579,54,11,0,0,590,104,56,72,85,0,0,15,3,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,2,medio,2,medio,1,baixo
+2841488,i wrote the book,morgan wallen,11,1,2023-01-31,83021468,0,430,17,15,0,0,445,144,68,83,81,9,0,8,4,1,baixo,3,alto,2,medio,3,alto,3,alto,2,medio,2,medio,1,baixo,1,baixo
+3775590,la zona,bad bunny,19,1,2020-02-29,312622938,0,1188,1,13,0,15,1216,94,76,81,80,20,0,25,4,2,medio,1,baixo,3,alto,3,alto,3,alto,2,medio,2,medio,3,alto,1,baixo
+1159428,shes all i wanna be,tate mcrae,2,1,2022-02-04,343197054,0,2711,12,105,0,51,2867,160,61,65,64,1,0,12,4,2,medio,3,alto,2,medio,3,alto,2,medio,1,baixo,3,alto,2,medio,1,baixo
+4703367,im tired  from euphoria an original hbo series,labrinth,7,1,2022-02-04,121913181,0,1888,1,26,0,58,1972,71,28,26,20,19,0,30,3,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,3,alto,3,alto,1,baixo
+1906058,boyfriend,dove cameron,1,1,2022-02-11,496311364,0,3766,0,76,0,102,3944,180,35,23,61,23,0,19,6,3,alto,3,alto,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto,2,medio
+3434265,worst day,future,2,1,2022-02-11,50746620,0,910,3,20,0,24,954,89,65,60,60,11,0,10,40,1,baixo,1,baixo,2,medio,2,medio,2,medio,2,medio,1,baixo,1,baixo,3,alto
+5697442,darari,treasure,1,1,2022-02-15,182978249,0,328,21,10,0,7,345,85,72,55,64,49,0,7,4,1,baixo,1,baixo,2,medio,2,medio,2,medio,3,alto,2,medio,1,baixo,1,baixo
+3371670,nail tech,jack harlow,3,1,2022-02-18,193443895,0,2939,0,42,0,24,3005,150,65,11,58,0,0,12,9,2,medio,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,2,medio,3,alto
+2166249,oo,nmixx,1,1,2022-02-22,135444283,0,290,66,9,0,10,309,200,39,28,77,4,0,6,29,1,baixo,3,alto,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo,3,alto
+1230186,space man,sam ryder,1,1,2022-02-22,54682594,0,1329,51,42,0,32,1403,80,47,33,83,18,0,10,5,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,1,baixo,1,baixo,2,medio
+1024668,master of puppets remastered,metallica,1,1,1986-03-03,704171068,0,6080,198,112,1,406,6598,105,54,59,83,0,44,20,4,3,alto,1,baixo,1,baixo,2,medio,3,alto,1,baixo,3,alto,3,alto,1,baixo
+4131863,bored,billie eilish,5,1,2017-03-30,777765388,0,4204,45,39,0,250,4493,120,60,11,33,90,0,8,5,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,2,medio
+6824324,hope,xxxtentacion,2,1,2018-03-16,1200808494,0,3659,10,11,0,267,3937,146,59,23,46,66,0,15,6,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,2,medio
+6181977,arcade,duncan laurence,1,1,2019-03-07,991336132,0,6646,47,107,1,584,7337,72,45,27,33,82,0,14,4,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo
+5370460,levitating,dua lipa,3,1,2020-03-27,797196073,0,9833,82,233,1,531,10597,103,69,90,88,5,0,29,8,3,alto,1,baixo,2,medio,3,alto,3,alto,1,baixo,3,alto,3,alto,2,medio
+5624903,i wanna be your slave,mne,4,1,2021-03-19,851070493,0,4873,88,65,3,434,5372,133,75,96,61,0,0,18,4,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo,1,baixo,3,alto,1,baixo
+7036044,stefania kalush orchestra,kalush,1,1,2022-03-10,53729194,0,555,4,10,0,4,569,105,83,32,82,14,0,12,4,1,baixo,1,baixo,3,alto,1,baixo,3,alto,2,medio,1,baixo,2,medio,1,baixo
+3555344,maniac,stray kids,2,1,2022-03-18,212234990,0,651,188,6,0,20,677,120,58,71,80,15,0,7,41,2,medio,2,medio,1,baixo,3,alto,3,alto,2,medio,2,medio,1,baixo,3,alto
+6009839,plan a,paulo londra,2,1,2022-03-23,240661097,0,1105,0,32,0,19,1156,174,58,56,83,5,0,7,4,2,medio,3,alto,1,baixo,2,medio,3,alto,1,baixo,2,medio,1,baixo,1,baixo
+6642483,10 things i hate about you,leah kate,1,1,2022-03-23,185550869,0,1301,1,23,0,15,1339,154,54,45,79,1,0,17,5,2,medio,3,alto,1,baixo,2,medio,3,alto,1,baixo,1,baixo,2,medio,2,medio
+2150360,soy el unico,yahritza y su esencia,1,1,2022-03-25,126443991,0,226,0,5,0,4,235,84,71,63,45,45,0,11,3,1,baixo,1,baixo,2,medio,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo
+2987518,rumbat,daddy yankee,2,1,2022-03-25,157990698,0,1264,4,20,0,52,1336,95,69,90,91,6,0,35,4,1,baixo,1,baixo,2,medio,3,alto,3,alto,1,baixo,2,medio,3,alto,1,baixo
+4518298,when youre gone,shawn mendes,3,1,2022-03-31,255120451,0,2092,11,75,0,44,2211,147,60,58,69,2,0,58,4,2,medio,3,alto,1,baixo,2,medio,2,medio,1,baixo,3,alto,3,alto,1,baixo
+2853933,red ruby da sleeze,nicki minaj,2,1,2023-03-03,81419389,0,1168,11,45,0,20,1233,98,70,29,73,12,0,11,26,1,baixo,1,baixo,2,medio,1,baixo,2,medio,2,medio,1,baixo,2,medio,3,alto
+1413502,98 braves,morgan wallen,11,1,2023-03-03,56533272,0,282,15,6,0,0,288,142,49,48,67,10,0,26,3,1,baixo,3,alto,1,baixo,2,medio,2,medio,2,medio,1,baixo,3,alto,1,baixo
+3746522,born with a beer in my hand,morgan wallen,11,1,2023-03-03,34450974,0,203,9,5,0,0,208,148,53,61,81,5,0,36,4,1,baixo,3,alto,1,baixo,2,medio,3,alto,1,baixo,2,medio,3,alto,1,baixo
+5972088,devil don,morgan wallen,11,1,2023-03-03,32526947,0,166,10,2,0,0,168,125,53,32,66,38,0,9,3,1,baixo,2,medio,1,baixo,1,baixo,2,medio,3,alto,3,alto,1,baixo,1,baixo
+3143453,happy,nf,1,1,2023-03-25,52722996,0,660,7,22,0,11,693,106,73,22,86,31,0,12,4,1,baixo,1,baixo,2,medio,1,baixo,3,alto,2,medio,1,baixo,2,medio,1,baixo
+5763974,void,melanie martinez,1,1,2023-03-29,67070410,0,596,9,29,0,12,637,100,72,42,66,18,4,19,4,1,baixo,1,baixo,2,medio,2,medio,2,medio,2,medio,3,alto,3,alto,1,baixo
+3872585,pope is a rockstar,sales,1,1,2016-04-20,156658366,0,1966,2,4,0,50,2020,90,73,31,45,85,24,11,3,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+2602763,you broke me first,tate mcrae,2,1,2020-04-17,1180094974,0,6638,19,167,0,318,7123,124,64,8,37,79,0,9,5,3,alto,2,medio,2,medio,1,baixo,1,baixo,3,alto,3,alto,1,baixo,2,medio
+5347552,rapstar,polo g,1,1,2021-04-09,797402345,0,4731,12,141,0,78,4950,81,79,44,54,41,0,13,24,3,alto,1,baixo,3,alto,2,medio,1,baixo,3,alto,2,medio,2,medio,3,alto
+2835063,2055,sleepy hallow,1,1,2021-04-14,624515457,0,2226,0,29,0,44,2299,161,78,65,52,46,0,12,31,3,alto,3,alto,3,alto,3,alto,1,baixo,3,alto,2,medio,2,medio,3,alto
+5191929,in my head,lil tjay,1,1,2022-04-01,190981339,0,1185,0,21,0,31,1237,143,68,41,55,16,0,10,12,2,medio,3,alto,2,medio,2,medio,1,baixo,2,medio,2,medio,1,baixo,3,alto
+3108040,still life,bigbang,1,1,2022-04-05,53909146,0,181,14,16,0,7,204,118,68,24,58,44,0,6,3,1,baixo,2,medio,2,medio,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,1,baixo
+4557678,chance,paulo londra,2,1,2022-04-06,89566512,0,225,0,11,0,7,243,138,72,22,46,24,0,9,6,1,baixo,3,alto,2,medio,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,2,medio
+7477767,evergreen you didnt deserve me a,omar apollo,1,1,2022-04-08,227918678,0,2499,0,70,0,49,2618,82,70,31,34,60,1,11,4,2,medio,1,baixo,2,medio,1,baixo,1,baixo,3,alto,3,alto,2,medio,2,medio
+5663428,first class,jack harlow,3,1,2022-04-08,694525298,0,8737,32,163,15,137,9037,107,91,32,56,3,0,11,10,3,alto,2,medio,3,alto,1,baixo,1,baixo,1,baixo,2,medio,2,medio,3,alto
+7434389,right on,lil baby,2,1,2022-04-08,101780047,0,1116,9,31,0,15,1162,166,70,22,61,2,0,10,34,1,baixo,3,alto,2,medio,1,baixo,2,medio,1,baixo,2,medio,1,baixo,3,alto
+5975489,zoom,jessi,1,1,2022-04-13,136996305,0,608,29,5,0,14,627,100,87,46,60,1,0,13,16,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo,1,baixo,2,medio,3,alto
+8779560,thousand miles,the kid laroi,2,1,2022-04-22,244741137,0,2050,9,52,0,46,2148,81,38,20,66,9,0,9,8,2,medio,1,baixo,1,baixo,1,baixo,2,medio,2,medio,3,alto,1,baixo,2,medio
+1545230,puffin on zootiez,future,2,1,2022-04-29,254218729,0,2350,42,28,0,23,2401,125,88,28,66,6,0,13,31,2,medio,2,medio,3,alto,1,baixo,2,medio,1,baixo,1,baixo,2,medio,3,alto
+6987709,peaches from the super mario bros movie,jack black,1,1,2023-04-07,68216992,0,34,0,0,0,0,34,92,71,41,31,79,0,10,5,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto,1,baixo,1,baixo,2,medio
+7807270,miss you,southstar,1,1,1982-05-16,154356956,0,2020,10,77,0,119,2216,145,66,24,58,17,0,19,5,1,baixo,3,alto,2,medio,1,baixo,2,medio,2,medio,2,medio,3,alto,2,medio
+2775772,heart to heart,mac demarco,1,1,2019-05-10,244658767,0,1640,27,27,1,29,1696,150,90,64,14,67,35,11,10,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,3,alto,2,medio,3,alto
+2969661,dance monkey,tones and i,1,1,2019-05-10,2864791672,0,24529,167,533,6,3595,28657,98,82,54,59,69,0,18,10,3,alto,1,baixo,3,alto,2,medio,2,medio,3,alto,1,baixo,3,alto,3,alto
+8096695,favorite crime,olivia rodrigo,7,1,2021-05-21,783706581,0,3681,21,20,0,99,3800,173,40,19,29,86,0,34,4,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,3,alto,1,baixo
+8835305,jealousy jealousy,olivia rodrigo,7,1,2021-05-21,665765558,0,3257,0,10,0,70,3337,164,70,71,58,24,0,7,13,3,alto,3,alto,2,medio,3,alto,1,baixo,2,medio,1,baixo,1,baixo,3,alto
+8654169,fearless,le sserafim,2,1,2022-05-02,229497852,0,629,75,18,0,9,656,104,86,43,62,5,0,13,14,2,medio,1,baixo,3,alto,2,medio,2,medio,1,baixo,2,medio,2,medio,3,alto
+8238387,hold my hand,lady gaga,2,1,2022-05-03,238350348,0,2528,8,63,2,270,2861,148,51,21,63,5,0,41,3,2,medio,3,alto,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto,1,baixo
+8956923,despus de la p,bad bunny,19,1,2022-05-06,461558540,0,2229,44,27,0,24,2280,78,56,61,90,36,0,18,31,2,medio,1,baixo,1,baixo,2,medio,3,alto,3,alto,2,medio,3,alto,3,alto
+4764570,yo no soy celoso,bad bunny,19,1,2022-05-06,313113297,0,1179,21,7,0,11,1197,142,87,93,59,28,0,17,5,2,medio,3,alto,3,alto,3,alto,2,medio,2,medio,3,alto,2,medio,2,medio
+5617904,me fui de vacaciones,bad bunny,19,1,2022-05-06,305650299,0,1443,11,9,1,22,1474,85,71,43,65,23,0,9,5,2,medio,1,baixo,2,medio,2,medio,2,medio,2,medio,1,baixo,1,baixo,2,medio
+1633065,aguacero,bad bunny,19,1,2022-05-06,283359161,0,829,15,4,0,10,843,121,86,67,65,42,0,35,7,2,medio,2,medio,3,alto,3,alto,2,medio,3,alto,2,medio,3,alto,2,medio
+6339593,el apag,bad bunny,19,1,2022-05-06,212351890,0,1209,7,9,0,14,1232,118,63,60,70,5,0,9,31,2,medio,2,medio,2,medio,2,medio,2,medio,1,baixo,2,medio,1,baixo,3,alto
+6347306,dua lipa,jack harlow,3,1,2022-05-06,150500965,0,1992,0,35,0,3,2030,158,83,41,65,0,10,11,8,1,baixo,3,alto,3,alto,2,medio,2,medio,1,baixo,3,alto,2,medio,2,medio
+4940529,agosto,bad bunny,19,1,2022-05-06,246127838,0,897,20,6,0,8,911,115,85,72,58,9,0,49,12,2,medio,2,medio,3,alto,3,alto,1,baixo,1,baixo,3,alto,3,alto,3,alto
+6107475,this love taylors ve,taylor swift,34,1,2022-05-06,132171975,0,1492,2,26,0,15,1533,144,47,7,50,32,0,7,4,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,1,baixo
+7321459,vegas from the original motion picture soundtrack elvis,doja cat,6,1,2022-05-06,448500832,0,4576,13,79,0,93,4748,160,80,74,60,8,0,14,26,2,medio,3,alto,3,alto,3,alto,2,medio,1,baixo,3,alto,2,medio,3,alto
+6509365,the heart part 5,kendrick lamar,12,1,2022-05-08,71423324,0,2939,0,29,0,30,2998,98,76,79,81,18,0,6,34,1,baixo,1,baixo,3,alto,3,alto,3,alto,2,medio,2,medio,1,baixo,3,alto
+1109166,n95,kendrick lamar,12,1,2022-05-13,301242089,0,5542,16,52,0,65,5659,140,81,39,66,38,0,12,14,2,medio,3,alto,3,alto,1,baixo,2,medio,3,alto,1,baixo,2,medio,3,alto
+3184472,united in grief,kendrick lamar,12,1,2022-05-13,156898322,0,2575,5,4,0,12,2591,87,52,32,83,24,0,17,43,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio,2,medio,3,alto
+1493023,rich spirit,kendrick lamar,12,1,2022-05-13,173702135,0,3486,10,20,0,33,3539,96,85,41,43,39,0,12,21,1,baixo,1,baixo,3,alto,2,medio,1,baixo,3,alto,3,alto,2,medio,3,alto
+1671724,count me out,kendrick lamar,12,1,2022-05-13,126191104,0,2729,7,3,0,13,2745,134,78,51,43,69,0,14,9,1,baixo,3,alto,3,alto,2,medio,1,baixo,3,alto,3,alto,2,medio,3,alto
+3186172,worldwide steppers,kendrick lamar,12,1,2022-05-13,61739839,0,1480,0,1,0,5,1486,72,56,56,47,76,0,8,36,1,baixo,1,baixo,1,baixo,2,medio,1,baixo,3,alto,2,medio,1,baixo,3,alto
+5264430,rich  interlude,kendrick lamar,12,1,2022-05-13,41210087,0,1103,0,0,0,0,1103,104,44,74,42,88,0,9,9,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,3,alto,2,medio,1,baixo,3,alto
+2226206,supermodel,mne,4,1,2022-05-13,231657891,0,2265,12,93,11,173,2531,121,64,80,88,0,0,12,6,2,medio,2,medio,2,medio,3,alto,3,alto,1,baixo,3,alto,2,medio,2,medio
+7556948,crown,kendrick lamar,12,1,2022-05-13,42485571,0,1493,0,2,0,10,1505,170,37,14,24,80,0,11,4,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo
+1713130,auntie diaries,kendrick lamar,12,1,2022-05-13,37778188,0,1545,0,1,0,4,1550,78,43,60,38,76,1,48,38,1,baixo,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto,3,alto,3,alto
+5087776,mirror,kendrick lamar,12,1,2022-05-13,53603447,0,1929,0,2,0,4,1935,92,66,29,65,23,0,8,7,1,baixo,1,baixo,2,medio,1,baixo,2,medio,2,medio,1,baixo,1,baixo,2,medio
+3635714,savior  interlude,kendrick lamar,12,1,2022-05-13,37091576,0,1194,0,0,0,3,1197,118,66,83,43,84,0,19,19,1,baixo,2,medio,2,medio,3,alto,1,baixo,3,alto,3,alto,3,alto,3,alto
+4809507,en el radio un cochinero,victor cibrian,1,1,2022-05-13,164856284,0,514,36,5,0,1,520,154,70,97,62,47,0,10,4,1,baixo,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto,1,baixo,1,baixo
+1436447,daylight,harry styles,17,1,2022-05-20,290833204,0,2775,11,21,0,40,2836,146,69,63,45,48,0,18,4,2,medio,3,alto,2,medio,3,alto,1,baixo,3,alto,2,medio,3,alto,1,baixo
+2307433,little freak,harry styles,17,1,2022-05-20,273194684,0,2302,3,20,0,39,2361,142,56,40,54,72,0,10,4,2,medio,3,alto,1,baixo,2,medio,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+6193307,love of my life,harry styles,17,1,2022-05-20,233671263,0,1933,2,13,0,31,1977,118,56,20,54,67,0,6,5,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,2,medio
+8507943,grapejuice,harry styles,17,1,2022-05-20,199587884,0,1986,1,7,0,15,2008,183,65,88,72,36,14,20,3,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo
+7697062,cinema,harry styles,17,1,2022-05-20,189236868,0,2171,1,18,0,28,2217,106,83,90,64,35,5,9,4,2,medio,1,baixo,3,alto,3,alto,2,medio,3,alto,3,alto,1,baixo,1,baixo
+4671002,boyfriends,harry styles,17,1,2022-05-20,137070925,0,1517,2,26,0,30,1573,118,42,32,20,94,0,11,4,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+6895326,curtains,ed sheeran,9,1,2023-05-05,39893489,0,715,3,37,0,27,779,176,50,44,76,10,0,32,5,1,baixo,3,alto,1,baixo,2,medio,3,alto,2,medio,1,baixo,3,alto,2,medio
+2101565,hits different,taylor swift,34,1,2023-05-26,68616963,0,547,15,15,0,6,568,106,67,24,78,15,0,30,4,1,baixo,1,baixo,2,medio,1,baixo,3,alto,2,medio,2,medio,3,alto,1,baixo
+3210546,selfish,pnb rock,1,1,2016-06-23,380319238,0,2468,0,15,0,0,2483,102,64,4,60,11,0,19,4,2,medio,1,baixo,2,medio,1,baixo,2,medio,2,medio,1,baixo,3,alto,1,baixo
+8949659,lucid dreams,juice wrld,2,1,2017-06-15,2288695111,0,14749,34,188,0,710,15647,84,44,22,48,38,0,33,24,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,3,alto
+8186517,infinity,jaymes young,1,1,2017-06-23,888046992,0,4375,0,24,0,396,4795,122,67,50,67,15,0,30,4,3,alto,2,medio,2,medio,2,medio,2,medio,2,medio,1,baixo,3,alto,2,medio
+7885122,mount everest,labrinth,7,1,2019-06-21,467727006,0,5443,1,45,0,80,5568,89,46,43,43,23,8,8,22,2,medio,1,baixo,1,baixo,2,medio,1,baixo,2,medio,3,alto,1,baixo,3,alto
+8480431,need to know,doja cat,6,1,2021-06-11,1042568408,0,6672,36,125,0,150,6947,130,66,19,61,30,0,9,7,3,alto,2,medio,2,medio,1,baixo,2,medio,2,medio,1,baixo,1,baixo,2,medio
+5346382,woman,doja cat,6,1,2021-06-25,1329090101,0,9424,50,202,4,463,10089,108,82,88,76,9,0,12,9,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,1,baixo,2,medio,3,alto
+5085460,get into it yuh,doja cat,6,1,2021-06-25,516784627,0,4999,19,43,12,73,5115,92,91,79,66,32,0,9,16,3,alto,1,baixo,3,alto,3,alto,2,medio,2,medio,1,baixo,1,baixo,3,alto
+5897675,aint shit,doja cat,6,1,2021-06-25,499710590,0,3436,6,32,0,46,3514,124,86,62,49,51,0,35,21,3,alto,2,medio,3,alto,2,medio,1,baixo,3,alto,2,medio,3,alto,3,alto
+2230668,so good,halsey,1,1,2022-06-09,91781263,0,1057,14,51,0,19,1127,83,63,29,62,4,0,18,4,1,baixo,1,baixo,2,medio,1,baixo,2,medio,1,baixo,3,alto,3,alto,1,baixo
+4070434,yet to come,bts,8,1,2022-06-10,302006641,0,829,110,32,0,26,887,172,56,68,89,4,0,33,19,2,medio,3,alto,1,baixo,3,alto,3,alto,1,baixo,1,baixo,3,alto,3,alto
+5477581,run bts,bts,8,1,2022-06-10,330881149,0,736,132,5,0,17,758,77,72,70,82,2,0,4,17,2,medio,1,baixo,2,medio,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto
+4618597,for youth,bts,8,1,2022-06-10,114546317,0,327,40,5,0,12,344,117,63,29,51,43,0,25,4,1,baixo,2,medio,2,medio,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo
+4845139,born singer,bts,8,1,2022-06-10,79095270,0,279,18,0,0,6,285,158,60,68,84,4,0,24,11,1,baixo,3,alto,1,baixo,3,alto,3,alto,1,baixo,1,baixo,3,alto,3,alto
+6549461,betty get money,yung gravy,1,1,2022-06-10,221752937,0,2402,2,45,0,26,2473,102,73,62,75,0,0,34,8,2,medio,1,baixo,2,medio,2,medio,3,alto,1,baixo,1,baixo,3,alto,2,medio
+7531207,massive,drake,4,1,2022-06-17,195628667,0,5263,89,66,0,61,5390,125,51,5,68,12,2,15,6,2,medio,2,medio,1,baixo,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio
+6670857,sticky,drake,4,1,2022-06-17,191448892,0,2814,105,38,0,25,2877,137,88,8,49,9,0,9,14,2,medio,3,alto,3,alto,1,baixo,1,baixo,1,baixo,2,medio,1,baixo,3,alto
+8121763,break my soul,beyonc,3,1,2022-06-21,354614964,0,9724,61,222,14,259,10205,115,70,87,88,4,0,26,8,2,medio,2,medio,2,medio,3,alto,3,alto,1,baixo,3,alto,3,alto,2,medio
+1532170,poland,lil yachty,1,1,2022-06-23,115331792,0,1584,0,38,0,24,1646,150,70,26,56,14,83,11,5,1,baixo,3,alto,2,medio,1,baixo,1,baixo,2,medio,3,alto,2,medio,2,medio
+7629327,pop,nayeon,1,1,2022-06-24,213505179,0,571,21,19,0,14,604,97,80,36,86,4,0,3,5,2,medio,1,baixo,3,alto,1,baixo,3,alto,1,baixo,2,medio,1,baixo,2,medio
+6191375,die first,nessa barrett,1,1,2022-06-24,131746175,0,767,0,25,0,22,814,183,44,44,67,7,0,12,13,1,baixo,3,alto,1,baixo,2,medio,2,medio,1,baixo,2,medio,2,medio,3,alto
+6950436,alien blues,vundabar,1,1,2015-07-24,370068639,0,1930,0,3,0,28,1961,82,47,44,76,8,91,9,3,2,medio,1,baixo,1,baixo,2,medio,3,alto,1,baixo,3,alto,1,baixo,1,baixo
+8056641,life goes on,oliver tree,1,1,2020-07-17,501541661,0,2868,15,43,0,116,3027,80,70,57,49,19,0,12,8,3,alto,1,baixo,2,medio,2,medio,1,baixo,2,medio,2,medio,2,medio,2,medio
+4782067,happier than ever  edit,billie eilish,5,1,2021-07-28,412795151,0,1959,0,19,0,38,2016,81,45,12,57,7,0,23,3,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,3,alto,1,baixo
+5737293,happier than ever,billie eilish,5,1,2021-07-30,1056760045,0,8476,133,138,0,283,8897,65,31,31,24,76,0,14,4,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+5678676,more,jhope,1,1,2022-07-01,155795783,0,565,52,6,0,11,582,97,78,31,72,1,0,11,4,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo,2,medio,2,medio,1,baixo
+8171348,come back home  from purple hearts,sofia carson,1,1,2022-07-12,97610446,0,367,67,28,0,195,590,145,56,43,53,24,0,12,4,1,baixo,3,alto,1,baixo,2,medio,1,baixo,2,medio,3,alto,2,medio,1,baixo
+4758406,static,steve lacy,3,1,2022-07-15,202452860,0,1613,15,21,0,13,1647,79,34,22,31,43,63,10,7,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,2,medio
+3519068,lovezinho,treyce,1,1,2022-07-28,70069745,0,242,2,12,0,13,267,128,82,61,59,30,0,12,4,1,baixo,2,medio,3,alto,2,medio,2,medio,2,medio,1,baixo,2,medio,1,baixo
+5337859,alien superstar,beyonc,3,1,2022-07-29,171788484,0,2688,47,39,0,36,2763,122,55,46,64,0,0,17,10,1,baixo,2,medio,1,baixo,2,medio,2,medio,1,baixo,3,alto,2,medio,3,alto
+4152167,all of me,john legend,1,1,2013-08-01,2086124197,0,27221,118,308,2,4534,32063,120,42,33,26,92,0,13,3,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+8126826,ginseng strip 2002,yung lean,1,1,2013-08-16,240769997,0,4310,0,13,1,113,4436,115,60,37,71,8,0,48,4,2,medio,2,medio,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto,1,baixo
+1992045,notion,the rare occasions,1,1,2016-08-05,421135627,0,2393,13,22,0,65,2480,160,31,30,88,7,0,8,8,2,medio,3,alto,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,2,medio
+4586215,take my breath,the weeknd,21,1,2021-08-06,432702334,0,6392,73,174,0,344,6910,121,75,53,74,2,0,11,5,2,medio,2,medio,3,alto,2,medio,3,alto,1,baixo,2,medio,2,medio,2,medio
+3933523,flowers,lauren spencer smith,1,1,2021-08-09,184826429,0,801,9,42,1,24,867,138,70,31,44,84,0,9,39,2,medio,3,alto,2,medio,1,baixo,1,baixo,3,alto,2,medio,1,baixo,3,alto
+6389379,abcdefu,gayle,1,1,2021-08-13,1007612429,0,7215,12,170,18,575,7960,122,70,42,54,30,0,37,5,3,alto,2,medio,2,medio,2,medio,1,baixo,2,medio,1,baixo,3,alto,2,medio
+2542321,praise god,kanye west,3,1,2021-08-29,376333030,0,4651,6,24,0,105,4780,118,80,21,55,1,0,26,17,2,medio,2,medio,3,alto,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto
+6640464,limbo,freddie dredd,1,1,2022-08-11,199386237,0,688,1,14,0,17,719,75,80,46,62,3,6,11,46,2,medio,1,baixo,3,alto,2,medio,2,medio,1,baixo,3,alto,2,medio,3,alto
+6643902,super freaky girl,nicki minaj,2,1,2022-08-12,428685680,0,4827,17,104,9,76,5007,133,95,91,89,6,0,31,24,2,medio,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,3,alto,3,alto
+4363557,talk that talk,twice,2,1,2022-08-26,189476119,0,615,77,14,1,15,644,120,77,78,91,14,0,33,12,2,medio,2,medio,3,alto,3,alto,3,alto,2,medio,2,medio,3,alto,3,alto
+1832626,running up that hill a deal with god,kate bush,1,1,1985-09-16,1024858327,0,21811,1,117,3,676,22604,108,63,20,55,72,0,6,6,3,alto,2,medio,2,medio,1,baixo,1,baixo,3,alto,2,medio,1,baixo,2,medio
+8217918,something in the way  remastered 2021,nirvana,2,1,1991-09-24,368646862,0,9514,27,45,0,1197,10756,106,44,8,20,74,42,11,3,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+4096612,theres nothing holdin me back,shawn mendes,3,1,2016-09-23,1714490998,0,12382,57,229,2,1370,13981,122,86,97,80,36,0,9,6,3,alto,2,medio,3,alto,3,alto,3,alto,3,alto,3,alto,1,baixo,2,medio
+8292846,hey mickey,baby tate,1,1,2016-09-27,122763672,0,482,1,9,4,12,503,135,92,73,51,55,0,15,6,1,baixo,3,alto,3,alto,3,alto,1,baixo,3,alto,1,baixo,2,medio,2,medio
+2699923,slow dancing in the dark,joji,3,1,2018-09-12,1122364376,0,10211,79,38,0,65,10314,89,52,28,48,54,1,19,3,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo
+7748090,montero call me by your name,lil nas x,3,1,2020-09-18,1735441776,0,12329,19,275,0,738,13342,179,61,76,51,30,0,38,15,3,alto,3,alto,2,medio,3,alto,1,baixo,2,medio,1,baixo,3,alto,3,alto
+2439081,acapulco,jason derulo,1,1,2021-09-01,363467642,0,3098,5,111,1,182,3391,122,77,51,79,5,0,16,5,2,medio,2,medio,3,alto,2,medio,3,alto,1,baixo,1,baixo,2,medio,2,medio
+4551026,this is what falling in love feels like,jvke,2,1,2021-09-03,346127840,0,2005,5,16,0,43,2064,129,42,33,44,62,0,8,6,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,2,medio
+1266830,toxic,boywithuke,1,1,2021-09-10,582981380,0,1795,23,34,0,118,1947,180,59,69,61,84,0,46,36,3,alto,3,alto,1,baixo,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto
+3154799,mony so,yeat,2,1,2021-09-10,263779030,0,1473,0,2,0,12,1487,138,69,35,57,12,0,10,9,2,medio,3,alto,2,medio,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,3,alto
+2636311,thats what i want,lil nas x,3,1,2021-09-17,920797189,0,7963,7,173,0,298,8434,88,74,55,85,1,0,5,22,3,alto,1,baixo,2,medio,2,medio,3,alto,1,baixo,2,medio,1,baixo,3,alto
+5086845,talk,yeat,2,1,2022-09-02,148461629,0,920,1,10,0,8,938,140,70,26,76,8,0,54,23,1,baixo,3,alto,2,medio,1,baixo,3,alto,1,baixo,3,alto,3,alto,3,alto
+7512111,lady mi amor,feid,8,1,2022-09-13,53987404,0,330,0,3,0,2,335,93,78,75,62,6,0,15,6,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo,1,baixo,2,medio,2,medio
+6204936,star walkin league of legends worlds anthem,lil nas x,3,1,2022-09-22,332506354,0,2616,17,113,0,208,2937,142,64,31,72,15,0,9,5,2,medio,3,alto,2,medio,1,baixo,2,medio,2,medio,3,alto,1,baixo,2,medio
+3533833,celestial,ed sheeran,9,1,2022-09-29,176474912,0,1639,14,86,0,80,1805,123,57,50,85,5,0,16,4,1,baixo,2,medio,1,baixo,2,medio,3,alto,1,baixo,2,medio,2,medio,2,medio
+5350503,its the most wonderful time of the year,andy williams,1,1,1963-10-14,663832097,0,8879,107,182,0,160,9221,202,24,76,60,77,0,12,4,3,alto,3,alto,1,baixo,3,alto,2,medio,3,alto,1,baixo,2,medio,1,baixo
+4490744,all i want for christmas is you,mariah carey,1,1,1994-10-28,1449779435,0,25653,132,387,0,2094,28134,150,34,33,63,16,0,7,4,3,alto,3,alto,1,baixo,1,baixo,2,medio,2,medio,1,baixo,1,baixo,1,baixo
+7546342,its beginning to look a lot like christmas,michael bubl,2,1,2011-10-14,807561936,0,12353,0,35,0,549,12937,93,35,38,23,91,0,29,3,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,3,alto,1,baixo
+4319986,holly jolly christmas,michael bubl,2,1,2011-10-14,476244795,0,7655,0,5,0,291,7951,151,65,70,47,87,0,9,4,2,medio,3,alto,2,medio,3,alto,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+4278371,underneath the tree,kelly clarkson,1,1,2013-10-25,485285717,0,6596,99,144,0,251,6991,160,51,69,81,0,0,21,5,3,alto,3,alto,1,baixo,3,alto,3,alto,1,baixo,2,medio,3,alto,2,medio
+1386091,swim,chase atlantic,1,1,2017-10-04,498960285,0,2742,1,5,0,62,2809,120,67,8,54,27,0,8,4,3,alto,2,medio,2,medio,1,baixo,1,baixo,2,medio,3,alto,1,baixo,1,baixo
+4824782,good looking,suki waterhouse,1,1,2017-10-20,184706613,0,2264,6,11,0,25,2300,150,37,27,56,8,0,13,3,2,medio,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,2,medio,1,baixo
+1647722,still dont know my name,labrinth,7,1,2019-10-04,563902868,0,6332,116,47,0,266,6645,88,31,31,63,47,27,21,12,3,alto,1,baixo,1,baixo,1,baixo,2,medio,3,alto,3,alto,3,alto,3,alto
+2392756,when i rip,labrinth,7,1,2019-10-04,203680270,0,2578,67,8,0,66,2652,80,39,45,55,73,0,9,21,2,medio,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto,1,baixo,3,alto
+1050544,forever,labrinth,7,1,2019-10-04,282883169,0,3618,86,21,0,138,3777,80,56,19,46,92,72,11,3,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+6891911,dont start now,dua lipa,3,1,2019-10-31,2303033973,0,27119,77,532,3,1535,29186,124,79,68,79,1,0,10,8,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,2,medio,1,baixo,2,medio
+5355322,demasiadas mujeres,c tangana,1,1,2020-10-08,339473453,0,2226,2,36,0,11,2273,126,67,37,46,13,0,10,39,2,medio,2,medio,2,medio,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto
+7298366,positions,ariana grande,2,1,2020-10-23,1252563873,0,8207,55,175,0,95,8477,144,73,66,80,44,0,9,12,3,alto,3,alto,2,medio,3,alto,3,alto,3,alto,2,medio,1,baixo,3,alto
+8744804,the feels,twice,2,1,2021-10-01,345903614,0,1150,99,20,0,44,1214,120,81,92,90,9,0,8,7,2,medio,2,medio,3,alto,3,alto,3,alto,2,medio,3,alto,1,baixo,2,medio
+2106751,super gremlin,kodak black,1,1,2021-10-30,342779426,0,2551,15,52,0,35,2638,73,83,11,41,0,0,36,14,2,medio,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,2,medio,3,alto,3,alto
+3469822,gatita,bellakath,1,1,2022-10-03,168684524,0,1054,0,9,0,15,1078,101,90,76,81,15,24,33,6,1,baixo,1,baixo,3,alto,3,alto,3,alto,2,medio,3,alto,3,alto,2,medio
+3476652,california breeze,lil baby,2,1,2022-10-14,85559365,0,991,38,36,0,13,1040,162,74,22,67,0,0,11,46,1,baixo,3,alto,2,medio,1,baixo,2,medio,1,baixo,2,medio,2,medio,3,alto
+2284105,maroon,taylor swift,34,1,2022-10-21,317726339,0,2304,16,12,0,14,2330,108,64,4,40,6,0,10,6,2,medio,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio
+1218742,bejeweled,taylor swift,34,1,2022-10-21,328207708,0,2699,35,39,2,22,2760,164,70,39,56,6,0,9,7,2,medio,3,alto,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,2,medio
+7270435,vigilante shit,taylor swift,34,1,2022-10-21,253650850,0,1948,9,12,0,16,1976,80,80,16,28,17,0,12,39,2,medio,1,baixo,3,alto,1,baixo,1,baixo,2,medio,1,baixo,2,medio,3,alto
+5899602,question,taylor swift,34,1,2022-10-21,223064273,0,1608,3,10,0,12,1630,109,75,11,50,20,0,30,17,2,medio,2,medio,2,medio,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto
+6590514,mastermind,taylor swift,34,1,2022-10-21,218320587,0,1936,5,7,0,13,1956,126,66,12,35,55,0,9,14,2,medio,2,medio,2,medio,1,baixo,1,baixo,3,alto,3,alto,1,baixo,3,alto
+6372213,labyrinth,taylor swift,34,1,2022-10-21,187339835,0,1597,3,6,0,15,1618,110,48,15,31,80,22,12,4,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+1386595,sweet nothing,taylor swift,34,1,2022-10-21,186104310,0,1747,6,9,0,13,1769,177,34,39,16,97,0,12,5,2,medio,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,2,medio
+8471839,wouldve couldve shouldve,taylor swift,34,1,2022-10-21,177503916,0,1715,5,4,0,8,1727,158,48,55,84,43,0,15,12,1,baixo,3,alto,1,baixo,2,medio,3,alto,3,alto,1,baixo,2,medio,3,alto
+1587452,the great war,taylor swift,34,1,2022-10-21,181382590,0,1274,6,1,0,11,1286,96,57,55,74,22,0,8,4,1,baixo,1,baixo,1,baixo,2,medio,3,alto,2,medio,1,baixo,1,baixo,1,baixo
+2341529,bigger than the whole sky,taylor swift,34,1,2022-10-21,121871870,0,1180,0,4,0,8,1192,166,42,7,24,83,1,12,6,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,2,medio
+7526938,shirt,sza,19,1,2022-10-28,309653982,0,3469,95,71,0,31,3571,120,82,55,45,15,3,9,10,2,medio,2,medio,3,alto,2,medio,1,baixo,2,medio,3,alto,1,baixo,3,alto
+4562499,lift me up  from black panther wakanda forever  music from and inspired by,rihanna,1,1,2022-10-28,297328960,0,3311,31,129,1,212,3652,177,25,17,30,90,0,13,3,2,medio,3,alto,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+4069645,feliz navidad,jos felic,1,1,1970-11-01,520034544,0,3788,3,21,0,10,3819,148,50,96,82,47,0,34,4,3,alto,3,alto,1,baixo,3,alto,3,alto,3,alto,1,baixo,3,alto,1,baixo
+3087104,the christmas song merry christmas to you  remastered 1999,nat king cole,2,1,1946-11-01,389771964,0,11500,72,140,0,251,11891,139,36,22,15,84,0,11,4,2,medio,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,2,medio
+4277985,let it snow let it snow let it snow,dean martin,1,1,1959-11-16,446390129,0,6512,1,88,0,277,6877,134,45,72,24,91,0,18,4,2,medio,3,alto,1,baixo,3,alto,1,baixo,3,alto,1,baixo,3,alto,1,baixo
+8476304,wonderful christmastime  edited version  remastered 2011,paul mccartney,1,1,1979-11-16,403939487,0,1685,0,1,0,29,1715,95,75,74,58,36,0,9,3,2,medio,1,baixo,3,alto,3,alto,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+6900582,sleigh ride,the ronettes,1,1,1963-11-22,404664135,0,10114,74,114,0,262,10490,92,53,84,77,40,0,32,3,2,medio,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo,3,alto,1,baixo
+3867590,christmas baby please come home,darlene love,1,1,1963-11-22,242767149,0,9122,58,121,0,212,9455,126,34,35,76,39,0,8,5,2,medio,2,medio,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo,2,medio
+3891081,do they know its christmas  1984 version,band aid,1,1,1984-11-25,481697415,0,14169,30,209,0,449,14827,115,60,23,57,0,2,27,3,2,medio,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo
+7699876,my only wish this year,britney spears,1,1,2000-11-07,261116938,0,6952,53,115,0,286,7353,147,67,69,72,17,0,19,3,2,medio,3,alto,2,medio,3,alto,2,medio,2,medio,1,baixo,3,alto,1,baixo
+4944285,me and your mama,childish gambino,1,1,2016-11-10,445590495,0,8775,60,33,1,107,8915,118,56,25,45,1,3,7,3,2,medio,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,1,baixo
+5476124,we fell in love in october,girl in red,1,1,2018-11-21,723043854,0,6858,21,31,0,15,6904,130,57,24,37,11,18,16,3,3,alto,2,medio,1,baixo,1,baixo,1,baixo,2,medio,3,alto,2,medio,1,baixo
+2092930,streets,doja cat,6,1,2019-11-07,865640097,0,5728,87,85,0,179,5992,90,75,19,46,21,4,34,8,3,alto,1,baixo,2,medio,1,baixo,1,baixo,2,medio,3,alto,3,alto,2,medio
+8333879,to the moon,jnr choi,1,1,2021-11-05,245095641,0,2979,0,44,0,159,3182,144,74,39,65,5,1,11,35,2,medio,3,alto,2,medio,1,baixo,2,medio,1,baixo,3,alto,2,medio,3,alto
+2726514,dance crip,trueno,1,1,2021-11-17,198883004,0,731,14,14,0,24,769,106,86,86,79,11,0,8,9,2,medio,1,baixo,3,alto,3,alto,3,alto,2,medio,1,baixo,1,baixo,3,alto
+5311211,i am woman,emmy meli,1,1,2021-11-18,225259194,0,2795,0,45,0,107,2947,170,65,46,47,12,0,13,16,2,medio,3,alto,2,medio,2,medio,1,baixo,2,medio,1,baixo,2,medio,3,alto
+4923571,surface pressure,jessica darrow,1,1,2021-11-19,267758538,0,1756,48,38,0,20,1814,180,65,37,58,2,0,4,31,2,medio,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,3,alto
+2820520,oh my god,adele,4,1,2021-11-19,466214729,0,4431,7,105,0,199,4735,88,53,55,73,9,0,3,5,2,medio,1,baixo,1,baixo,2,medio,3,alto,1,baixo,1,baixo,1,baixo,2,medio
+7423770,dos oruguitas,sebastian yatra,2,1,2021-11-19,167076418,0,925,47,24,0,74,1023,94,42,47,36,76,0,9,5,1,baixo,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto,1,baixo,2,medio
+7298940,hrs and hrs,muni long,1,1,2021-11-19,181328253,0,1800,36,43,13,46,1889,140,51,66,53,60,0,11,18,1,baixo,3,alto,1,baixo,3,alto,1,baixo,3,alto,3,alto,2,medio,3,alto
+3476877,my mind  me,selena gomez,1,1,2022-11-03,91473363,0,953,13,61,1,37,1051,144,60,24,39,57,0,8,3,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+3301347,die for you,joji,3,1,2022-11-04,246390068,0,1703,45,38,16,36,1777,148,47,15,52,38,13,29,5,2,medio,3,alto,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,2,medio
+3108815,backoutsideboyz,drake,4,1,2022-11-04,93367537,0,1045,5,8,0,2,1055,142,85,40,43,4,0,39,32,1,baixo,3,alto,3,alto,2,medio,1,baixo,1,baixo,2,medio,3,alto,3,alto
+2817956,boys a liar,pinkpantheress,1,1,2022-11-30,156338624,0,1225,0,27,13,28,1280,133,66,74,84,25,0,21,4,1,baixo,2,medio,2,medio,3,alto,3,alto,2,medio,3,alto,3,alto,1,baixo
+1236328,santa tell me,ariana grande,2,1,2013-12-13,834129063,0,9408,106,231,0,439,10078,133,46,53,63,5,0,30,18,3,alto,2,medio,1,baixo,2,medio,2,medio,1,baixo,1,baixo,3,alto,3,alto
+2052397,beggin,mne,4,1,2017-12-08,1367810478,0,8559,64,183,9,964,9706,134,71,59,80,13,0,36,5,3,alto,3,alto,2,medio,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio
+6327262,falling,harry styles,17,1,2019-12-13,1023187129,0,7556,24,124,0,254,7934,110,57,6,27,84,0,9,3,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+4923214,itll be okay,shawn mendes,3,1,2021-12-01,287201015,0,1950,8,56,0,104,2110,78,40,7,29,62,0,9,3,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+3782910,i hate u,sza,19,1,2021-12-03,356709897,0,4094,96,66,0,43,4203,107,54,41,39,51,0,11,16,2,medio,1,baixo,1,baixo,2,medio,1,baixo,3,alto,2,medio,2,medio,3,alto
+7717973,cigarettes,juice wrld,2,1,2021-12-10,185408548,0,975,0,11,0,10,996,160,60,47,62,3,0,38,4,2,medio,3,alto,1,baixo,2,medio,2,medio,1,baixo,3,alto,3,alto,1,baixo
+2003358,mujeriego,ryan castro,2,1,2021-12-17,231996128,0,1492,63,44,0,91,1627,80,76,92,62,6,0,8,13,2,medio,1,baixo,3,alto,3,alto,2,medio,1,baixo,3,alto,1,baixo,3,alto
+8033263,slomo,chanel,1,1,2021-12-24,65719930,0,1211,0,31,0,19,1261,105,73,59,81,13,0,9,6,1,baixo,1,baixo,2,medio,2,medio,3,alto,2,medio,1,baixo,1,baixo,2,medio
+2678616,too late,sza,19,1,2022-12-08,49262961,0,714,9,0,0,2,716,128,45,35,68,78,0,39,8,1,baixo,2,medio,1,baixo,1,baixo,2,medio,3,alto,1,baixo,3,alto,2,medio
+2578085,low,sza,19,1,2022-12-09,272377463,0,1911,71,23,0,14,1948,145,70,34,55,43,0,16,6,2,medio,3,alto,2,medio,1,baixo,1,baixo,3,alto,2,medio,2,medio,2,medio
+8689972,blind,sza,19,1,2022-12-09,163284000,0,1484,51,22,0,12,1518,114,46,60,28,91,0,21,4,1,baixo,2,medio,1,baixo,2,medio,1,baixo,3,alto,2,medio,3,alto,1,baixo
+6791135,seek  destroy,sza,19,1,2022-12-09,98709329,0,1007,31,5,0,1,1013,152,65,35,65,44,18,21,7,1,baixo,3,alto,2,medio,1,baixo,2,medio,3,alto,3,alto,3,alto,2,medio
+4989276,love language,sza,19,1,2022-12-09,110849052,0,1127,63,16,0,8,1151,65,71,55,26,85,0,13,8,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto,1,baixo,2,medio,2,medio
+4611820,special,sza,19,1,2022-12-09,88092256,0,906,21,6,0,3,915,76,60,19,20,78,0,11,5,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio,2,medio
+7780139,sos,sza,19,1,2022-12-09,73981293,0,827,18,6,0,1,834,119,51,51,66,67,0,9,23,1,baixo,2,medio,1,baixo,2,medio,2,medio,3,alto,1,baixo,1,baixo,3,alto
+2070479,gone girl,sza,19,1,2022-12-09,65362788,0,892,17,3,0,2,897,150,43,42,44,57,0,15,6,1,baixo,3,alto,1,baixo,2,medio,1,baixo,3,alto,2,medio,2,medio,2,medio
+4991676,f2f,sza,19,1,2022-12-09,67540165,0,989,9,5,0,1,995,90,53,47,74,9,0,34,4,1,baixo,1,baixo,1,baixo,2,medio,3,alto,1,baixo,3,alto,3,alto,1,baixo
+2628329,notice me,sza,19,1,2022-12-09,62019074,0,819,22,14,0,0,833,160,72,78,68,28,0,11,12,1,baixo,3,alto,2,medio,3,alto,2,medio,2,medio,2,medio,2,medio,3,alto
+7103818,smoking on my ex pack,sza,19,1,2022-12-09,57144458,0,811,11,6,0,3,820,81,47,33,68,24,0,22,38,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,2,medio,2,medio,3,alto,3,alto
+2587921,conceited,sza,19,1,2022-12-09,56870689,0,899,14,2,0,2,903,150,79,77,46,5,0,11,7,1,baixo,3,alto,3,alto,3,alto,1,baixo,1,baixo,1,baixo,2,medio,2,medio
+5602322,far,sza,19,1,2022-12-09,51641685,0,680,15,2,0,1,683,116,61,48,55,67,0,16,8,1,baixo,2,medio,2,medio,2,medio,1,baixo,3,alto,2,medio,2,medio,2,medio
+7080917,sweet child o mine,guns n roses,1,1,1987-01-01,1553497987,1,41231,151,228,3,6720,48179,125,45,67,90,9,11,10,5,3,alto,2,medio,1,baixo,3,alto,3,alto,2,medio,3,alto,1,baixo,2,medio
+5223297,humble,kendrick lamar,12,1,2017-03-30,1929770265,1,33206,114,284,0,1481,34971,150,91,42,60,0,0,9,12,3,alto,3,alto,3,alto,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto
+8457557,un verano sin ti,bad bunny,19,1,2022-05-06,283332261,1,1004,12,8,0,9,1021,188,50,41,50,69,0,12,6,2,medio,3,alto,1,baixo,2,medio,1,baixo,3,alto,1,baixo,2,medio,2,medio
+1041777,music for a sushi restaurant,harry styles,17,1,2022-05-20,334733572,1,4449,11,80,0,66,4595,107,72,36,72,26,6,11,4,2,medio,2,medio,2,medio,1,baixo,2,medio,2,medio,3,alto,2,medio,1,baixo
+2079115,keep driving,harry styles,17,1,2022-05-20,236060709,1,2094,1,8,0,18,2120,165,72,90,48,32,0,18,23,2,medio,3,alto,2,medio,3,alto,1,baixo,2,medio,2,medio,3,alto,3,alto
+7543802,daydreaming,harry styles,17,1,2022-05-20,187703102,1,1900,1,15,0,23,1938,114,71,90,81,31,2,13,3,2,medio,2,medio,2,medio,3,alto,3,alto,2,medio,3,alto,2,medio,1,baixo
+5400474,san lucas,kevin kaarl,1,1,2019-11-07,244891912,1,407,0,5,0,5,417,92,58,27,36,86,0,9,3,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+8483246,adore you,harry styles,17,1,2019-12-06,1439191367,1,13454,71,246,2,519,14219,99,68,57,77,2,0,10,5,3,alto,1,baixo,2,medio,2,medio,3,alto,1,baixo,2,medio,1,baixo,2,medio
+2977289,golden,harry styles,17,1,2019-12-13,807015863,1,8429,24,85,0,200,8714,140,45,25,84,21,0,13,6,3,alto,3,alto,1,baixo,1,baixo,3,alto,2,medio,1,baixo,2,medio,2,medio
+1640645,eleven,ive,4,1,2021-12-01,247737946,1,521,89,17,0,11,549,120,83,59,73,6,0,5,11,2,medio,2,medio,3,alto,2,medio,2,medio,1,baixo,3,alto,1,baixo,3,alto
+6161550,cupid  twin ver fifty fifty  spe,sped up 8282,1,1,1997-01-01,103762518,2,472,0,0,0,6,478,144,74,75,73,42,0,9,4,1,baixo,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto,1,baixo,1,baixo
+1488746,oi balde  ao vivo,z neto  crist,1,1,2023-02-14,145458418,2,845,57,12,1,47,904,108,67,55,67,60,0,80,5,1,baixo,2,medio,2,medio,2,medio,2,medio,3,alto,3,alto,3,alto,2,medio
+4538543,heaven,niall horan,1,1,2023-02-17,144584800,2,1553,6,61,0,48,1662,92,57,68,76,7,0,33,3,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,1,baixo,3,alto,1,baixo
+7700274,hatihati di jalan,tulus,1,1,2022-03-03,202677468,2,200,4,12,0,0,212,72,64,76,44,70,9,12,4,2,medio,1,baixo,2,medio,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo
+1828295,fim de semana no rio,teto,1,1,2022-03-30,139193812,2,315,2,27,0,31,373,119,87,28,50,12,0,10,10,1,baixo,2,medio,3,alto,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,3,alto
+3076130,jordan,ryan castro,2,1,2021-04-30,394030335,2,2844,2,29,1,35,2908,180,80,71,68,6,0,10,37,2,medio,3,alto,3,alto,3,alto,2,medio,1,baixo,2,medio,1,baixo,3,alto
+6116514,thats hilarious,charlie puth,2,1,2022-04-08,146363130,2,686,6,11,0,12,709,108,71,55,44,74,0,11,6,1,baixo,2,medio,2,medio,2,medio,1,baixo,3,alto,3,alto,2,medio,2,medio
+1840761,yo voy feat daddy yankee,zion  lennox,1,1,2004-05-04,527033089,2,2954,82,18,0,0,2972,95,81,56,70,4,0,5,24,3,alto,1,baixo,3,alto,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto
+2468710,love nwantiti ah ah ah,ckay,1,1,2019-07-26,726837877,2,5669,0,74,14,262,6005,93,74,53,73,61,0,13,4,3,alto,1,baixo,2,medio,2,medio,3,alto,3,alto,2,medio,2,medio,1,baixo
+5459112,permission to dance,bts,8,1,2021-07-09,608334048,2,1801,134,77,0,74,1952,125,70,65,74,1,0,34,4,3,alto,2,medio,2,medio,3,alto,3,alto,1,baixo,3,alto,3,alto,1,baixo
+7173596,about damn time,lizzo,2,1,2022-07-15,723894473,2,9021,49,242,21,272,9535,109,84,72,74,10,0,34,7,3,alto,2,medio,3,alto,3,alto,3,alto,2,medio,3,alto,3,alto,2,medio
+1239958,tv,billie eilish,5,1,2022-07-21,338564981,2,3009,89,68,0,65,3142,141,41,9,25,84,1,14,4,2,medio,3,alto,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+2643038,every summertime,niki,1,1,2021-08-10,290228626,2,1211,2,30,0,5,1246,79,63,76,67,38,0,6,4,2,medio,1,baixo,2,medio,3,alto,2,medio,3,alto,2,medio,1,baixo,1,baixo
+6373026,mary on a cross,ghost,1,1,2019-09-13,387080183,2,2668,266,38,0,78,2784,130,47,56,90,0,0,10,4,2,medio,2,medio,1,baixo,2,medio,3,alto,1,baixo,3,alto,1,baixo,1,baixo
+2635416,memories,maroon 5,1,1,2019-09-20,1759567999,2,9974,67,272,1,1066,11312,91,77,60,32,84,0,8,5,3,alto,1,baixo,3,alto,2,medio,1,baixo,3,alto,1,baixo,1,baixo,2,medio
+5046895,talking to the moon,bruno mars,4,1,2010-10-04,1062956628,2,7109,0,5,0,862,7976,146,52,7,61,51,0,11,3,3,alto,3,alto,1,baixo,1,baixo,2,medio,3,alto,1,baixo,1,baixo,1,baixo
+3146245,youre on your own kid,taylor swift,34,1,2022-10-21,348647203,2,2537,18,8,0,20,2565,120,69,40,39,41,0,13,6,2,medio,2,medio,2,medio,2,medio,1,baixo,3,alto,1,baixo,2,medio,2,medio
+6333549,malas decisiones,kenia os,1,1,2022-10-26,156214700,2,542,2,23,0,21,586,110,81,64,79,5,0,31,3,1,baixo,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,3,alto,1,baixo
+5145584,envolver,anitta,1,1,2021-11-11,546191065,2,4673,113,123,1,180,4976,92,81,40,73,15,0,9,8,3,alto,1,baixo,3,alto,2,medio,2,medio,2,medio,2,medio,1,baixo,2,medio
+6728037,alone,burna boy,2,1,2022-11-04,96007391,2,782,18,27,1,32,841,90,61,32,67,15,0,11,5,1,baixo,1,baixo,2,medio,1,baixo,2,medio,2,medio,1,baixo,2,medio,2,medio
+2797126,caile,luar la l,1,1,2020-12-18,273914335,2,1494,12,17,0,15,1526,122,70,46,76,30,0,9,45,2,medio,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto,1,baixo,3,alto
+6775509,good days,sza,19,1,2020-12-24,826623384,2,10426,109,133,1,182,10741,121,46,53,78,23,0,72,6,3,alto,2,medio,1,baixo,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio
+3305057,wild flower with youjeen,rm,1,1,2022-12-02,135611421,2,353,74,2,0,14,369,155,49,42,77,3,0,12,9,1,baixo,3,alto,1,baixo,2,medio,3,alto,1,baixo,2,medio,2,medio,3,alto
+1776310,im not the only one,sam smith,1,1,2014-01-01,1606986953,3,17492,24,136,0,1959,19587,82,68,50,49,56,0,8,4,3,alto,1,baixo,2,medio,2,medio,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+5750956,drivers license,olivia rodrigo,7,1,2021-01-08,1858144199,3,12685,61,185,0,485,13355,144,59,21,43,76,0,10,7,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,2,medio
+5701355,starlight,dave,1,1,2022-03-03,229473310,3,1856,40,29,1,31,1916,124,95,36,37,35,0,10,28,2,medio,2,medio,3,alto,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,3,alto
+3475077,never felt so alone,labrinth,7,1,2023-04-07,117747907,3,1730,5,46,0,51,1827,98,44,36,41,50,0,38,5,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,3,alto,2,medio
+7435337,freaks,surf curse,1,1,2015-05-10,824420218,3,3006,21,23,0,121,3150,180,35,41,94,0,63,5,5,3,alto,3,alto,1,baixo,2,medio,3,alto,1,baixo,3,alto,1,baixo,2,medio
+1532080,dos mil 16,bad bunny,19,1,2022-05-06,338422004,3,892,24,10,0,11,913,130,82,50,67,12,0,13,5,2,medio,2,medio,3,alto,2,medio,2,medio,2,medio,3,alto,2,medio,2,medio
+2848319,ensame,bad bunny,19,1,2022-05-06,279737940,3,1112,25,7,0,12,1131,105,81,77,79,19,0,47,8,2,medio,1,baixo,3,alto,3,alto,3,alto,2,medio,2,medio,3,alto,2,medio
+5154676,matilda,harry styles,17,1,2022-05-20,366214458,3,3218,10,29,0,79,3326,114,51,39,29,90,0,10,4,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,1,baixo
+5324238,photograph,ed sheeran,9,1,2014-06-20,2236667932,3,18778,105,228,0,2453,21459,108,61,20,38,61,0,10,5,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,2,medio
+4105518,c,rauw alejandro,2,1,2021-06-25,465959382,3,2636,82,36,0,39,2711,102,77,26,63,58,0,11,5,2,medio,1,baixo,3,alto,1,baixo,2,medio,3,alto,2,medio,2,medio,2,medio
+3739389,bohemian rhapsody  remastered 2011,queen,1,1,1975-10-31,2197010679,3,40112,162,321,8,5691,46124,71,41,23,40,27,0,30,5,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,2,medio,3,alto,2,medio
+3023667,sky,playboi carti,1,1,2020-12-25,506778838,3,3297,3,25,0,52,3374,140,79,56,91,26,0,13,21,3,alto,3,alto,3,alto,2,medio,3,alto,2,medio,2,medio,2,medio,3,alto
+4765423,space song,beach house,1,1,2015-01-01,789753877,4,17852,76,69,0,335,18256,147,51,62,79,22,13,14,3,3,alto,3,alto,1,baixo,2,medio,3,alto,2,medio,3,alto,2,medio,1,baixo
+1824533,sial,mahalini,1,1,2023-01-23,166570053,4,134,6,4,0,0,138,120,56,20,43,89,0,12,4,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+6261319,heartbreak anniversary,giveon,1,1,2020-02-21,951637566,4,5398,127,111,0,210,5719,129,61,59,46,56,0,13,5,3,alto,2,medio,2,medio,2,medio,1,baixo,3,alto,2,medio,2,medio,2,medio
+4832204,if we ever broke up,mae stephens,1,1,2023-02-10,165584767,4,2040,27,81,9,66,2187,116,90,96,73,62,0,9,4,1,baixo,2,medio,3,alto,3,alto,3,alto,3,alto,2,medio,1,baixo,1,baixo
+3853127,aint tha,morgan wallen,11,1,2023-03-03,88791109,4,356,20,4,0,0,360,121,64,67,80,0,0,36,3,1,baixo,2,medio,2,medio,3,alto,3,alto,1,baixo,3,alto,3,alto,1,baixo
+1289598,deja vu,olivia rodrigo,7,1,2021-04-01,1256880657,4,7545,39,117,0,141,7803,181,44,22,60,61,0,42,9,3,alto,3,alto,1,baixo,1,baixo,2,medio,3,alto,1,baixo,3,alto,3,alto
+8297242,slut me out,nle choppa,1,1,2022-04-22,190490915,4,816,4,21,0,13,850,121,94,71,61,12,0,53,42,2,medio,2,medio,3,alto,3,alto,2,medio,2,medio,2,medio,3,alto,3,alto
+1593131,beautiful girl,luciano,1,1,2022-04-22,160035717,4,710,11,16,0,18,744,140,84,61,42,31,0,9,9,1,baixo,3,alto,3,alto,2,medio,1,baixo,2,medio,1,baixo,1,baixo,3,alto
+6380084,the hills,the weeknd,21,1,2015-05-27,1947371785,4,25744,94,122,0,1992,27858,136,36,12,57,9,0,14,8,3,alto,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio
+1539892,295,sidhu moose wala,1,1,2021-05-15,183273246,4,246,106,4,0,0,250,90,68,54,76,21,0,11,20,1,baixo,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio,2,medio,3,alto
+7403072,happier,olivia rodrigo,7,1,2021-05-21,850608354,4,3069,46,25,0,105,3199,169,39,36,45,81,0,8,13,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,3,alto
+6402604,thought you should know,morgan wallen,11,1,2022-05-06,203221468,4,968,53,16,0,1,985,140,53,51,70,49,0,14,3,2,medio,3,alto,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio,1,baixo
+2645476,tak ingin usai,keisya levronka,1,1,2022-05-13,184807630,4,220,5,16,0,0,236,130,49,14,40,82,0,11,3,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo
+2059327,sparks,coldplay,3,1,2000-07-10,624101957,4,10826,0,24,0,805,11655,103,37,17,27,75,5,10,3,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+5686736,givenchy,duki,2,1,2022-07-20,185236961,4,625,18,13,0,12,650,103,61,38,62,14,0,23,40,2,medio,1,baixo,2,medio,1,baixo,2,medio,2,medio,3,alto,3,alto,3,alto
+6604479,si te la encuentras por ah,feid,8,1,2022-08-05,179061440,4,1379,10,23,0,18,1420,172,74,46,58,15,0,13,8,1,baixo,3,alto,2,medio,2,medio,2,medio,2,medio,1,baixo,2,medio,2,medio
+4389214,komang,raim laode,1,1,2022-08-16,137123880,4,158,6,5,1,1,164,134,70,35,41,41,0,10,3,1,baixo,3,alto,2,medio,1,baixo,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+8641758,until i found you,stephen sanchez,1,1,2021-09-01,726434358,4,4427,100,69,20,154,4650,202,34,25,51,69,0,18,4,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto,2,medio,3,alto,1,baixo
+8693885,forget me,lewis capaldi,3,1,2022-09-09,239411309,4,2520,95,93,9,84,2697,102,67,72,74,30,0,36,4,2,medio,1,baixo,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto,1,baixo
+2634614,daddy issues,the neighbourhood,3,1,2015-10-30,1127468248,4,9771,70,42,0,384,10197,85,59,33,52,7,15,12,3,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,1,baixo
+2009624,kick back,kenshi yonezu,1,1,2022-10-12,210038833,4,574,101,38,0,26,638,102,58,29,94,0,0,9,11,2,medio,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo,3,alto
+3694791,midnight rain,taylor swift,34,1,2022-10-21,433356509,4,2612,29,19,0,21,2652,140,64,18,37,72,0,12,7,2,medio,3,alto,2,medio,1,baixo,1,baixo,3,alto,2,medio,2,medio,2,medio
+2840055,one thing at a time,morgan wallen,11,1,2022-12-02,148469433,4,811,58,11,0,5,827,142,61,92,91,0,0,26,3,1,baixo,3,alto,1,baixo,3,alto,3,alto,1,baixo,3,alto,3,alto,1,baixo
+2068804,zona de perigo,leo santana,1,1,2022-12-08,134294498,4,531,1,20,2,71,622,135,81,97,77,75,0,35,3,1,baixo,3,alto,3,alto,3,alto,3,alto,3,alto,3,alto,3,alto,1,baixo
+5239763,le,marlia mendo,1,1,2022-12-09,267789608,4,993,84,30,1,88,1111,130,74,79,87,45,0,30,3,2,medio,2,medio,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,1,baixo
+6845168,erro gostoso  ao vivo,simone mendes,1,1,2023-01-27,153454328,5,984,57,8,2,76,1068,154,59,63,89,18,0,80,9,1,baixo,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo,3,alto,3,alto
+1461831,stay alive prod suga of bts,jung kook,2,1,2022-02-11,246376690,5,590,113,4,0,20,614,130,51,50,76,30,0,10,7,2,medio,2,medio,1,baixo,2,medio,3,alto,2,medio,3,alto,1,baixo,2,medio
+3049716,numb,linkin park,2,1,2003-03-24,1361425037,5,20111,0,39,0,7341,27491,110,50,24,86,0,0,64,4,3,alto,2,medio,1,baixo,1,baixo,3,alto,1,baixo,2,medio,3,alto,1,baixo
+4566008,afraid to feel,lf system,1,1,2022-05-02,244790012,5,5898,55,129,0,128,6155,128,58,68,91,2,0,27,11,2,medio,2,medio,1,baixo,3,alto,3,alto,1,baixo,2,medio,3,alto,3,alto
+4505539,satellite,harry styles,17,1,2022-05-20,311482393,5,3291,28,43,0,79,3413,139,58,30,46,14,0,9,3,2,medio,3,alto,1,baixo,1,baixo,1,baixo,2,medio,3,alto,1,baixo,1,baixo
+3745752,dynamite,bts,8,1,2020-08-21,1692897992,5,8528,163,239,0,583,9350,114,75,74,77,1,0,9,10,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,2,medio,1,baixo,3,alto
+6321372,the loneliest,mne,4,1,2022-10-07,225093344,5,1585,65,78,1,328,1991,130,52,24,60,0,0,8,3,2,medio,2,medio,1,baixo,1,baixo,2,medio,1,baixo,3,alto,1,baixo,1,baixo
+2188178,love yourself,justin bieber,3,1,2015-11-09,2123309722,5,22730,87,289,0,2430,25449,100,61,53,38,84,0,28,44,3,alto,1,baixo,1,baixo,2,medio,1,baixo,3,alto,1,baixo,3,alto,3,alto
+6719600,all too well 10 minute version taylors version from the vault,taylor swift,34,1,2021-11-12,583687007,5,4635,49,50,1,30,4715,93,63,21,52,28,0,9,3,3,alto,1,baixo,2,medio,1,baixo,1,baixo,2,medio,2,medio,1,baixo,1,baixo
+4491971,is there someone else,the weeknd,21,1,2022-01-07,391251368,6,2881,89,13,0,34,2928,135,70,60,58,4,0,16,3,2,medio,3,alto,2,medio,2,medio,2,medio,1,baixo,2,medio,2,medio,1,baixo
+3347693,after hours,the weeknd,21,1,2020-02-19,698086140,6,8084,115,45,1,218,8347,109,66,16,57,10,1,12,3,3,alto,2,medio,2,medio,1,baixo,1,baixo,2,medio,3,alto,2,medio,1,baixo
+6387600,call out my name,the weeknd,21,1,2018-03-29,1449799467,6,11087,107,151,1,801,12039,134,45,17,60,21,0,33,4,3,alto,3,alto,1,baixo,1,baixo,2,medio,2,medio,2,medio,3,alto,1,baixo
+6403499,the shade,rex orange county,1,1,2022-03-11,244928911,6,1189,10,17,0,16,1222,120,90,73,51,39,0,9,6,2,medio,2,medio,3,alto,3,alto,1,baixo,3,alto,1,baixo,1,baixo,2,medio
+2820265,thinkin b,morgan wallen,11,1,2023-03-03,125917280,6,604,101,22,0,0,626,140,66,43,76,49,0,12,3,1,baixo,3,alto,2,medio,2,medio,3,alto,3,alto,1,baixo,2,medio,1,baixo
+1168222,atlantis,seafret,1,1,2015-04-22,571386359,6,3045,53,43,1,134,3222,166,40,23,48,5,0,12,3,3,alto,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,1,baixo
+2754241,search  rescue,drake,4,1,2023-04-07,175097833,6,2066,70,58,0,43,2167,142,82,54,44,6,0,33,7,1,baixo,3,alto,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,2,medio
+6554843,good 4 u,olivia rodrigo,7,1,2021-05-14,1887039593,6,15563,55,259,1,461,16283,166,56,68,66,28,0,11,18,3,alto,3,alto,1,baixo,3,alto,2,medio,2,medio,2,medio,2,medio,3,alto
+8452012,butter,bts,8,1,2021-05-21,1143647827,6,4779,135,180,0,223,5182,110,79,70,36,0,0,6,11,3,alto,2,medio,3,alto,3,alto,1,baixo,1,baixo,2,medio,1,baixo,3,alto
+2786767,un ratito,bad bunny,19,1,2022-05-06,417230415,6,1112,30,7,1,13,1132,93,79,22,55,31,0,12,5,2,medio,1,baixo,3,alto,1,baixo,1,baixo,2,medio,2,medio,2,medio,2,medio
+1740150,kahani suno 20,kaifi khalil,1,1,2022-05-31,156777415,6,162,10,1,0,1,164,140,58,26,38,91,0,10,4,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,1,baixo
+2434062,glimpse of us,joji,3,1,2022-06-10,988515741,6,6330,42,109,3,158,6597,170,44,27,32,89,0,14,5,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio,2,medio
+4579313,2 be loved am i ready,lizzo,2,1,2022-07-14,247689123,6,3682,0,41,2,158,3881,156,72,92,77,9,0,8,11,2,medio,3,alto,2,medio,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto
+7890756,the scientist,coldplay,3,1,2002-08-05,1608164312,6,30992,25,124,1,7827,38943,146,56,21,44,73,0,11,2,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+4117642,all of the girls you loved before,taylor swift,34,1,2019-08-23,185240616,6,1282,6,26,0,19,1327,96,72,40,47,71,0,13,4,2,medio,1,baixo,2,medio,2,medio,1,baixo,3,alto,2,medio,2,medio,1,baixo
+4552573,in the end,linkin park,2,1,2000-10-24,1624165576,6,25065,0,63,2,6808,31936,105,55,40,90,1,0,32,6,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,3,alto,2,medio
+4942277,maan meri jaan,king,1,1,2022-10-12,319566866,6,288,80,11,0,1,300,96,70,40,51,35,0,10,4,2,medio,1,baixo,2,medio,2,medio,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+7691321,nxde,gidle,2,1,2022-10-17,170709584,6,430,116,14,0,9,453,136,73,65,91,4,0,48,18,1,baixo,3,alto,2,medio,3,alto,3,alto,1,baixo,2,medio,3,alto,3,alto
+4257818,made you look,meghan trainor,1,1,2022-10-21,502574952,6,3956,23,142,3,127,4225,145,84,88,53,35,0,8,7,3,alto,3,alto,3,alto,3,alto,1,baixo,3,alto,2,medio,1,baixo,2,medio
+2237089,rolling in the deep,adele,4,1,2010-11-29,1472799873,6,35684,125,195,2,6280,42159,105,73,52,76,13,0,5,3,3,alto,1,baixo,2,medio,2,medio,3,alto,2,medio,1,baixo,1,baixo,1,baixo
+7137376,players,coi leray,1,1,2022-11-30,335074782,6,4096,48,118,0,143,4357,105,95,62,52,3,0,5,16,2,medio,1,baixo,3,alto,2,medio,1,baixo,1,baixo,2,medio,1,baixo,3,alto
+3381390,tak segampang itu,anggi marito,1,1,2022-12-02,179659294,6,213,6,7,0,0,220,130,51,18,44,76,0,11,3,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+3923468,nobody gets me,sza,19,1,2022-12-09,284908316,6,2536,100,59,13,58,2653,100,36,28,28,81,0,18,3,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo
+4918126,in da club,50 cent,1,1,2002-01-01,1202722675,7,30427,106,235,1,5221,35883,90,90,79,71,26,0,7,37,3,alto,1,baixo,3,alto,3,alto,2,medio,2,medio,2,medio,1,baixo,3,alto
+3968436,bound 2,kanye west,3,1,2013-01-01,703301727,7,19806,11,33,0,274,20113,149,37,28,66,14,0,9,5,3,alto,3,alto,1,baixo,1,baixo,2,medio,2,medio,3,alto,1,baixo,2,medio
+1014962,dark red,steve lacy,3,1,2017-02-20,920045682,7,10431,53,71,0,181,10683,172,60,77,78,45,0,12,6,3,alto,3,alto,1,baixo,3,alto,3,alto,3,alto,2,medio,2,medio,2,medio
+5864281,heather,conan gray,1,1,2020-03-20,1301799902,7,6170,1,82,0,231,6483,92,47,25,43,62,0,32,3,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,3,alto,1,baixo
+6316146,creep,radiohead,1,1,1992-09-21,1271293243,7,36724,72,146,5,6807,43677,92,53,12,34,1,0,12,4,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,1,baixo
+7662363,shut up my moms calling  sped up,hotel ugly,2,1,2022-09-14,181831132,7,713,4,2,0,6,721,85,65,36,47,31,0,12,10,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,2,medio,2,medio,2,medio,3,alto
+8290102,formula,labrinth,7,1,2019-10-04,554875730,7,3444,85,24,0,102,3570,145,57,23,66,4,6,15,4,3,alto,3,alto,1,baixo,1,baixo,2,medio,1,baixo,3,alto,2,medio,1,baixo
+8584244,i love you so,the walters,1,1,2014-11-28,972164968,7,7536,19,44,0,135,7715,76,58,46,67,65,0,13,4,3,alto,1,baixo,1,baixo,2,medio,2,medio,3,alto,3,alto,2,medio,1,baixo
+7456153,the nights,avicii,2,1,2014-01-01,1456081449,8,17354,122,92,0,1282,18728,126,53,66,85,2,0,24,4,3,alto,2,medio,1,baixo,3,alto,3,alto,1,baixo,1,baixo,3,alto,1,baixo
+1464404,middle of the night,elley duh,1,1,2020-01-10,872137015,8,4057,21,78,1,240,4375,186,41,9,61,2,0,12,5,3,alto,3,alto,1,baixo,1,baixo,2,medio,1,baixo,3,alto,2,medio,2,medio
+8055412,love dive,ive,4,1,2022-04-05,305771063,8,753,124,28,0,13,794,118,70,54,71,0,0,33,4,2,medio,2,medio,2,medio,2,medio,2,medio,1,baixo,1,baixo,3,alto,1,baixo
+4627428,in the stars,benson boone,1,1,2022-04-29,382199619,8,2224,40,48,1,87,2359,78,36,30,54,34,0,14,5,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,2,medio
+2135563,late night talking,harry styles,17,1,2022-05-20,743693613,8,7461,42,166,16,199,7826,115,71,90,73,30,0,11,5,3,alto,2,medio,2,medio,3,alto,3,alto,2,medio,1,baixo,2,medio,2,medio
+6293464,cheques,shubh,1,1,2023-05-19,47956378,8,67,10,7,0,0,74,90,74,36,63,26,0,27,5,1,baixo,1,baixo,2,medio,1,baixo,2,medio,2,medio,3,alto,3,alto,2,medio
+5141433,antes de perderte,duki,2,1,2022-06-02,157136970,8,584,1,12,0,8,604,110,81,61,93,49,0,12,11,1,baixo,2,medio,3,alto,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto
+2352439,ku lo sa  a colors show,oxlade,1,1,2022-06-10,222410722,8,2019,72,117,1,107,2243,93,65,79,66,31,0,22,7,2,medio,1,baixo,2,medio,3,alto,2,medio,2,medio,1,baixo,3,alto,2,medio
+8209238,mi bello angel,natanael cano,1,1,2023-06-30,31873544,8,86,76,7,1,3,96,128,81,90,77,1,0,9,5,1,baixo,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,1,baixo,2,medio
+1203746,bad habits,ed sheeran,9,1,2020-09-03,1555511105,8,12755,97,344,15,945,14044,126,81,59,90,5,0,36,3,3,alto,2,medio,3,alto,2,medio,3,alto,1,baixo,1,baixo,3,alto,1,baixo
+2987008,lavender haze,taylor swift,34,1,2022-10-21,488386797,8,3763,43,51,10,38,3852,97,73,10,44,26,0,16,8,3,alto,1,baixo,2,medio,1,baixo,1,baixo,2,medio,3,alto,2,medio,2,medio
+6721865,todo de ti,rauw alejandro,2,1,2020-11-02,1168642797,8,11975,75,188,6,268,12431,128,81,57,63,40,1,10,4,3,alto,2,medio,3,alto,2,medio,2,medio,3,alto,3,alto,1,baixo,1,baixo
+8262886,iris,the goo goo dolls,1,1,1998-03-31,1284942608,9,13101,5,137,0,582,13820,156,32,49,72,0,0,9,4,3,alto,3,alto,1,baixo,2,medio,2,medio,1,baixo,2,medio,1,baixo,1,baixo
+7989475,remix exclusivo,feid,8,1,2023-03-17,117206995,9,1235,8,20,0,15,1270,87,65,71,56,4,0,15,20,1,baixo,1,baixo,2,medio,3,alto,1,baixo,1,baixo,2,medio,2,medio,3,alto
+7653113,ceilings,lizzy mcalpine,1,1,2022-04-08,293186992,9,3242,55,67,0,48,3357,148,51,27,33,48,0,22,3,2,medio,3,alto,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo
+3575524,you proof,morgan wallen,11,1,2022-05-13,367814306,9,2128,88,37,0,9,2174,120,73,64,85,25,0,61,3,2,medio,2,medio,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto,1,baixo
+5615333,smells like teen spirit  remastered 2021,nirvana,2,1,1991-09-10,1690192927,9,49991,121,265,4,12367,62623,117,52,73,91,0,0,11,7,3,alto,2,medio,1,baixo,3,alto,3,alto,1,baixo,2,medio,2,medio,2,medio
+7429862,angel baby,troye sivan,2,1,2021-09-09,408843328,9,1959,25,52,0,32,2043,145,56,41,57,1,0,13,3,2,medio,3,alto,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,2,medio,1,baixo
+4421880,tacones rojos,sebastian yatra,2,1,2021-10-22,510876816,9,3047,31,77,5,85,3209,123,75,93,86,8,0,14,3,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,1,baixo,2,medio,1,baixo
+4343383,the astronaut,jin,1,1,2022-10-28,203436468,9,481,100,10,1,15,506,125,54,22,76,0,0,14,3,2,medio,2,medio,1,baixo,1,baixo,3,alto,1,baixo,3,alto,2,medio,1,baixo
+3369956,locked out of heaven,bruno mars,4,1,2012-12-05,1481349984,9,1622,0,0,0,356,1978,144,73,87,70,6,0,28,5,3,alto,3,alto,2,medio,3,alto,2,medio,1,baixo,1,baixo,3,alto,2,medio
+3521113,christmas tree,v,1,1,2021-12-24,317622165,9,509,106,8,0,6,523,139,44,18,38,70,0,12,4,2,medio,3,alto,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo
+4299313,shape of you,ed sheeran,9,1,2017-01-06,3562543890,10,32181,0,33,7,6808,39022,96,83,93,65,58,0,9,8,3,alto,1,baixo,3,alto,3,alto,2,medio,3,alto,3,alto,1,baixo,2,medio
+6363032,calm down,r,1,1,2022-02-09,445763624,10,4013,44,107,22,750,4870,107,81,82,78,38,0,12,4,2,medio,2,medio,3,alto,3,alto,3,alto,3,alto,3,alto,2,medio,1,baixo
+8571641,cupid,fifty fifty,2,1,2023-02-24,139681964,10,526,93,15,0,30,571,120,77,94,66,65,0,38,3,1,baixo,2,medio,3,alto,3,alto,2,medio,3,alto,1,baixo,3,alto,1,baixo
+3386819,sobrio,maluma,1,1,2021-07-08,513643924,10,3506,76,103,1,100,3709,178,76,63,77,14,0,15,22,3,alto,3,alto,3,alto,3,alto,3,alto,2,medio,1,baixo,2,medio,3,alto
+1936158,cuff it,beyonc,3,1,2022-07-29,595900742,10,7842,88,215,26,330,8387,115,78,64,69,4,0,7,14,3,alto,2,medio,3,alto,3,alto,2,medio,1,baixo,3,alto,1,baixo,3,alto
+5095829,typa girl,blackpink,3,1,2022-09-16,235549288,10,452,129,2,0,13,467,132,92,53,62,7,0,63,10,2,medio,2,medio,3,alto,2,medio,2,medio,1,baixo,2,medio,3,alto,3,alto
+4812397,cars outside,james arthur,2,1,2019-10-18,265882712,10,794,25,38,0,61,893,150,34,24,56,4,0,11,3,2,medio,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,1,baixo
+3115886,lost,frank ocean,2,1,2012-01-01,822239726,11,29499,27,124,0,587,30210,123,91,49,61,3,0,17,22,3,alto,2,medio,3,alto,2,medio,2,medio,1,baixo,2,medio,3,alto,3,alto
+4974042,a tu merced,bad bunny,19,1,2020-02-29,685071800,11,4214,20,21,0,40,4275,92,86,89,79,17,0,11,6,3,alto,1,baixo,3,alto,3,alto,3,alto,2,medio,3,alto,2,medio,2,medio
+1392259,ojos marrones,lasso,1,1,2022-02-06,263280370,11,795,18,26,1,15,836,120,81,72,65,4,0,14,4,2,medio,2,medio,3,alto,3,alto,2,medio,1,baixo,3,alto,2,medio,1,baixo
+6348243,chale,eden mu,1,1,2022-02-18,299648208,11,695,41,16,1,13,724,189,55,86,44,40,0,7,4,2,medio,3,alto,1,baixo,3,alto,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+3054476,better than revenge taylors version,taylor swift,34,1,2023-07-07,30343206,11,86,33,3,0,3,92,146,50,67,89,0,0,19,8,1,baixo,3,alto,1,baixo,3,alto,3,alto,1,baixo,2,medio,3,alto,2,medio
+2061546,revenge,xxxtentacion,2,1,2017-08-25,1022258230,11,3600,0,7,0,203,3810,140,75,18,25,78,0,11,26,3,alto,3,alto,3,alto,1,baixo,1,baixo,3,alto,1,baixo,2,medio,3,alto
+3509026,when i was your man,bruno mars,4,1,2012-12-05,1661187319,11,2420,0,0,0,806,3226,145,60,43,27,94,0,14,4,3,alto,3,alto,1,baixo,2,medio,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+1471634,softcore,the neighbourhood,3,1,2018-03-09,599770206,12,3947,102,33,0,93,4073,94,57,36,58,5,0,15,3,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,1,baixo
+8499304,fast car,luke combs,1,1,2023-03-24,157058870,12,1446,97,57,0,35,1538,98,71,67,60,19,0,12,3,1,baixo,1,baixo,2,medio,3,alto,2,medio,2,medio,2,medio,2,medio,1,baixo
+3090144,you belong with me taylors ve,taylor swift,34,1,2021-04-09,350381515,12,2619,90,47,0,1,2667,130,63,49,73,5,0,9,3,2,medio,2,medio,2,medio,2,medio,2,medio,1,baixo,2,medio,1,baixo,1,baixo
+6107898,something in the orange,zach bryan,1,1,2022-04-22,449701773,12,3282,84,67,16,46,3395,110,59,22,38,42,0,12,3,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+1442233,haegeum,agust d,1,1,2023-04-21,118810253,12,244,84,6,2,10,260,85,70,83,84,31,0,47,30,1,baixo,1,baixo,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto,3,alto
+4502825,super,seventeen,1,1,2023-04-24,91221625,12,271,103,16,0,9,296,137,77,35,88,16,0,17,9,1,baixo,3,alto,3,alto,1,baixo,3,alto,2,medio,1,baixo,2,medio,3,alto
+8555295,last last,burna boy,2,1,2022-05-12,293466523,12,4526,275,156,3,150,4832,88,80,55,56,13,0,8,9,2,medio,1,baixo,3,alto,2,medio,1,baixo,2,medio,1,baixo,1,baixo,3,alto
+4334346,bad habit,steve lacy,3,1,2022-06-29,822633917,12,8186,72,155,16,131,8472,169,69,69,51,63,0,38,4,3,alto,3,alto,2,medio,3,alto,1,baixo,3,alto,2,medio,3,alto,1,baixo
+5724140,attention,newjeans,6,1,2022-08-01,264717480,12,799,141,14,0,9,822,105,81,70,65,24,0,8,4,2,medio,1,baixo,3,alto,3,alto,2,medio,2,medio,3,alto,1,baixo,1,baixo
+2357691,after like,ive,4,1,2022-08-22,265548837,12,767,129,20,0,11,798,125,68,80,92,10,0,9,12,2,medio,2,medio,2,medio,3,alto,3,alto,2,medio,2,medio,1,baixo,3,alto
+5283123,prohibidox,feid,8,1,2022-09-13,185392587,12,1473,36,25,1,25,1523,180,65,52,80,5,0,6,25,2,medio,3,alto,2,medio,2,medio,3,alto,1,baixo,3,alto,1,baixo,3,alto
+4492232,antifragile,le sserafim,2,1,2022-10-17,301051721,12,761,95,23,0,11,795,105,88,82,80,8,0,11,8,2,medio,1,baixo,3,alto,3,alto,3,alto,1,baixo,2,medio,2,medio,2,medio
+2008299,just the way you are,bruno mars,4,1,2010-01-01,1641426668,13,21106,0,82,0,2946,24134,109,63,46,85,1,0,9,5,3,alto,2,medio,2,medio,2,medio,3,alto,1,baixo,1,baixo,1,baixo,2,medio
+8580552,demons,imagine dragons,3,1,2012-01-01,1840364617,13,26694,82,65,4,3425,30184,180,33,38,71,20,0,28,5,3,alto,3,alto,1,baixo,1,baixo,2,medio,2,medio,2,medio,3,alto,2,medio
+2031309,shake it off,taylor swift,34,1,2014-01-01,1113838873,13,21335,70,328,9,1378,23041,160,65,95,80,5,0,41,16,3,alto,3,alto,2,medio,3,alto,3,alto,1,baixo,2,medio,3,alto,3,alto
+8213022,unstoppable,sia,2,1,2016-01-21,939844851,13,7681,66,119,2,1145,8945,174,47,27,78,11,0,10,8,3,alto,3,alto,1,baixo,1,baixo,3,alto,2,medio,3,alto,1,baixo,2,medio
+3253565,perfect,ed sheeran,9,1,2017-01-01,2559529074,13,16596,0,7,0,2094,18697,95,60,17,45,16,0,11,2,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,2,medio,2,medio,1,baixo
+1961503,save your tears,the weeknd,21,1,2020-03-20,1591223784,13,12688,115,197,0,112,12997,118,68,61,82,2,0,50,3,3,alto,2,medio,2,medio,2,medio,3,alto,1,baixo,1,baixo,3,alto,1,baixo
+8513259,set me free pt2,jimin,3,1,2023-03-17,168448603,13,340,71,4,1,16,360,132,59,56,82,12,0,12,6,1,baixo,2,medio,1,baixo,2,medio,3,alto,2,medio,1,baixo,2,medio,2,medio
+8987545,lovers rock,tv girl,1,1,2014-06-05,466231982,13,6339,1,3,1,36,6378,105,56,57,87,0,1,10,4,2,medio,1,baixo,1,baixo,2,medio,3,alto,1,baixo,3,alto,1,baixo,1,baixo
+2320654,money,lisa,1,1,2021-09-10,863625566,13,2566,109,44,0,131,2741,140,83,40,55,16,0,14,23,3,alto,3,alto,3,alto,2,medio,1,baixo,2,medio,3,alto,2,medio,3,alto
+3910891,just wanna rock,lil uzi vert,1,1,2022-10-17,457184829,13,3995,27,72,0,47,4114,150,49,4,55,7,0,6,3,2,medio,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,1,baixo
+4341380,shut up my moms calling,hotel ugly,2,1,2020-02-10,405136812,14,1788,50,1,0,19,1808,139,48,37,41,32,0,10,10,2,medio,3,alto,1,baixo,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto
+8251078,those eyes,new west,1,1,2019-05-10,411747614,14,1507,71,24,1,44,1575,120,60,24,35,73,0,31,3,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo
+5865058,Não identificado,fujii kaze,1,1,2020-05-20,403097450,14,685,94,24,0,9,718,158,60,52,76,17,0,19,5,2,medio,3,alto,1,baixo,2,medio,3,alto,2,medio,1,baixo,3,alto,2,medio
+6776344,bye,peso pluma,2,1,2023-05-26,95053634,14,324,110,13,2,8,345,122,78,70,81,57,0,10,5,1,baixo,2,medio,3,alto,3,alto,3,alto,3,alto,2,medio,1,baixo,2,medio
+6250958,have you ever seen the rain,creedence clearwater revival,1,1,1968-07-01,1145727611,14,15890,37,71,0,653,16614,116,74,76,70,7,0,13,3,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo,2,medio,2,medio,1,baixo
+4635311,after dark,mrkitty,1,1,2014-08-08,646886885,14,1776,9,1,0,3,1780,140,58,4,60,7,41,8,3,3,alto,3,alto,1,baixo,1,baixo,2,medio,1,baixo,3,alto,1,baixo,1,baixo
+8173823,spit in my face,thxsomch,1,1,2022-10-31,303216294,14,629,0,1,0,18,648,166,70,57,57,9,20,11,7,2,medio,3,alto,2,medio,2,medio,1,baixo,1,baixo,3,alto,2,medio,2,medio
+7517093,i am,ive,4,1,2023-04-10,123132751,15,366,102,16,0,7,389,122,68,38,88,1,0,8,5,1,baixo,2,medio,2,medio,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,2,medio
+8943060,mine taylors version,taylor swift,34,1,2023-07-07,36912123,15,99,52,21,1,6,126,121,65,49,78,0,0,17,4,1,baixo,2,medio,2,medio,2,medio,3,alto,1,baixo,2,medio,2,medio,1,baixo
+8803071,how do i say goodbye,dean lewis,1,1,2022-08-05,284785823,15,2163,97,72,0,58,2293,82,40,39,64,21,0,7,7,2,medio,1,baixo,1,baixo,1,baixo,2,medio,2,medio,3,alto,1,baixo,2,medio
+1512850,mr brightside,the killers,1,1,2003-09-23,1806617704,15,51979,99,306,2,5063,57348,148,35,24,93,0,0,10,8,3,alto,3,alto,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,2,medio
+3412305,somewhere only we know,keane,1,1,2004-01-01,1089402494,16,20015,69,107,0,5239,25361,172,45,33,59,6,0,8,3,3,alto,3,alto,1,baixo,1,baixo,2,medio,1,baixo,2,medio,1,baixo,1,baixo
+6735267,enchanted,taylor swift,34,1,2010-01-01,621660989,16,4564,101,24,0,113,4701,164,45,24,62,8,0,16,3,3,alto,3,alto,1,baixo,1,baixo,2,medio,1,baixo,2,medio,2,medio,1,baixo
+2023447,trustfall,pnk,1,1,2023-01-27,134255790,16,2098,24,88,7,101,2287,122,64,25,89,0,0,15,9,1,baixo,2,medio,2,medio,1,baixo,3,alto,1,baixo,3,alto,2,medio,3,alto
+2153574,ya no somos ni seremos,christian nodal,1,1,2022-02-18,319757142,16,866,84,27,7,32,925,140,59,73,45,44,0,34,3,2,medio,3,alto,1,baixo,3,alto,1,baixo,3,alto,2,medio,3,alto,1,baixo
+6720570,Não identificado,yoasobi,1,1,2023-04-12,143573775,16,356,102,35,1,8,399,166,57,84,94,11,0,37,9,1,baixo,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo,3,alto,3,alto
+2020928,circles,post malone,3,1,2019-08-30,2132335812,16,19664,73,391,3,633,20688,120,70,59,75,24,0,9,4,3,alto,2,medio,2,medio,2,medio,3,alto,2,medio,1,baixo,1,baixo,1,baixo
+2122853,pink venom,blackpink,3,1,2022-08-19,551305895,16,1963,119,57,1,77,2097,90,80,71,69,2,0,27,10,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo,3,alto,3,alto,3,alto
+7587856,say you wont let go,james arthur,2,1,2016-09-09,2420461338,16,15722,37,231,0,1509,17462,99,40,45,56,69,0,9,5,3,alto,1,baixo,1,baixo,2,medio,1,baixo,3,alto,1,baixo,1,baixo,2,medio
+5300224,sex drugs etc,beach weather,1,1,2016-11-04,480507035,16,3006,60,47,12,87,3140,144,57,47,84,1,1,52,4,2,medio,3,alto,1,baixo,2,medio,3,alto,1,baixo,3,alto,3,alto,1,baixo
+1323431,apocalypse,cigarettes after sex,1,1,2017-03-21,841749534,17,13091,96,61,2,790,13942,94,37,17,47,2,46,11,3,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,1,baixo
+4365318,pepas,farruko,1,1,2021-06-24,1309887447,17,14114,109,252,20,965,15331,130,76,44,77,1,0,13,3,3,alto,2,medio,3,alto,2,medio,3,alto,1,baixo,1,baixo,2,medio,1,baixo
+6063105,back to december taylors version,taylor swift,34,1,2023-07-07,39228929,17,139,72,16,0,5,160,142,50,20,64,1,0,12,3,1,baixo,3,alto,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,2,medio,1,baixo
+7166872,hype boy,newjeans,6,1,2022-08-01,363472647,17,892,119,20,2,12,924,100,59,78,94,27,0,29,23,2,medio,1,baixo,1,baixo,3,alto,3,alto,2,medio,3,alto,3,alto,3,alto
+5904115,shut down,blackpink,3,1,2022-09-16,482175240,17,1524,120,53,0,62,1639,110,82,67,69,0,0,18,4,3,alto,2,medio,3,alto,3,alto,2,medio,1,baixo,2,medio,3,alto,1,baixo
+7451979,take on me,aha,1,1,1984-10-19,1479115056,17,44927,0,34,6,5108,50069,84,57,86,90,2,0,9,5,3,alto,1,baixo,1,baixo,3,alto,3,alto,1,baixo,3,alto,1,baixo,2,medio
+6320673,reminder,the weeknd,21,1,2016-11-25,684675814,17,6518,85,45,1,238,6801,160,71,40,50,16,0,16,22,3,alto,3,alto,2,medio,2,medio,1,baixo,2,medio,2,medio,2,medio,3,alto
+5615912,la bebe,yng lvcas,1,1,2021-12-24,191945597,17,489,11,4,1,5,498,170,78,75,46,62,0,12,35,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,1,baixo,2,medio,3,alto
+5675634,snap,rosa linn,1,1,2022-03-19,726307468,18,3202,80,148,24,226,3576,170,56,53,64,11,0,45,6,3,alto,3,alto,1,baixo,2,medio,2,medio,2,medio,1,baixo,3,alto,2,medio
+4837745,flower,jisoo,1,1,2023-03-31,232896922,18,839,110,20,0,20,879,124,84,64,39,3,0,11,4,2,medio,2,medio,3,alto,3,alto,1,baixo,1,baixo,2,medio,2,medio,1,baixo
+3132809,no se va,grupo frontera,1,1,2022-04-28,404887295,18,924,80,17,9,22,963,173,59,69,53,12,0,23,3,2,medio,3,alto,1,baixo,3,alto,1,baixo,2,medio,2,medio,3,alto,1,baixo
+7806612,gasolina,daddy yankee,2,1,2004-07-13,657723613,18,6457,95,98,0,453,7008,96,86,74,80,33,0,8,6,3,alto,1,baixo,3,alto,3,alto,3,alto,3,alto,2,medio,1,baixo,2,medio
+4795987,night changes,one direction,1,1,2014-11-17,1131090940,18,7124,20,60,0,2,7186,120,67,40,52,86,0,12,4,3,alto,2,medio,2,medio,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+6552512,every breath you take  remastered 2003,the police,1,1,1983-01-06,1593270737,19,22439,74,211,0,929,23579,117,82,73,45,54,0,7,3,3,alto,2,medio,3,alto,3,alto,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+3252628,last night,morgan wallen,11,1,2023-01-31,429829812,19,2420,107,52,1,15,2487,204,52,52,68,46,0,15,4,2,medio,3,alto,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio,1,baixo
+7881394,like crazy english version,jimin,3,1,2023-03-24,173627354,19,373,72,4,0,5,382,120,62,32,76,0,0,39,4,1,baixo,2,medio,2,medio,1,baixo,3,alto,1,baixo,1,baixo,3,alto,1,baixo
+3451143,sure thing,miguel,1,1,2010-05-25,950906471,19,13801,125,137,6,435,14373,81,68,51,60,3,0,19,10,3,alto,1,baixo,2,medio,2,medio,2,medio,1,baixo,3,alto,3,alto,3,alto
+1611239,let me down slowly,alec benjamin,1,1,2018-05-25,1374581173,19,5897,0,0,0,885,6782,150,65,51,55,73,0,14,3,3,alto,3,alto,2,medio,2,medio,1,baixo,3,alto,3,alto,2,medio,1,baixo
+1274739,sclass,stray kids,2,1,2023-06-02,65496046,19,290,101,9,0,5,304,105,89,67,78,9,0,7,33,1,baixo,1,baixo,3,alto,3,alto,3,alto,2,medio,3,alto,1,baixo,3,alto
+5106082,angels like you,miley cyrus,2,1,2020-11-27,570515054,19,3372,48,65,1,138,3575,122,67,49,64,10,0,10,3,3,alto,2,medio,2,medio,2,medio,2,medio,2,medio,2,medio,1,baixo,1,baixo
+5673293,murder in my mind,kordhell,1,1,2022-01-21,448843705,20,2459,68,20,0,50,2529,120,71,57,97,1,0,13,11,2,medio,2,medio,2,medio,2,medio,3,alto,1,baixo,1,baixo,2,medio,3,alto
+4847849,corazn va,maria becerra,1,1,2023-06-22,43857627,20,370,16,12,4,18,400,98,68,40,79,33,0,30,6,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto,3,alto,3,alto,2,medio
+7732446,easy on me,adele,4,1,2021-10-14,1406111294,20,10195,87,258,22,657,11110,142,60,13,37,58,0,13,3,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo
+5073649,let go,central cee,2,1,2022-12-15,298063749,20,2301,23,49,0,110,2460,146,74,51,45,86,0,21,38,2,medio,3,alto,2,medio,2,medio,1,baixo,3,alto,2,medio,3,alto,3,alto
+6766942,lose yourself  soundtrack version,eminem,4,1,2002-01-01,1829992958,21,32502,54,247,1,5567,38316,171,70,6,73,1,0,36,26,3,alto,3,alto,2,medio,1,baixo,2,medio,1,baixo,2,medio,3,alto,3,alto
+1078549,el gordo trae el mando,chino pacas,1,1,2023-01-27,255932395,21,539,71,7,2,4,550,140,74,96,80,18,0,5,5,2,medio,3,alto,2,medio,3,alto,3,alto,2,medio,1,baixo,1,baixo,2,medio
+7724259,fuera del mercado,danny ocean,1,1,2022-02-17,421365166,21,2499,24,68,1,43,2610,92,45,27,67,32,0,13,14,2,medio,1,baixo,1,baixo,1,baixo,2,medio,2,medio,3,alto,2,medio,3,alto
+4495422,dandelions,ruth b,1,1,2017-04-28,1116995633,21,3423,100,41,1,59,3523,117,61,45,69,2,0,9,3,3,alto,2,medio,1,baixo,2,medio,2,medio,1,baixo,2,medio,1,baixo,1,baixo
+2395685,wanda,quevedo,4,1,2023-01-20,175399345,22,888,24,11,1,7,906,176,72,96,63,25,0,21,7,1,baixo,3,alto,2,medio,3,alto,2,medio,2,medio,3,alto,3,alto,2,medio
+6556428,august,taylor swift,34,1,2020-07-24,607123776,22,7324,81,25,1,61,7410,90,51,42,61,53,0,9,3,3,alto,1,baixo,1,baixo,2,medio,2,medio,3,alto,1,baixo,1,baixo,1,baixo
+5279142,ditto,newjeans,6,1,2022-12-19,397582059,22,1154,125,28,1,11,1193,134,81,18,64,3,0,10,11,2,medio,3,alto,3,alto,1,baixo,2,medio,1,baixo,3,alto,1,baixo,3,alto
+1729982,lover,taylor swift,34,1,2012-01-01,882831184,23,8448,110,160,0,163,8771,206,43,50,55,50,0,15,10,3,alto,3,alto,1,baixo,2,medio,1,baixo,3,alto,1,baixo,2,medio,3,alto
+4181228,believer,imagine dragons,3,1,2017-01-31,2594040133,23,18986,121,250,10,2969,22205,125,77,74,78,4,0,23,11,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,1,baixo,3,alto,3,alto
+5898111,here with me,d4vd,2,1,2022-07-17,635412045,23,3246,85,94,1,68,3408,132,58,27,48,50,0,12,3,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo
+8013969,romantic homicide,d4vd,2,1,2022-07-20,681583126,23,2335,55,82,0,50,2467,132,56,20,55,45,1,32,3,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo
+7370086,karma,taylor swift,34,1,2022-10-21,404562836,23,3818,55,37,0,32,3887,90,64,10,62,7,0,48,7,2,medio,1,baixo,2,medio,1,baixo,2,medio,1,baixo,1,baixo,3,alto,2,medio
+5821993,dont bl,taylor swift,34,1,2017-11-08,685032533,23,4875,45,19,0,0,4894,136,62,19,53,11,0,6,4,3,alto,3,alto,2,medio,1,baixo,1,baixo,2,medio,2,medio,1,baixo,1,baixo
+1743307,cupido,tini,1,1,2023-02-14,217672943,24,1240,29,51,4,63,1354,120,91,63,58,52,0,31,22,2,medio,2,medio,3,alto,3,alto,1,baixo,3,alto,1,baixo,3,alto,3,alto
+6698200,ghost,justin bieber,3,1,2021-03-19,1167330737,24,5866,38,107,0,95,6068,154,61,41,74,21,0,40,6,3,alto,3,alto,1,baixo,2,medio,3,alto,2,medio,1,baixo,3,alto,2,medio
+3739768,por las noches,peso pluma,2,1,2021-06-11,330346424,24,457,116,8,3,4,469,92,81,39,60,31,0,7,3,2,medio,1,baixo,3,alto,1,baixo,2,medio,2,medio,1,baixo,1,baixo,1,baixo
+6801500,enchanted taylors version,taylor swift,34,1,2023-07-07,39578178,24,148,93,32,2,8,188,82,51,22,53,1,0,15,3,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,2,medio,1,baixo
+6163158,before you go,lewis capaldi,3,1,2019-11-01,1608045237,24,8327,130,205,0,625,9157,112,45,19,60,63,0,9,6,3,alto,2,medio,1,baixo,1,baixo,2,medio,3,alto,2,medio,1,baixo,2,medio
+6158916,metamorphosis,interworld,1,1,2021-11-25,357580552,24,1561,78,18,0,24,1603,175,59,15,64,43,90,12,10,2,medio,3,alto,1,baixo,1,baixo,2,medio,3,alto,3,alto,2,medio,3,alto
+8965193,everybody wants to rule the world,tears for fears,1,1,1985-02-17,1205951614,25,41751,32,101,0,2655,44507,112,64,54,81,36,0,11,6,3,alto,2,medio,2,medio,2,medio,3,alto,3,alto,1,baixo,2,medio,2,medio
+4148996,what it is solo version,doechii,1,1,2023-03-17,95131998,25,804,76,29,0,24,857,172,74,76,76,6,0,10,9,1,baixo,3,alto,2,medio,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto
+7750995,505,arctic monkeys,4,1,2007-04-20,1217120710,25,13985,80,30,1,588,14603,140,52,20,85,0,0,7,5,3,alto,3,alto,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,2,medio
+4311407,snooze,sza,19,1,2022-12-09,399686758,25,2839,156,58,1,42,2939,143,56,39,55,14,0,11,13,2,medio,3,alto,1,baixo,1,baixo,1,baixo,2,medio,2,medio,2,medio,3,alto
+2664577,do i wanna know,arctic monkeys,4,1,2013-01-01,1788326445,26,33783,92,133,1,2733,36649,85,55,42,53,17,0,22,3,3,alto,1,baixo,1,baixo,2,medio,1,baixo,2,medio,2,medio,3,alto,1,baixo
+7510507,sabor fresa,fuerza regida,2,1,2023-06-22,78300654,26,250,149,16,5,10,276,130,79,96,86,9,0,9,9,1,baixo,2,medio,3,alto,3,alto,3,alto,2,medio,1,baixo,1,baixo,3,alto
+3153550,under the influence,chris brown,1,1,2019-10-04,929964809,26,3859,181,133,0,3,3995,117,73,31,69,6,0,11,4,3,alto,2,medio,2,medio,1,baixo,2,medio,1,baixo,1,baixo,2,medio,1,baixo
+2670198,the real slim shady,eminem,4,1,2000-01-01,1424589568,27,20763,53,81,1,3271,24115,104,95,78,66,3,0,4,6,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo,1,baixo,1,baixo,2,medio
+2437608,omg,newjeans,6,1,2023-01-02,430977451,27,1783,124,26,1,15,1824,127,80,74,77,36,0,11,4,2,medio,2,medio,3,alto,3,alto,3,alto,3,alto,2,medio,2,medio,1,baixo
+2698226,primera cita,carin leon,1,1,2022-04-20,77309611,27,266,40,6,6,6,278,158,54,50,40,61,0,10,6,1,baixo,3,alto,1,baixo,2,medio,1,baixo,3,alto,1,baixo,1,baixo,2,medio
+4890651,nonsense,sabrina carpenter,1,1,2022-07-15,342897938,27,2346,12,69,8,38,2453,139,74,68,68,3,0,26,4,2,medio,3,alto,2,medio,3,alto,2,medio,1,baixo,2,medio,3,alto,2,medio
+2166194,un coco,bad bunny,19,1,2022-05-06,403231558,28,1029,28,5,0,9,1043,152,84,74,69,21,0,18,6,2,medio,3,alto,3,alto,3,alto,2,medio,2,medio,2,medio,3,alto,2,medio
+7070604,tqm,fuerza regida,2,1,2023-05-19,176553476,28,584,159,16,6,15,615,125,79,96,85,27,0,11,6,1,baixo,2,medio,3,alto,3,alto,3,alto,2,medio,1,baixo,2,medio,2,medio
+3365981,yonaguni,bad bunny,19,1,2021-06-04,1260594497,28,9644,86,120,4,164,9928,180,64,44,65,28,0,14,12,3,alto,3,alto,2,medio,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto
+5999455,whyd you only call me when youre high,arctic monkeys,4,1,2013-01-01,1267333350,29,23389,70,54,2,1089,24532,92,70,81,63,4,0,8,4,3,alto,1,baixo,2,medio,3,alto,2,medio,1,baixo,2,medio,1,baixo,2,medio
+6136667,acrs,shakira,1,1,2023-05-11,123124076,29,955,50,37,11,79,1071,144,75,35,48,84,0,10,12,1,baixo,3,alto,2,medio,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,3,alto
+2685773,cardigan,taylor swift,34,1,2020-07-24,812019557,29,7923,112,106,4,142,8171,130,61,53,58,55,0,27,4,3,alto,2,medio,2,medio,2,medio,2,medio,3,alto,1,baixo,3,alto,1,baixo
+1956320,eyes closed,ed sheeran,9,1,2023-03-23,195576623,30,2915,69,116,3,107,3138,107,78,39,53,30,0,11,6,2,medio,1,baixo,3,alto,1,baixo,1,baixo,2,medio,3,alto,2,medio,2,medio
+6133453,neverita,bad bunny,19,1,2022-05-06,671365962,30,2590,64,20,6,35,2645,122,88,43,50,7,0,14,5,3,alto,2,medio,3,alto,2,medio,1,baixo,1,baixo,2,medio,2,medio,2,medio
+2939499,ferxxo 100,feid,8,1,2022-06-03,278920007,30,1647,49,20,2,23,1690,164,70,58,57,25,0,15,7,2,medio,3,alto,2,medio,2,medio,1,baixo,2,medio,3,alto,2,medio,2,medio
+8897005,pink  white,frank ocean,2,1,2016-08-20,806397070,30,21574,68,112,1,266,21952,160,54,54,55,67,0,42,11,3,alto,3,alto,1,baixo,2,medio,1,baixo,3,alto,1,baixo,3,alto,3,alto
+1774478,shivers,ed sheeran,9,1,2021-09-09,1302184087,30,10147,71,234,18,543,10924,141,79,82,86,28,0,4,9,3,alto,3,alto,3,alto,3,alto,3,alto,2,medio,2,medio,1,baixo,3,alto
+7256696,take me to church,hozier,1,1,2013-09-13,2135158446,31,23804,99,187,1,4623,28614,129,57,41,66,63,0,12,5,3,alto,2,medio,1,baixo,2,medio,2,medio,3,alto,1,baixo,2,medio,2,medio
+3170547,una noche en medell,cris mj,1,1,2022-01-21,682475162,32,5415,16,46,1,53,5514,96,87,82,53,10,0,5,8,3,alto,1,baixo,3,alto,3,alto,1,baixo,2,medio,1,baixo,1,baixo,2,medio
+8465611,the color violet,tory lanez,1,1,2021-12-10,415932686,32,2585,79,3,1,21,2609,105,65,46,53,16,0,9,5,2,medio,1,baixo,2,medio,2,medio,1,baixo,2,medio,1,baixo,1,baixo,2,medio
+1621586,efecto,bad bunny,19,1,2022-05-06,1047480053,33,4004,65,34,6,43,4081,98,80,23,48,14,0,6,5,3,alto,1,baixo,3,alto,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,2,medio
+1459555,moscow mule,bad bunny,19,1,2022-05-06,909001996,33,4572,113,74,9,85,4731,100,80,29,67,29,0,12,3,3,alto,1,baixo,3,alto,1,baixo,2,medio,2,medio,3,alto,2,medio,1,baixo
+1121286,queencard,gidle,2,1,2023-05-15,96273746,33,451,126,10,0,7,468,130,82,69,83,3,0,27,5,1,baixo,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,3,alto,2,medio
+5757514,despech,rosal,2,1,2022-07-28,782369383,33,7613,90,180,15,422,8215,130,92,78,62,18,0,6,10,3,alto,2,medio,3,alto,3,alto,2,medio,2,medio,2,medio,1,baixo,3,alto
+8455676,heartless,kanye west,3,1,2008-01-01,887906111,34,17504,39,63,0,1315,18882,88,79,66,65,5,0,25,14,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo,1,baixo,3,alto,3,alto
+7405938,wake me up  radio edit,avicii,2,1,2013-01-01,1970673297,34,50887,160,315,1,6284,57486,124,53,66,78,0,0,16,5,3,alto,2,medio,1,baixo,3,alto,3,alto,1,baixo,2,medio,2,medio,2,medio
+6966778,provenza,karol g,4,1,2022-04-21,885093467,34,6587,104,114,11,147,6848,111,87,53,52,66,1,11,5,3,alto,2,medio,3,alto,2,medio,1,baixo,3,alto,3,alto,2,medio,2,medio
+3875589,vista al mar,quevedo,4,1,2022-09-08,362361576,34,1769,19,16,3,21,1806,105,76,49,56,80,12,10,13,2,medio,1,baixo,3,alto,2,medio,1,baixo,3,alto,3,alto,1,baixo,3,alto
+3869741,watermelon sugar,harry styles,17,1,2019-11-17,2322580122,34,21915,115,437,12,1212,23564,95,55,56,82,12,0,34,5,3,alto,1,baixo,1,baixo,2,medio,3,alto,2,medio,1,baixo,3,alto,2,medio
+1630789,the night we met,lord huron,1,1,2015-02-02,1410088830,35,18515,82,70,1,939,19524,174,45,10,37,97,25,64,4,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo
+1397395,mientras me curo del cora,karol g,4,1,2023-02-24,206399629,35,1020,26,15,6,30,1065,80,52,57,48,86,0,15,39,2,medio,1,baixo,1,baixo,2,medio,1,baixo,3,alto,2,medio,2,medio,3,alto
+4928987,new jeans,newjeans,6,1,2023-07-07,29562220,35,77,166,8,4,4,89,134,81,53,72,51,0,12,5,1,baixo,3,alto,3,alto,2,medio,2,medio,3,alto,2,medio,2,medio,2,medio
+7502400,cmo dormi,rels b,1,1,2022-08-04,331511413,35,1452,15,16,0,20,1488,126,63,56,43,24,0,12,23,2,medio,2,medio,2,medio,2,medio,1,baixo,2,medio,3,alto,2,medio,3,alto
+8471078,punto g,quevedo,4,1,2022-11-04,381161027,35,1985,26,34,5,37,2056,92,75,55,76,25,0,10,15,2,medio,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio,1,baixo,3,alto
+6057014,es un secreto,plan b,1,1,2010-07-20,540654286,36,492,3,4,0,19,515,95,84,52,77,12,0,7,4,3,alto,1,baixo,3,alto,2,medio,3,alto,2,medio,1,baixo,1,baixo,1,baixo
+6286315,normal,feid,8,1,2022-07-08,459276435,36,2461,66,47,5,45,2553,170,71,59,56,4,0,27,12,2,medio,3,alto,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto
+3183051,golden hour,jvke,2,1,2022-07-15,751134527,36,4511,58,70,18,109,4690,94,51,14,59,65,18,25,3,3,alto,1,baixo,1,baixo,1,baixo,2,medio,3,alto,3,alto,3,alto,1,baixo
+4487095,overdrive,post malone,3,1,2023-07-14,14780425,36,410,32,36,1,31,477,140,56,48,73,0,0,35,4,1,baixo,3,alto,1,baixo,2,medio,3,alto,1,baixo,2,medio,3,alto,1,baixo
+8189388,no role modelz,j cole,1,1,2014-12-09,1791000570,36,21164,65,80,0,476,21720,100,70,47,52,30,0,6,33,3,alto,1,baixo,2,medio,2,medio,1,baixo,2,medio,1,baixo,1,baixo,3,alto
+1054764,chorrito pa las animas,feid,8,1,2022-12-02,345031710,36,2321,65,29,5,34,2384,96,74,61,83,11,0,35,6,2,medio,1,baixo,2,medio,2,medio,3,alto,2,medio,3,alto,3,alto,2,medio
+7529779,i can see you taylors version from the,taylor swift,34,1,2023-07-07,52135248,38,516,119,73,1,42,631,123,69,82,76,6,0,6,3,1,baixo,2,medio,2,medio,3,alto,3,alto,1,baixo,1,baixo,1,baixo,1,baixo
+7783887,feliz cumpleaos fe,feid,8,1,2022-08-19,601863821,38,3430,69,45,4,52,3527,95,87,57,55,10,0,29,7,3,alto,1,baixo,3,alto,2,medio,1,baixo,2,medio,2,medio,3,alto,2,medio
+4945945,amargura,karol g,4,1,2023-02-24,153372011,39,1133,71,14,10,23,1170,107,92,55,70,18,0,15,7,1,baixo,1,baixo,3,alto,2,medio,2,medio,2,medio,1,baixo,2,medio,2,medio
+2619841,chemical,post malone,3,1,2023-04-14,172825906,39,2528,91,56,3,59,2643,170,50,37,90,0,0,12,5,1,baixo,3,alto,1,baixo,1,baixo,3,alto,1,baixo,2,medio,2,medio,2,medio
+7179210,still with you,jung kook,2,1,2020-06-05,38411956,39,31,107,2,0,8,41,88,53,34,47,9,0,83,4,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,3,alto,3,alto,1,baixo
+7624098,s91,karol g,4,1,2023-07-14,16011326,41,525,115,34,6,39,598,128,86,42,72,59,0,9,19,1,baixo,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo,3,alto
+4796316,style,taylor swift,34,1,2014-01-01,786181836,42,7830,111,94,4,151,8075,95,60,48,79,0,0,12,4,3,alto,1,baixo,1,baixo,2,medio,3,alto,1,baixo,2,medio,2,medio,1,baixo
+2770990,moonlight,kali uchis,1,1,2023-02-24,256483385,42,2649,79,67,1,57,2773,137,64,88,72,51,0,17,5,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto,2,medio,2,medio
+6322459,titi me pregunt,bad bunny,19,1,2022-05-06,1264310836,42,9037,133,124,14,139,9300,107,65,19,72,10,0,13,25,3,alto,2,medio,2,medio,1,baixo,2,medio,2,medio,2,medio,2,medio,3,alto
+4527090,yellow,chris molitor,1,1,1999-01-01,1755214421,43,31358,2,196,5,4053,35607,173,43,28,66,0,0,23,3,3,alto,3,alto,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,3,alto,1,baixo
+1663974,without me,eminem,4,1,2002-01-01,1687664027,43,21081,76,98,5,3889,25068,112,92,67,66,0,0,36,9,3,alto,2,medio,3,alto,3,alto,2,medio,1,baixo,2,medio,3,alto,3,alto
+4350729,set fire to the rain,adele,4,1,2011-01-01,1163620694,43,14739,112,88,5,2163,16990,108,61,47,68,0,0,13,3,3,alto,2,medio,1,baixo,2,medio,2,medio,1,baixo,3,alto,2,medio,1,baixo
+7325433,counting stars,onerepublic,2,1,2013-01-01,2011464183,43,29215,97,179,11,3394,32788,122,66,48,71,6,0,12,4,3,alto,2,medio,2,medio,2,medio,2,medio,1,baixo,2,medio,2,medio,1,baixo
+7366228,columbia,quevedo,4,1,2023-07-07,58149378,43,714,89,25,13,30,769,100,67,26,71,37,0,11,4,1,baixo,1,baixo,2,medio,1,baixo,2,medio,3,alto,2,medio,2,medio,1,baixo
+2480109,bones,imagine dragons,3,1,2021-03-11,838079900,44,4198,108,98,17,327,4623,114,77,65,72,2,0,7,5,3,alto,2,medio,3,alto,3,alto,2,medio,1,baixo,2,medio,1,baixo,2,medio
+2865125,doja,central cee,2,1,2022-07-20,482257456,44,4169,44,57,1,183,4409,140,91,97,57,38,0,40,29,3,alto,3,alto,3,alto,3,alto,1,baixo,3,alto,2,medio,3,alto,3,alto
+3894522,la bachata,manuel turizo,1,1,2022-05-26,1214083358,45,6804,111,139,15,161,7104,125,84,85,68,58,0,22,4,3,alto,2,medio,3,alto,3,alto,2,medio,3,alto,2,medio,3,alto,1,baixo
+4458161,radio,lana del rey,3,1,2011-01-01,284819874,46,9389,122,24,3,282,9695,150,42,20,86,21,0,9,9,2,medio,3,alto,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo,3,alto
+5243367,say yes to heaven,lana del rey,3,1,2023-03-17,127567540,46,2000,105,49,1,63,2112,100,49,17,35,71,9,11,3,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+8365464,take two,bts,8,1,2023-06-09,118482347,47,674,106,20,4,25,719,93,62,57,59,3,0,38,3,1,baixo,1,baixo,2,medio,2,medio,2,medio,1,baixo,3,alto,3,alto,1,baixo
+6247887,lala,myke towers,1,1,2023-03-23,133716286,48,1474,126,48,14,58,1580,92,71,61,74,7,0,10,4,1,baixo,1,baixo,2,medio,2,medio,3,alto,1,baixo,1,baixo,1,baixo,1,baixo
+4386478,where she goes,bad bunny,19,1,2023-05-18,303236322,50,3133,133,84,15,87,3304,144,65,23,80,14,63,11,6,2,medio,3,alto,2,medio,1,baixo,3,alto,2,medio,3,alto,2,medio,2,medio
+1216337,summertime sadness,lana del rey,3,1,2011-01-01,983637508,52,20333,143,89,3,1632,22054,112,56,24,66,7,0,12,3,3,alto,2,medio,1,baixo,1,baixo,2,medio,1,baixo,2,medio,2,medio,1,baixo
+3921634,blank space,taylor swift,34,1,2014-01-01,1355959075,53,11434,123,154,2,410,11998,96,75,57,68,9,0,13,6,3,alto,1,baixo,2,medio,2,medio,2,medio,2,medio,2,medio,2,medio,2,medio
+7159285,makeba,jain,1,1,2015-06-22,165484133,53,6060,148,150,22,2703,8913,116,82,40,66,39,51,25,7,1,baixo,2,medio,3,alto,2,medio,2,medio,3,alto,3,alto,3,alto,2,medio
+8408827,someone you loved,lewis capaldi,3,1,2018-11-08,2887241814,53,17836,125,440,0,1800,20076,110,50,45,41,75,0,11,3,3,alto,2,medio,1,baixo,2,medio,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+8502696,riptide,vance joy,1,1,1975-01-01,2009094673,55,31123,65,300,1,1003,32426,102,48,50,73,43,0,15,4,3,alto,1,baixo,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio,1,baixo
+7016313,super shy,newjeans,6,1,2023-07-07,58255150,55,422,202,37,5,21,480,150,78,52,82,18,0,15,7,1,baixo,3,alto,3,alto,2,medio,3,alto,2,medio,1,baixo,2,medio,2,medio
+8346039,antihero,taylor swift,34,1,2022-10-21,999748277,56,9082,142,242,9,165,9489,97,64,51,63,12,0,19,5,3,alto,1,baixo,2,medio,2,medio,2,medio,2,medio,1,baixo,3,alto,2,medio
+4890110,people,libianca,1,1,2022-12-02,373199958,56,3506,64,105,8,169,3780,198,59,71,42,55,0,10,7,2,medio,3,alto,1,baixo,3,alto,1,baixo,3,alto,2,medio,1,baixo,2,medio
+5667205,tattoo,loreen,1,1,2023-02-25,201660859,59,2988,102,74,18,145,3207,150,55,30,78,24,0,12,8,2,medio,3,alto,1,baixo,1,baixo,3,alto,2,medio,3,alto,2,medio,2,medio
+3461847,it goes like nanana  edit,peggy gou,1,1,2023-06-15,57876440,59,2259,0,0,17,109,2368,130,67,96,88,12,19,8,4,1,baixo,2,medio,2,medio,3,alto,3,alto,2,medio,3,alto,1,baixo,1,baixo
+7476887,die for you,the weeknd,21,1,2016-11-24,1647990401,59,2483,21,68,0,24,2575,134,59,51,52,9,0,15,7,3,alto,3,alto,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,2,medio,2,medio
+2394886,mockingbird,eminem,4,1,2004-01-01,1241559043,61,12985,98,49,5,2394,15428,84,62,24,67,21,0,13,28,3,alto,1,baixo,2,medio,1,baixo,2,medio,2,medio,2,medio,2,medio,3,alto
+8895699,sweater weather,the neighbourhood,3,1,2012-05-14,2282771485,61,16413,87,166,1,1056,17635,124,61,41,81,5,2,10,3,3,alto,2,medio,1,baixo,2,medio,3,alto,1,baixo,3,alto,1,baixo,1,baixo
+3126367,viva la vida,coldplay,3,1,2008-01-01,1592909789,62,33898,0,233,9,4095,38226,138,49,42,62,9,0,11,3,3,alto,3,alto,1,baixo,2,medio,2,medio,1,baixo,2,medio,2,medio,1,baixo
+8788368,heat waves,glass animals,1,1,2020-06-28,2557975762,63,22543,144,386,28,707,23636,81,76,53,53,44,0,9,9,3,alto,1,baixo,3,alto,2,medio,1,baixo,3,alto,2,medio,1,baixo,3,alto
+8091023,like crazy,jimin,3,1,2023-03-24,363369738,68,596,104,8,2,23,627,120,63,36,73,0,0,36,4,2,medio,2,medio,2,medio,1,baixo,3,alto,1,baixo,1,baixo,3,alto,1,baixo
+6620188,bite me,enhypen,3,1,2023-05-22,76767396,69,349,96,8,0,5,362,105,80,69,78,28,0,11,14,1,baixo,1,baixo,3,alto,3,alto,3,alto,2,medio,3,alto,2,medio,3,alto
+2553984,blinding lights,the weeknd,21,1,2019-11-29,3703895074,69,43899,199,672,20,3421,47992,171,50,38,80,0,0,9,7,3,alto,3,alto,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo,2,medio
+4467778,i aint worried,onerepublic,2,1,2022-05-13,1085685420,76,8431,127,241,37,458,9130,140,71,82,81,11,0,6,5,3,alto,3,alto,2,medio,3,alto,3,alto,2,medio,1,baixo,1,baixo,2,medio
+2013796,cupid  twin ver,fifty fifty,2,1,2023-02-24,496795686,77,2942,212,91,6,78,3111,120,78,76,59,43,0,34,3,3,alto,2,medio,3,alto,3,alto,2,medio,3,alto,1,baixo,3,alto,1,baixo
+5025330,kill bill,sza,19,1,2022-12-08,1163093654,77,8109,162,183,12,161,8453,89,64,43,73,5,17,16,4,3,alto,1,baixo,2,medio,2,medio,3,alto,1,baixo,3,alto,2,medio,1,baixo
+2808274,rush,troye sivan,2,1,2023-07-13,22581161,78,864,135,71,1,50,985,126,74,35,84,0,0,11,6,1,baixo,2,medio,2,medio,1,baixo,3,alto,1,baixo,1,baixo,2,medio,2,medio
+5563881,fukumean,gunna,1,1,2023-05-15,95217315,83,1096,210,60,11,48,1204,130,85,22,62,12,0,28,9,1,baixo,2,medio,3,alto,1,baixo,2,medio,2,medio,3,alto,3,alto,3,alto
+2391919,another love,tom odell,1,1,2012-10-15,1813673666,83,18371,122,250,19,3394,22015,123,45,13,54,70,0,9,4,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+5374189,daylight,david kushner,2,1,2023-04-14,387570742,98,3528,156,80,24,182,3790,130,51,32,43,83,0,9,3,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+2362023,cruel summer,taylor swift,34,1,2019-08-23,800840817,100,7858,207,116,12,125,8099,170,55,58,72,11,0,11,15,3,alto,3,alto,1,baixo,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto
+5310138,dance the night from barbie the album,dua lipa,3,1,2023-05-25,127408954,101,2988,0,0,38,143,3131,110,67,78,85,2,0,33,5,1,baixo,2,medio,2,medio,3,alto,3,alto,1,baixo,1,baixo,3,alto,2,medio
+1404326,what was i made for from the motion picture barbie,billie eilish,5,1,2023-07-13,30546883,104,873,227,80,24,95,1048,78,44,14,9,96,0,10,3,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+1406287,i wanna be yours,arctic monkeys,4,1,2013-01-01,1297026226,110,12859,98,24,2,582,13465,135,48,44,42,12,2,11,3,3,alto,3,alto,1,baixo,2,medio,1,baixo,2,medio,3,alto,2,medio,1,baixo
+6974739,vampire,olivia rodrigo,7,1,2023-06-30,140003974,113,1397,207,94,14,91,1582,138,51,32,53,17,0,31,6,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,2,medio,1,baixo,3,alto,2,medio
+7662572,flowers,miley cyrus,2,1,2023-01-12,1316855716,115,12211,215,300,58,745,13256,118,71,65,68,6,0,3,7,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo,2,medio,1,baixo,2,medio
+3197174,as it was,harry styles,17,1,2022-03-31,2513188493,130,23575,198,403,46,863,24841,174,52,66,73,34,0,31,6,3,alto,3,alto,1,baixo,3,alto,2,medio,3,alto,3,alto,3,alto,2,medio
+8753775,let it snow let it snow let it snow,frank sinatra b swanson quartet,1,2,1950-01-01,473248298,0,10585,108,126,0,406,11117,143,60,86,32,88,0,34,6,2,medio,3,alto,1,baixo,3,alto,1,baixo,3,alto,1,baixo,3,alto,2,medio
+2285737,still dre,dr dre snoop dogg,2,2,1999-01-01,1210599487,0,33966,78,141,1,6591,40698,93,81,53,78,18,0,6,24,3,alto,1,baixo,3,alto,2,medio,3,alto,2,medio,1,baixo,1,baixo,3,alto
+3333614,the next episode,dr dre snoop dogg,2,2,1999-01-01,843309044,0,31762,40,142,1,5451,37355,95,92,31,89,3,0,8,25,3,alto,1,baixo,3,alto,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,3,alto
+3363172,forgot about dre,eminem dr dre,2,2,1999-01-01,675039469,0,19067,15,78,0,1674,20819,134,93,61,74,9,0,17,8,3,alto,2,medio,3,alto,2,medio,3,alto,1,baixo,1,baixo,2,medio,2,medio
+3780370,somebody that i used to know,gotye kimbra,1,2,2011-01-01,1457139296,0,42798,136,217,1,6508,49523,129,86,75,52,54,0,10,4,3,alto,2,medio,3,alto,3,alto,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+2744235,contection,godzz zakaria,1,2,2020-01-16,1180896317,0,6955,45,65,0,398,7418,166,81,83,75,14,0,29,34,3,alto,3,alto,3,alto,3,alto,3,alto,2,medio,2,medio,3,alto,3,alto
+5498548,qu m,j balvin maria becerra,1,2,2021-01-28,720825549,0,8087,34,92,0,131,8310,102,89,77,82,3,0,17,11,3,alto,1,baixo,3,alto,3,alto,3,alto,1,baixo,2,medio,2,medio,3,alto
+7432867,i heard youre married feat lil wayne,the weeknd lil wayne,1,2,2022-01-07,91656026,0,1178,10,9,0,9,1196,110,75,85,84,10,0,31,19,1,baixo,2,medio,2,medio,3,alto,3,alto,2,medio,1,baixo,3,alto,3,alto
+4464368,thought i was playing,21 savage gunna,1,2,2022-01-07,60680939,0,807,0,3,0,5,815,148,68,29,73,0,0,7,7,1,baixo,3,alto,2,medio,1,baixo,2,medio,1,baixo,2,medio,1,baixo,2,medio
+6457168,25k jacket feat lil baby,gunna lil baby,1,2,2022-01-07,54937991,0,620,3,17,0,3,640,115,90,74,54,16,0,13,28,1,baixo,2,medio,3,alto,3,alto,1,baixo,2,medio,3,alto,2,medio,3,alto
+5418507,212,mainstreet chefin,1,2,2022-01-15,143139338,0,352,0,10,0,39,401,154,79,86,52,66,0,9,7,1,baixo,3,alto,3,alto,3,alto,1,baixo,3,alto,2,medio,1,baixo,2,medio
+6429519,where did you go,mnek jax jones,1,2,2022-01-26,300983101,0,4531,74,135,1,119,4785,127,77,53,78,19,0,29,4,2,medio,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto,2,medio
+6554322,brividi,mahmood blanco,1,2,2022-02-02,135079152,0,1175,1,34,0,31,1240,123,52,44,60,40,0,26,3,1,baixo,2,medio,1,baixo,2,medio,2,medio,3,alto,2,medio,3,alto,1,baixo
+1338081,do we have a problem,nicki minaj lil baby,2,2,2022-02-04,81350745,0,1064,1,42,0,26,1132,120,84,54,51,47,0,12,40,1,baixo,2,medio,3,alto,2,medio,1,baixo,3,alto,1,baixo,2,medio,3,alto
+7165052,gospel with eminem,eminem dr dre,2,2,2022-02-04,64787943,0,1040,0,8,0,29,1077,117,92,62,86,11,0,24,24,1,baixo,2,medio,3,alto,2,medio,3,alto,2,medio,1,baixo,3,alto,3,alto
+1130135,the joker and the queen feat taylor swift,ed sheeran taylor swift,1,2,2022-02-11,146789379,0,1430,1,46,0,34,1510,134,53,31,31,92,0,28,3,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,3,alto,1,baixo
+6213355,bussin,nicki minaj lil baby,2,2,2022-02-11,64714573,0,847,0,25,0,14,886,140,89,75,70,6,0,13,5,1,baixo,3,alto,3,alto,3,alto,2,medio,1,baixo,1,baixo,2,medio,2,medio
+3833877,ultra solo,polima westcoast pailita,1,2,2022-02-14,307752576,0,1367,4,48,1,34,1449,110,80,26,85,23,0,11,21,2,medio,2,medio,3,alto,1,baixo,3,alto,2,medio,2,medio,2,medio,3,alto
+2762640,freaky deaky,tyga doja cat,1,2,2022-02-25,153240879,0,1729,1,26,0,19,1774,104,80,24,65,2,0,9,4,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,1,baixo
+8246992,tormenta feat bad bunny,gorillaz bad bunny,1,2,2023-02-24,149778242,0,1529,18,32,2,39,1600,95,64,30,77,46,0,38,6,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto,1,baixo,3,alto,2,medio
+4265182,residente bzrp music sessions vol 49,residente bizarrap,1,2,2022-03-03,94616487,0,461,11,7,0,13,481,71,59,70,74,56,0,11,40,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,2,medio,2,medio,3,alto
+1904497,sweetest pie,dua lipa megan thee stallion,1,2,2022-03-11,299634472,0,3501,2,69,11,51,3621,124,81,68,63,17,0,10,22,2,medio,2,medio,3,alto,3,alto,2,medio,2,medio,2,medio,1,baixo,3,alto
+4830246,idgaf with blackbear,blackbear boywithuke,1,2,2022-03-18,197643795,0,625,2,10,0,13,648,98,78,83,75,41,0,27,8,2,medio,1,baixo,3,alto,3,alto,3,alto,3,alto,2,medio,3,alto,2,medio
+3970396,man made a bar feat eric church,morgan wallen eric church,1,2,2023-03-03,58890931,0,329,35,14,0,1,344,148,50,49,76,12,0,12,3,1,baixo,3,alto,1,baixo,2,medio,3,alto,2,medio,2,medio,2,medio,1,baixo
+1214913,i know  pr1svx edit,kanii pr1isvx,1,2,2023-03-24,77377503,0,407,15,16,0,5,428,134,67,11,76,8,47,30,7,1,baixo,3,alto,2,medio,1,baixo,3,alto,1,baixo,3,alto,3,alto,2,medio
+1111875,dogtooth,tyler the creator,3,2,2023-03-27,80758350,0,1479,0,23,0,18,1520,78,71,80,65,51,0,22,32,1,baixo,1,baixo,2,medio,3,alto,2,medio,3,alto,1,baixo,3,alto,3,alto
+6083108,sorry not sorry,tyler the creator,3,2,2023-03-31,58473276,0,709,1,8,0,13,730,96,48,50,80,40,0,37,20,1,baixo,1,baixo,1,baixo,2,medio,3,alto,3,alto,1,baixo,3,alto,3,alto
+7304378,boy with luv feat halsey,halsey bts,1,2,2019-04-12,1065580332,0,4260,92,113,0,259,4632,120,65,80,86,9,0,19,10,3,alto,2,medio,2,medio,3,alto,3,alto,1,baixo,3,alto,3,alto,3,alto
+8360758,kiss me more feat sza,sza doja cat,1,2,2021-04-09,1575467011,0,15867,65,382,0,497,16746,111,77,74,66,30,0,13,3,3,alto,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo
+6130665,psychofreak feat willow,camila cabello willow,1,2,2022-04-07,75476209,0,918,0,24,0,52,994,180,63,45,64,34,0,9,8,1,baixo,3,alto,2,medio,2,medio,2,medio,3,alto,2,medio,1,baixo,2,medio
+4487193,paulo londra bzrp music sessions vol 23,bizarrap paulo londra,1,2,2022-04-25,164163229,0,928,0,19,0,7,954,96,61,32,90,25,0,10,9,1,baixo,1,baixo,2,medio,1,baixo,3,alto,2,medio,1,baixo,1,baixo,3,alto
+6062396,that that prod  feat suga of bts,psy suga,1,2,2022-04-29,212109195,0,802,81,16,0,23,841,130,91,91,96,3,0,3,9,2,medio,2,medio,3,alto,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto
+2442031,honest feat don toliver,justin bieber don toliver,1,2,2022-04-29,106919680,0,1351,1,26,0,17,1394,150,82,82,66,13,0,11,6,1,baixo,3,alto,3,alto,3,alto,2,medio,2,medio,2,medio,2,medio,2,medio
+2264316,double fantasy with future,the weeknd future,1,2,2023-04-21,96180277,0,1169,65,36,0,28,1233,119,60,10,57,1,0,50,3,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,1,baixo
+1486311,till i collapse,eminem nate dogg,1,2,2002-05-26,1695712020,0,22923,46,78,1,2515,25516,171,55,10,85,7,0,8,20,3,alto,3,alto,1,baixo,1,baixo,3,alto,1,baixo,3,alto,1,baixo,3,alto
+5831523,closer,the chainsmokers halsey,1,2,2016-05-31,2591224264,0,28032,159,315,0,2179,30526,95,75,64,52,41,0,11,3,3,alto,1,baixo,3,alto,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo
+1322961,new magic wand,tyler the creator,3,2,2019-05-16,461437791,0,4708,7,13,0,55,4776,140,62,46,73,10,0,67,11,2,medio,3,alto,2,medio,2,medio,2,medio,2,medio,2,medio,3,alto,3,alto
+5848183,andrea,buscabulla bad bunny,1,2,2022-05-06,344055883,0,1195,30,8,1,13,1216,103,80,45,62,76,0,10,38,2,medio,1,baixo,3,alto,2,medio,2,medio,3,alto,1,baixo,1,baixo,3,alto
+2830739,i tried to tell yall,ugly dray tesla jnr,1,2,2022-05-06,121077868,0,1657,3,15,0,3,1675,96,71,37,52,62,0,11,36,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,3,alto,1,baixo,2,medio,3,alto
+4528930,cooped up with roddy ricch,post malone roddy ricch,1,2,2022-05-12,271666301,0,2942,28,42,0,43,3027,125,50,39,78,4,0,11,33,2,medio,2,medio,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,2,medio,3,alto
+6177084,father time feat sampha,kendrick lamar sampha,1,2,2022-05-13,127309180,0,3107,0,4,0,22,3133,153,55,50,78,19,0,11,35,1,baixo,3,alto,1,baixo,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto
+2861036,silent hill,kendrick lamar kodak black,1,2,2022-05-13,123216717,0,3028,0,22,0,23,3073,140,92,78,57,46,0,14,9,1,baixo,3,alto,3,alto,3,alto,1,baixo,3,alto,3,alto,2,medio,3,alto
+7513238,we cry together,kendrick lamar taylour paige,1,2,2022-05-13,68895644,0,1635,1,4,0,6,1645,108,65,52,69,31,0,8,36,1,baixo,2,medio,2,medio,2,medio,2,medio,2,medio,2,medio,1,baixo,3,alto
+5005107,mr morale,kendrick lamar tanna leone,1,2,2022-05-13,58687425,0,1860,0,1,0,3,1864,174,73,26,54,30,0,34,32,1,baixo,3,alto,2,medio,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto
+2612867,mother i sober feat beth gibbons of portishead,kendrick lamar beth gibbons,1,2,2022-05-13,33381454,0,1890,0,3,0,2,1895,140,49,50,37,87,0,11,35,1,baixo,3,alto,1,baixo,2,medio,1,baixo,3,alto,2,medio,2,medio,3,alto
+1771212,die young feat 347aidan,sleepy hallow 347aidan,1,2,2022-05-25,160845341,0,896,0,19,0,15,930,77,81,68,58,83,0,11,34,1,baixo,1,baixo,3,alto,3,alto,2,medio,3,alto,2,medio,2,medio,3,alto
+7503630,true love,kanye west xxxtentacion,1,2,2022-05-27,194902696,0,2129,1,23,1,44,2196,84,71,39,86,2,0,51,25,2,medio,1,baixo,2,medio,1,baixo,3,alto,1,baixo,3,alto,3,alto,3,alto
+4603662,dont ever say love me feat rm of bts,rm colde,1,2,2023-05-04,34502215,0,105,9,5,0,5,115,145,54,19,48,36,0,37,5,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,2,medio
+5158640,america has a problem feat kendrick lamar,kendrick lamar beyonc,1,2,2023-05-19,57089066,0,896,2,34,0,33,963,126,78,20,70,1,0,16,4,1,baixo,2,medio,3,alto,1,baixo,2,medio,1,baixo,3,alto,2,medio,1,baixo
+1452364,karma feat ice spice,taylor swift ice spice,1,2,2023-05-26,46142772,0,588,21,23,0,31,642,90,62,7,62,6,0,58,6,1,baixo,1,baixo,2,medio,1,baixo,2,medio,1,baixo,2,medio,3,alto,2,medio
+2748330,toms diner,annenmaykantereit giant rooks,1,2,2019-06-28,236872197,0,2605,48,15,0,50,2670,98,68,33,43,38,0,36,14,2,medio,1,baixo,2,medio,1,baixo,1,baixo,3,alto,3,alto,3,alto,3,alto
+4967426,you right,doja cat the weeknd,1,2,2021-06-24,672656250,0,5073,9,83,0,100,5256,129,83,44,62,2,0,8,6,3,alto,2,medio,3,alto,2,medio,2,medio,1,baixo,3,alto,1,baixo,2,medio
+3786238,nos comemos feat ozuna,ozuna tiago pzk,1,2,2022-06-02,138334433,0,896,0,0,0,2,898,92,83,56,82,10,0,9,5,1,baixo,1,baixo,3,alto,2,medio,3,alto,2,medio,2,medio,1,baixo,2,medio
+4012549,villano antillano bzrp music sessions vol 51,bizarrap villano antillano,1,2,2022-06-08,248511839,0,1401,16,26,0,17,1444,128,82,42,75,6,0,63,6,2,medio,2,medio,3,alto,2,medio,3,alto,1,baixo,1,baixo,3,alto,2,medio
+5554493,danger spider offset  jid,offset jid,1,2,2023-06-02,24975653,0,214,3,3,0,6,223,143,83,25,69,4,0,23,12,1,baixo,3,alto,3,alto,1,baixo,2,medio,1,baixo,2,medio,3,alto,3,alto
+4722538,thinking with my dick,kevin gates juicy j,1,2,2013-07-16,109091573,0,1550,0,0,0,14,1564,81,77,68,70,6,0,17,20,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo,3,alto,2,medio,3,alto
+1839223,mood feat iann dior,24kgoldn iann dior,1,2,2020-07-24,1699402402,0,12854,27,237,0,636,13727,91,70,76,72,22,0,27,4,3,alto,1,baixo,2,medio,3,alto,2,medio,2,medio,2,medio,3,alto,1,baixo
+3378211,industry baby feat jack harlow,jack harlow lil nas x,1,2,2021-07-23,1814349763,0,13315,47,300,0,690,14305,150,74,89,70,2,0,5,6,3,alto,3,alto,2,medio,3,alto,2,medio,1,baixo,2,medio,1,baixo,2,medio
+6792432,all for us  from the hbo original series euphoria,labrinth zendaya,1,2,2019-08-04,426204830,0,5342,123,33,0,7,5382,141,37,17,67,2,0,34,9,2,medio,3,alto,1,baixo,1,baixo,2,medio,1,baixo,2,medio,3,alto,3,alto
+1828042,dont be shy,tisto kar,1,2,2021-08-01,566954746,0,6026,51,171,1,187,6384,120,77,51,79,20,0,26,6,3,alto,2,medio,3,alto,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio
+6984128,do it to it,cherish acraze,1,2,2021-08-20,674772936,0,12403,63,183,0,465,13051,125,85,64,81,2,5,7,9,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,1,baixo,3,alto
+2616615,you make it feel like christmas feat blake shelton,gwen stefani blake shelton,1,2,2005-09-20,180577478,0,2577,56,108,0,30,2715,93,63,93,88,1,0,12,4,1,baixo,1,baixo,2,medio,3,alto,3,alto,1,baixo,2,medio,2,medio,1,baixo
+4102590,ley seca,anuel aa jhay cortez,1,2,2021-09-02,355219175,0,2012,12,101,0,38,2151,105,76,58,84,10,0,13,10,2,medio,1,baixo,3,alto,2,medio,3,alto,2,medio,1,baixo,2,medio,3,alto
+3827200,xq te pones as,yandel feid,2,2,2022-09-13,47093942,0,308,1,6,0,6,320,92,81,48,70,13,0,15,7,1,baixo,1,baixo,3,alto,2,medio,2,medio,2,medio,3,alto,2,medio,2,medio
+1221828,worth nothing,twisted oliver tree,1,2,2022-09-28,213438580,0,1612,54,34,0,34,1680,140,58,17,62,18,0,20,8,2,medio,3,alto,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto,2,medio
+1633830,esqueame se for c,marlia mendona maiara ,1,2,2021-10-14,258316038,0,580,92,24,0,93,697,122,80,62,69,28,0,13,7,2,medio,2,medio,3,alto,2,medio,2,medio,2,medio,2,medio,2,medio,2,medio
+5334385,salimo de noche,trueno tiago pzk,1,2,2021-10-21,261414174,0,1057,5,17,0,21,1095,84,67,78,63,29,0,12,5,2,medio,1,baixo,2,medio,3,alto,2,medio,2,medio,1,baixo,2,medio,2,medio
+4169887,vai l em casa,marlia mendona george henrique ,1,2,2021-10-22,263894529,0,772,3,7,0,89,868,158,46,62,83,53,0,97,28,2,medio,3,alto,1,baixo,2,medio,3,alto,3,alto,2,medio,3,alto,3,alto
+6427223,problem,alvaro diaz rauw alejandro,1,2,2021-10-22,209768491,0,1517,7,42,0,15,1574,92,73,37,74,28,0,14,6,2,medio,1,baixo,2,medio,1,baixo,3,alto,2,medio,1,baixo,2,medio,2,medio
+8143341,bye bye,marshmello juice wrld,1,2,2022-10-14,84697729,0,766,0,16,0,9,791,83,65,24,53,6,0,51,4,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,2,medio,3,alto,1,baixo
+5282587,snow on the beach feat lana del rey,taylor swift lana del rey,1,2,2022-10-21,323437194,0,2415,57,33,0,30,2478,110,66,19,32,69,0,12,4,2,medio,2,medio,2,medio,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+2102834,sigue,ed sheeran j balvin,1,2,1996-11-24,106933107,0,1370,8,46,0,60,1476,88,89,59,64,5,0,19,7,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo,1,baixo,3,alto,2,medio
+5694303,stan,eminem dido,1,2,1999-11-21,918915401,0,17115,63,83,0,4180,21378,80,78,53,74,4,0,45,21,3,alto,1,baixo,3,alto,2,medio,3,alto,1,baixo,2,medio,3,alto,3,alto
+3612400,no lie,sean paul dua lipa,1,2,2016-11-18,956865266,0,7370,127,92,0,1219,8681,102,74,45,89,5,0,26,13,3,alto,1,baixo,2,medio,2,medio,3,alto,1,baixo,1,baixo,3,alto,3,alto
+7387090,merry christmas,ed sheeran elton john,1,2,2017-11-10,135723538,0,2209,90,72,0,141,2422,114,59,60,94,24,0,10,4,1,baixo,2,medio,1,baixo,2,medio,3,alto,2,medio,2,medio,1,baixo,1,baixo
+1346774,hold me closer,elton john britney spears,1,2,2017-11-10,284216603,0,4967,10,165,4,177,5309,126,67,49,77,11,0,19,11,2,medio,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto,3,alto,3,alto
+7068825,one right now with the weeknd,the weeknd post malone,1,2,2021-11-05,539595276,0,4771,18,68,0,75,4914,97,68,72,78,4,0,7,5,3,alto,1,baixo,2,medio,3,alto,3,alto,1,baixo,3,alto,1,baixo,2,medio
+3657141,what else can i do,stephanie beatriz diane guerrero,1,2,2021-11-19,154797871,0,802,27,13,0,8,823,120,72,54,71,26,0,10,4,1,baixo,2,medio,2,medio,2,medio,2,medio,2,medio,1,baixo,1,baixo,1,baixo
+8553734,a veces feat feid,feid paulo londra,1,2,2022-11-03,73513683,0,573,0,2,0,7,582,92,80,81,67,4,0,8,6,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo,1,baixo,1,baixo,2,medio
+5974857,major distribution,drake 21 savage,8,2,2022-11-04,154863153,0,1545,7,22,0,15,1582,131,91,23,55,1,0,7,32,1,baixo,2,medio,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto
+3035987,on bs,drake 21 savage,8,2,2022-11-04,170413877,0,1338,20,9,0,7,1354,158,84,33,36,2,0,39,59,1,baixo,3,alto,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto
+3506706,circo loco,drake 21 savage,8,2,2022-11-04,141720999,0,1794,9,26,0,17,1837,104,73,25,61,1,0,32,7,1,baixo,1,baixo,2,medio,1,baixo,2,medio,1,baixo,3,alto,3,alto,2,medio
+3984533,con la brisa,ludwig goransson foudeqush,1,2,2022-11-04,71095708,0,486,1,8,0,7,501,114,62,25,44,51,33,14,3,1,baixo,2,medio,2,medio,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+4322356,privileged rappers,drake 21 savage,8,2,2022-11-04,112436403,0,1007,5,6,0,3,1016,144,93,62,61,0,0,12,20,1,baixo,3,alto,3,alto,2,medio,2,medio,1,baixo,3,alto,2,medio,3,alto
+8174233,broke boys,drake 21 savage,8,2,2022-11-04,106249219,0,1060,8,3,0,5,1068,120,64,11,53,1,0,25,27,1,baixo,2,medio,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto
+7021208,apna bana le from bhediya,arijit singh sachinjigar,1,2,2022-11-05,139836056,0,86,101,11,0,0,97,94,59,44,56,80,0,6,3,1,baixo,1,baixo,1,baixo,2,medio,1,baixo,3,alto,2,medio,1,baixo,1,baixo
+2432426,escapism  sped up,raye 070 shake,2,2,2022-11-25,184308753,0,1368,1,12,0,11,1391,108,44,38,77,9,0,9,20,2,medio,2,medio,1,baixo,1,baixo,3,alto,2,medio,1,baixo,1,baixo,3,alto
+5930788,peru,ed sheeran fireboy dml,1,2,2021-12-23,261286503,0,2999,17,60,0,154,3213,108,96,71,42,57,0,8,9,2,medio,2,medio,3,alto,3,alto,1,baixo,3,alto,1,baixo,1,baixo,3,alto
+4600873,when im gone with katy,katy perry alesso,1,2,2021-12-29,226897599,0,3270,21,89,0,65,3424,125,69,70,89,4,0,49,3,2,medio,2,medio,2,medio,3,alto,3,alto,1,baixo,3,alto,3,alto,1,baixo
+8283550,raindrops insane with travis scott,travis scott metro boomin,1,2,2022-12-02,110649992,0,880,7,3,0,10,893,112,80,15,54,9,0,38,5,1,baixo,2,medio,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio
+6143073,on time with john legend,john legend metro boomin,1,2,2022-12-02,78139948,0,398,2,2,0,6,406,80,33,51,59,76,0,44,6,1,baixo,1,baixo,1,baixo,2,medio,2,medio,3,alto,1,baixo,3,alto,2,medio
+3439901,used feat don toliver,sza don toliver,1,2,2022-12-08,94005786,0,1042,29,7,0,3,1052,150,73,71,69,53,0,32,9,1,baixo,3,alto,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto
+5179092,ghost in the machine feat phoebe bridgers,sza phoebe bridgers,1,2,2022-12-09,110073250,0,1634,20,16,0,4,1654,125,62,59,43,84,3,11,5,1,baixo,2,medio,2,medio,2,medio,1,baixo,3,alto,3,alto,2,medio,2,medio
+6390690,x ltima,daddy yankee bad bunny,2,2,2022-03-25,349746291,1,2697,3,55,0,32,2784,90,81,59,83,9,0,11,5,2,medio,1,baixo,3,alto,2,medio,3,alto,2,medio,1,baixo,2,medio,2,medio
+8346639,hummingbird metro boomin  james blake,james blake metro boomin,1,2,2023-06-02,39666245,1,277,20,1,0,5,283,81,59,26,60,46,1,25,13,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,3,alto,3,alto,3,alto,3,alto
+7243247,i really want to stay at your house,rosa walton hallie coggins,1,2,2020-12-18,140430339,1,668,0,0,0,31,699,125,49,13,74,0,0,9,4,1,baixo,2,medio,1,baixo,1,baixo,3,alto,1,baixo,3,alto,1,baixo,1,baixo
+6002262,lost in the fire,the weeknd gesaffelstein,2,2,2019-01-11,686734357,2,7731,145,110,0,447,8288,101,66,18,68,9,0,12,4,3,alto,1,baixo,2,medio,1,baixo,2,medio,2,medio,2,medio,2,medio,1,baixo
+3569943,mal feito  ao vivo,marlia mendona hugo  g,1,2,2022-01-14,291709698,2,971,104,35,1,93,1099,124,73,68,83,55,0,90,7,2,medio,2,medio,2,medio,3,alto,3,alto,3,alto,2,medio,3,alto,2,medio
+7349725,vibe feat jimin of bts,taeyang jimin,1,2,2023-01-13,152850295,2,415,40,15,1,21,451,100,79,60,68,7,0,26,4,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo,3,alto,3,alto,1,baixo
+8569518,dana,mc pedrinho pedro sampaio,1,2,2022-02-01,208166039,2,911,0,45,1,99,1055,135,78,55,57,4,0,10,8,2,medio,3,alto,3,alto,2,medio,1,baixo,1,baixo,2,medio,1,baixo,2,medio
+3986213,on the street with j cole,jhope j cole,1,2,2023-03-03,116599790,2,615,82,22,0,8,645,94,68,81,82,53,0,9,13,1,baixo,1,baixo,2,medio,3,alto,3,alto,3,alto,2,medio,1,baixo,3,alto
+2142936,tus lgr,sech mora,1,2,2022-04-01,184622518,2,1308,16,23,0,9,1340,174,68,45,71,18,0,11,25,2,medio,3,alto,2,medio,2,medio,2,medio,2,medio,1,baixo,2,medio,3,alto
+8272175,with you,ha sung woon jimin,1,2,2022-04-24,240580042,2,343,35,4,1,11,358,150,53,14,43,64,0,13,3,2,medio,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+1166211,snow on the beach feat more lana del rey,lana del rey taylor swift,1,2,2023-05-26,60350538,2,359,0,1,0,9,369,110,66,32,40,81,0,11,3,1,baixo,2,medio,2,medio,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo
+1660982,seo,shawn mendes camila cabello,1,2,2019-06-19,2484812918,2,15010,50,453,1,1785,17248,117,76,77,52,4,0,8,3,3,alto,2,medio,3,alto,3,alto,1,baixo,1,baixo,3,alto,1,baixo,1,baixo
+5409588,numb,marshmello khalid,1,2,2022-06-10,295307001,2,3879,76,107,1,86,4072,120,91,63,77,12,1,10,5,2,medio,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,1,baixo,2,medio
+3317105,sin se,ovy on the drums quevedo,1,2,2022-07-22,209106362,2,1097,10,18,1,13,1128,118,82,75,85,33,1,11,4,2,medio,2,medio,3,alto,3,alto,3,alto,3,alto,3,alto,2,medio,1,baixo
+8672552,mon amour  remix,aitana zzoilo,1,2,2020-09-21,578207856,2,3221,13,67,0,139,3427,116,75,36,76,12,0,10,10,3,alto,2,medio,3,alto,1,baixo,3,alto,2,medio,2,medio,1,baixo,3,alto
+2761463,down under feat colin hay,luude colin hay,1,2,2021-11-19,252871192,2,3541,13,57,1,50,3648,172,31,4,86,1,0,28,17,2,medio,3,alto,1,baixo,1,baixo,3,alto,1,baixo,2,medio,3,alto,3,alto
+3461405,antidepresan,mabel matiz mert demir,1,2,2022-11-04,136689549,2,313,6,10,1,7,330,100,70,92,59,3,0,10,3,1,baixo,1,baixo,2,medio,3,alto,2,medio,1,baixo,3,alto,1,baixo,1,baixo
+1438195,spin bout u,drake 21 savage,8,2,2022-11-04,198365537,2,1652,52,26,0,10,1688,130,77,20,70,1,0,16,5,2,medio,2,medio,3,alto,1,baixo,2,medio,1,baixo,1,baixo,2,medio,2,medio
+6644972,layla,schrze dj r,1,2,2022-03-24,130419412,3,832,124,18,1,24,874,140,44,41,92,0,0,44,7,1,baixo,3,alto,1,baixo,2,medio,3,alto,1,baixo,3,alto,3,alto,2,medio
+7996425,arcngel bzrp music sessions vol,arcangel bizarrap,1,2,2023-03-22,100409613,3,654,3,11,1,18,683,124,72,79,78,55,0,15,30,1,baixo,2,medio,2,medio,3,alto,3,alto,3,alto,1,baixo,2,medio,3,alto
+5229182,piman de,semicenk dou ,1,2,2023-06-02,43522589,3,185,6,5,1,4,194,98,73,45,62,28,0,13,13,1,baixo,1,baixo,2,medio,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto
+3329363,la fama with the weeknd,the weeknd rosal,1,2,2021-11-11,374706940,3,4640,93,81,6,507,5228,136,77,82,30,95,0,13,5,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,2,medio,2,medio,2,medio
+1967014,payphone,maroon 5 wiz khalifa,1,2,2012-01-01,1479264469,4,14143,38,56,1,1891,16090,110,74,51,74,2,0,29,4,3,alto,2,medio,2,medio,2,medio,3,alto,1,baixo,2,medio,3,alto,1,baixo
+2084763,rosa pastel,jasiel nuez peso p,2,2,2023-02-02,90025258,4,200,77,8,1,2,210,123,70,86,68,24,0,11,4,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio,1,baixo,2,medio,1,baixo
+7860258,bam bam feat ed sheeran,camila cabello ed sheeran,1,2,2022-03-04,756907987,4,6111,40,185,9,492,6788,95,76,96,70,18,0,33,4,3,alto,1,baixo,3,alto,3,alto,2,medio,2,medio,3,alto,3,alto,1,baixo
+2346155,leave before you love me with jonas brothers,marshmello jonas brothers,1,2,2021-04-28,651732901,4,4893,24,143,0,110,5146,120,72,67,72,0,0,13,4,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo,1,baixo,2,medio,1,baixo
+6619922,people pt2 feat iu,iu agust d,1,2,2023-04-07,95816024,4,209,45,4,2,11,224,89,73,44,57,39,0,32,6,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto,2,medio,3,alto,2,medio
+5442505,princess diana with nicki minaj,nicki minaj ice spice,1,2,2023-04-14,104992946,4,1444,0,0,0,0,1444,148,90,74,68,14,0,10,19,1,baixo,3,alto,3,alto,3,alto,2,medio,2,medio,2,medio,1,baixo,3,alto
+4916659,mami chula,quevedo jhayco,1,2,2023-04-27,61105704,4,875,13,17,0,27,919,120,80,33,70,22,0,9,4,1,baixo,2,medio,3,alto,1,baixo,2,medio,2,medio,3,alto,1,baixo,1,baixo
+6882173,conexes de mfia feat rich,rich the kid matu,1,2,2023-04-30,77233241,4,385,7,17,1,41,443,117,77,69,58,39,0,26,5,1,baixo,2,medio,3,alto,3,alto,1,baixo,3,alto,1,baixo,3,alto,2,medio
+3341212,party,bad bunny rauw alejandro,1,2,2022-05-06,614555082,4,3185,64,38,3,37,3260,97,83,47,80,2,0,24,9,3,alto,1,baixo,3,alto,2,medio,3,alto,1,baixo,3,alto,3,alto,3,alto
+4165407,carto b,mc caverinha kayblack,1,2,2023-05-11,71573339,4,269,2,7,1,30,306,108,84,55,47,26,0,20,64,1,baixo,2,medio,3,alto,2,medio,1,baixo,2,medio,1,baixo,3,alto,3,alto
+6364406,el rescate,grupo marca registrada junior h,1,2,2022-07-22,287278853,4,527,43,10,1,3,540,99,79,64,59,28,0,11,14,2,medio,1,baixo,3,alto,3,alto,2,medio,2,medio,2,medio,2,medio,3,alto
+4794318,eu gosto assim  ao vivo,gustavo mioto mari fernandez,1,2,2022-09-16,222612678,4,1473,64,27,1,66,1566,154,64,61,91,15,0,72,4,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio,3,alto,3,alto,1,baixo
+2582262,bar,tini lgante,1,2,2021-11-11,200972675,4,755,3,22,0,0,777,94,52,68,69,13,0,33,8,2,medio,1,baixo,1,baixo,3,alto,2,medio,2,medio,2,medio,3,alto,2,medio
+7122267,open arms feat travis scott,sza travis scott,1,2,2022-12-08,155653938,4,1420,87,13,0,17,1450,78,67,22,59,76,1,15,16,1,baixo,1,baixo,2,medio,1,baixo,2,medio,3,alto,3,alto,2,medio,3,alto
+8024591,sem aliana no,mc xenon os gemeos da putaria,1,2,2022-12-23,93587665,4,454,1,6,0,21,481,83,53,40,36,73,0,11,33,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,2,medio,3,alto
+5142009,save your tears with ariana grande remix,ariana grande the weeknd,2,2,2020-03-20,1221813483,5,9161,98,240,3,468,9869,118,65,63,79,3,0,10,3,3,alto,2,medio,2,medio,3,alto,3,alto,1,baixo,2,medio,1,baixo,1,baixo
+2098417,seu brilho sumiu  ao vivo,israel  rodolffo mari fernandez,1,2,2023-03-01,138517666,5,967,29,7,1,51,1025,154,63,75,92,31,0,91,5,1,baixo,3,alto,2,medio,3,alto,3,alto,2,medio,3,alto,3,alto,2,medio
+6271365,abcdario,junior h eden mu,1,2,2023-05-13,89933133,5,262,60,8,1,4,274,129,70,42,43,78,0,11,3,1,baixo,2,medio,2,medio,2,medio,1,baixo,3,alto,2,medio,2,medio,1,baixo
+4053069,stand by me feat morgan wallen,lil durk morgan wallen,1,2,2023-05-26,46065667,5,381,82,23,0,6,410,134,76,61,58,6,0,16,3,1,baixo,3,alto,3,alto,2,medio,2,medio,1,baixo,2,medio,2,medio,1,baixo
+8125634,self love spiderman across the spiderverse metro boomin  coi leray,metro boomin coi leray,1,2,2023-06-02,70106975,5,332,41,18,0,5,355,120,78,5,30,21,0,13,5,1,baixo,2,medio,3,alto,1,baixo,1,baixo,2,medio,3,alto,2,medio,2,medio
+5406019,family ties with kendrick lamar,kendrick lamar baby keem,1,2,2021-08-27,560222750,5,6308,15,114,0,63,6485,134,71,14,61,1,0,23,33,3,alto,2,medio,2,medio,1,baixo,2,medio,1,baixo,3,alto,3,alto,3,alto
+7158907,siempre pendientes,peso pluma luis r conriquez,1,2,2022-08-15,295152154,5,685,79,15,2,4,704,136,77,71,75,33,1,13,4,2,medio,3,alto,3,alto,3,alto,3,alto,2,medio,3,alto,2,medio,1,baixo
+6744187,en paris,el chachito junior h,1,2,2022-12-24,198275403,5,406,31,3,1,2,411,139,70,77,48,37,0,12,5,2,medio,3,alto,2,medio,3,alto,1,baixo,3,alto,3,alto,2,medio,2,medio
+6829928,pasoori,shae gill ali sethi,1,2,2022-02-06,284249832,6,349,22,10,0,3,362,92,71,67,60,7,0,6,4,2,medio,1,baixo,2,medio,3,alto,2,medio,1,baixo,2,medio,1,baixo,1,baixo
+5402623,dijeron que no la iba lograr,fuerza regida chino pacas,1,2,2023-03-14,116334601,6,320,48,5,1,2,327,142,70,76,79,26,0,11,7,1,baixo,3,alto,2,medio,3,alto,3,alto,2,medio,2,medio,2,medio,2,medio
+1198357,traitor,juan cruz toledo huilen toledo,1,2,2021-05-21,1230855859,6,5257,43,85,0,134,5476,176,29,12,33,68,0,12,5,3,alto,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,2,medio
+4130067,bota baddest of them all  edit,interplanetary criminal eliza rose,1,2,2022-06-15,244585109,6,5153,53,102,12,113,5368,137,74,71,89,24,61,15,5,2,medio,3,alto,2,medio,3,alto,3,alto,2,medio,3,alto,2,medio,2,medio
+1193878,lilith feat suga of bts diablo iv anthem,halsey suga,1,2,2023-06-05,51985779,6,215,14,6,2,8,229,84,43,14,74,1,0,19,8,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio,3,alto,2,medio
+6599493,fair trade with travis scott,drake travis scott,1,2,2021-09-03,593917618,6,5403,116,118,0,96,5617,168,67,29,47,5,0,22,26,3,alto,3,alto,2,medio,1,baixo,1,baixo,1,baixo,2,medio,3,alto,3,alto
+4004325,obsessed,abhijay sharma riar saab,1,2,2022-09-29,71007139,6,161,79,10,0,2,173,135,80,85,74,62,0,8,9,1,baixo,3,alto,3,alto,3,alto,3,alto,3,alto,2,medio,1,baixo,3,alto
+1001428,the motto,tisto ava,1,2,2021-11-04,656013912,6,9151,107,240,0,268,9659,118,75,46,76,3,0,9,4,3,alto,2,medio,2,medio,2,medio,3,alto,1,baixo,2,medio,1,baixo,1,baixo
+7204092,bombonzinho  ao vivo,israel  rodolffo ana castela,1,2,2022-11-03,263453310,6,1254,69,26,2,73,1353,158,65,72,95,31,0,92,5,2,medio,3,alto,2,medio,3,alto,3,alto,2,medio,1,baixo,3,alto,2,medio
+5088165,igualito a mi ap,fuerza regida peso pluma,1,2,2022-12-30,158950978,6,265,84,8,1,5,278,145,76,80,81,19,0,6,9,1,baixo,3,alto,3,alto,3,alto,3,alto,2,medio,1,baixo,1,baixo,3,alto
+3647986,otro atardecer,bad bunny the mar,1,2,2022-05-06,319546754,7,1681,30,10,0,13,1704,108,78,55,60,59,0,7,4,2,medio,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo,1,baixo
+5415405,levitating feat dababy,dua lipa dababy,1,2,2020-03-27,1802514301,8,15894,13,198,0,544,16636,103,70,92,83,1,0,7,6,3,alto,1,baixo,2,medio,3,alto,3,alto,1,baixo,1,baixo,1,baixo,2,medio
+8171349,las morras,blessd peso pluma,1,2,2023-04-04,127026613,8,291,78,8,1,4,303,133,78,90,84,31,0,7,4,1,baixo,2,medio,3,alto,3,alto,3,alto,2,medio,2,medio,1,baixo,1,baixo
+3122686,la corriente,tony dize bad bunny,1,2,2022-05-06,479655659,8,1796,25,8,1,18,1822,196,66,58,79,23,0,22,20,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio,2,medio,3,alto,3,alto
+1589586,gol bolinha gol quadrado 2,mc pedrinho dj 900,1,2,2023-06-01,11956641,8,293,2,5,2,30,328,133,93,68,65,42,0,12,25,1,baixo,2,medio,3,alto,3,alto,2,medio,3,alto,2,medio,2,medio,3,alto
+8174616,jgl,luis r conriquez la adictiva,1,2,2022-02-18,323455692,9,782,33,15,1,6,803,113,70,97,59,55,0,27,12,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto
+4335470,nosso quadro,ana castela agroplay,1,2,2023-02-02,233801632,9,894,88,14,3,66,974,160,69,61,71,33,0,31,20,2,medio,3,alto,2,medio,2,medio,2,medio,3,alto,3,alto,3,alto,3,alto
+5937798,te felicito,shakira rauw alejandro,1,2,2022-04-21,606361689,9,4796,66,124,13,212,5132,174,70,57,64,23,0,8,32,3,alto,3,alto,2,medio,2,medio,2,medio,2,medio,1,baixo,1,baixo,3,alto
+3546474,shoong feat lisa of blackpink,taeyang lisa,1,2,2023-04-25,76910644,9,351,90,16,0,10,377,110,76,26,70,1,0,41,6,1,baixo,2,medio,3,alto,1,baixo,2,medio,1,baixo,1,baixo,3,alto,2,medio
+2162220,novidade na ,mc livinho dj matt d,1,2,2023-06-23,39709092,9,267,6,9,2,25,301,130,63,36,34,76,0,35,9,1,baixo,2,medio,2,medio,1,baixo,1,baixo,3,alto,3,alto,3,alto,3,alto
+7230461,di que si,grupo marca registrada grupo frontera,1,2,2023-02-03,147290338,10,356,64,4,2,4,364,182,57,80,59,8,0,6,5,1,baixo,3,alto,1,baixo,3,alto,2,medio,1,baixo,2,medio,1,baixo,2,medio
+1710471,chanel,becky g peso pluma,1,2,2023-03-30,161460990,10,681,92,15,2,21,717,132,85,53,68,40,0,9,4,1,baixo,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo,2,medio
+2143818,one kiss with dua lipa,calvin harris dua lipa,1,2,2017-06-02,1897517891,10,27705,122,537,6,2726,30968,124,79,59,86,4,0,8,11,3,alto,2,medio,3,alto,2,medio,3,alto,1,baixo,3,alto,1,baixo,3,alto
+5111873,volv,aventura bad bunny,1,2,2021-08-03,673801126,10,5375,24,138,0,133,5646,176,73,79,86,42,0,7,18,3,alto,3,alto,2,medio,3,alto,3,alto,3,alto,2,medio,1,baixo,3,alto
+5405010,miss you,robin schulz oliver tree,1,2,2022-08-05,497225336,10,5730,16,108,3,197,6035,145,59,20,74,1,0,15,5,3,alto,3,alto,1,baixo,1,baixo,3,alto,1,baixo,3,alto,2,medio,2,medio
+6794169,ch y la pizza,fuerza regida natanael cano,1,2,2022-12-01,288101651,10,536,72,10,3,8,554,149,66,85,60,40,0,14,13,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto,2,medio,3,alto
+4141537,pero t,karol g quevedo,1,2,2023-02-23,93438910,11,387,15,11,3,14,412,140,86,68,79,39,0,11,29,1,baixo,3,alto,3,alto,3,alto,3,alto,3,alto,1,baixo,2,medio,3,alto
+1717593,luna,junior h peso pluma,2,2,2023-06-22,55842345,11,201,117,19,1,8,228,128,75,79,63,33,0,15,4,1,baixo,2,medio,3,alto,3,alto,2,medio,2,medio,1,baixo,2,medio,1,baixo
+4823840,shorty party,cartel de santa la kelly,1,2,2023-03-04,162887075,12,432,14,8,2,12,452,96,93,47,47,33,0,10,36,1,baixo,1,baixo,3,alto,2,medio,1,baixo,2,medio,2,medio,1,baixo,3,alto
+5074676,shallow,lady gaga bradley cooper,1,2,2018-09-27,2159346687,12,16636,155,368,6,2854,19858,96,57,30,40,38,0,26,3,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,3,alto,1,baixo
+5526636,punto 40,baby rasta rauw alejandro,1,2,2022-09-22,304079786,12,3006,32,54,2,66,3126,107,87,20,83,0,4,31,9,2,medio,2,medio,3,alto,1,baixo,3,alto,1,baixo,3,alto,3,alto,3,alto
+3885692,tiago pzk bzrp music sessions vol 48,bizarrap tiago pzk,1,2,2021-12-29,374191487,12,1678,4,20,1,15,1713,96,66,76,82,47,0,10,32,2,medio,1,baixo,2,medio,3,alto,3,alto,3,alto,3,alto,1,baixo,3,alto
+3380441,belly dancer,byor imanbek,1,2,2022-02-18,383835984,13,5115,38,109,1,301,5525,122,85,42,80,6,0,17,14,2,medio,2,medio,3,alto,2,medio,3,alto,1,baixo,3,alto,2,medio,3,alto
+2969049,area codes,kaliii kaliii,1,2,2023-03-17,113509496,13,1197,34,44,1,25,1266,155,82,51,39,2,0,9,49,1,baixo,3,alto,3,alto,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto
+2012053,unforgiven feat nile rodgers,nile rodgers le sserafim,1,2,2023-05-01,92035115,13,327,110,14,0,9,350,104,80,38,88,11,0,11,5,1,baixo,1,baixo,3,alto,1,baixo,3,alto,2,medio,2,medio,2,medio,2,medio
+2468227,gat,maldy karol g,1,2,2022-08-25,322336177,13,3328,50,39,3,57,3424,93,63,34,86,26,0,21,39,2,medio,1,baixo,2,medio,1,baixo,3,alto,2,medio,2,medio,3,alto,3,alto
+4162862,my universe,coldplay bts,1,2,2021-09-24,1061966512,13,6127,0,0,0,0,6127,105,58,42,68,1,0,14,4,3,alto,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto,2,medio,1,baixo
+5031236,besos moja2,wisin  yandel rosal,1,2,2022-09-29,309483971,13,2460,7,53,3,56,2569,94,74,64,73,6,0,10,6,2,medio,1,baixo,2,medio,3,alto,2,medio,1,baixo,1,baixo,1,baixo,2,medio
+5836808,fin de semana,oscar maydon junior h,1,2,2023-01-13,307370144,14,592,84,11,1,6,609,98,70,37,54,6,0,9,8,2,medio,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio
+4238748,superman,eminem dina rae,1,2,2002-05-26,655466831,14,7615,51,18,0,1005,8638,130,80,64,76,2,0,20,6,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,2,medio,3,alto,2,medio
+1912112,i like you a happier song with doja cat,post malone doja cat,1,2,2022-06-03,609293408,14,5281,21,94,15,80,5455,101,74,43,69,12,0,12,7,3,alto,1,baixo,2,medio,2,medio,2,medio,2,medio,2,medio,2,medio,2,medio
+6029543,i was never there,the weeknd gesaffelstein,2,2,2018-03-29,705469769,15,4188,70,30,0,142,4360,114,32,17,74,14,0,17,3,3,alto,2,medio,1,baixo,1,baixo,3,alto,2,medio,1,baixo,2,medio,1,baixo
+6990936,callaita,bad bunny tainy,1,2,2019-05-31,1304313953,15,9539,116,162,7,355,10056,176,61,24,62,60,0,24,31,3,alto,3,alto,2,medio,1,baixo,2,medio,3,alto,1,baixo,3,alto,3,alto
+1849027,t,dennis mc kevin o chris,1,2,2023-05-04,111947664,15,731,17,27,4,73,831,130,86,59,96,50,1,9,5,1,baixo,2,medio,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,2,medio
+1910640,monoton,ozuna shakira,1,2,2022-10-19,380726517,15,3645,34,118,4,150,3913,132,87,82,70,42,0,21,5,2,medio,2,medio,3,alto,3,alto,2,medio,3,alto,2,medio,3,alto,2,medio
+6044216,qu ago,yuridia angela aguilar,1,2,2022-10-20,236857112,15,660,59,19,5,18,697,98,73,88,57,56,0,5,2,2,medio,1,baixo,2,medio,3,alto,1,baixo,3,alto,1,baixo,1,baixo,1,baixo
+2733163,playa del ingl,myke towers quevedo,1,2,2022-12-15,221409663,15,1701,15,30,2,34,1765,113,79,66,74,8,0,11,5,2,medio,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,2,medio,2,medio
+1027228,min,tini maria becerra,1,2,2021-04-29,596152090,16,3406,23,61,1,70,3537,92,85,92,54,16,0,29,7,3,alto,1,baixo,3,alto,3,alto,1,baixo,2,medio,2,medio,3,alto,2,medio
+5939675,gangstas paradise,coolio lv,1,2,1995-07-11,1357608774,17,10624,0,21,0,386,11031,80,63,40,61,9,0,56,6,3,alto,1,baixo,2,medio,1,baixo,2,medio,2,medio,2,medio,3,alto,2,medio
+7368008,moth to a flame with the weeknd,the weeknd swedish house mafia,1,2,2021-10-22,611994237,17,7495,172,114,2,284,7893,120,56,16,67,0,0,11,4,3,alto,2,medio,1,baixo,1,baixo,2,medio,1,baixo,1,baixo,2,medio,1,baixo
+5555264,sunroof,nicky youre dazy,1,2,2021-12-03,652704649,17,3741,35,156,19,110,4007,131,77,84,71,35,0,15,4,3,alto,2,medio,3,alto,3,alto,2,medio,3,alto,1,baixo,2,medio,1,baixo
+3225408,lagunas,jasiel nuez peso p,2,2,2023-06-22,39058561,18,58,106,2,2,4,64,116,77,79,62,33,1,15,3,1,baixo,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo
+4604858,rich flex,drake 21 savage,8,2,2022-11-04,573633020,18,4657,84,84,0,42,4783,153,56,42,52,5,0,36,24,3,alto,3,alto,1,baixo,2,medio,1,baixo,1,baixo,2,medio,3,alto,3,alto
+8134740,la santa,daddy yankee bad bunny,2,2,2020-02-29,759208783,20,4890,42,52,0,100,5042,93,74,59,87,3,0,8,5,3,alto,1,baixo,2,medio,2,medio,3,alto,1,baixo,2,medio,1,baixo,2,medio
+4662762,tarot,bad bunny jhay cortez,2,2,2022-05-06,608228647,20,2482,77,27,2,22,2531,114,80,42,68,2,0,66,4,3,alto,2,medio,3,alto,2,medio,2,medio,1,baixo,3,alto,3,alto,1,baixo
+4242212,we found love,rihanna calvin harris,1,2,2011-01-01,1235005533,21,36843,91,321,1,4607,41771,128,73,60,77,3,0,11,4,3,alto,2,medio,2,medio,2,medio,3,alto,1,baixo,2,medio,2,medio,1,baixo
+6523480,something just like this,the chainsmokers coldplay,1,2,2017-02-22,2204080728,21,23375,188,336,3,2692,26403,103,61,47,65,3,0,17,4,3,alto,1,baixo,2,medio,2,medio,2,medio,1,baixo,2,medio,2,medio,1,baixo
+3574464,dakiti,bad bunny jhay cortez,2,2,2020-10-30,1763363713,21,11215,166,189,9,525,11929,110,73,14,57,40,0,11,5,3,alto,2,medio,2,medio,1,baixo,1,baixo,3,alto,1,baixo,2,medio,2,medio
+5495832,69,nicky jam feid,1,2,2023-05-18,57945987,22,1134,14,39,2,48,1221,93,79,58,62,11,0,11,23,1,baixo,1,baixo,3,alto,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto
+4031115,bebe dame,fuerza regida grupo frontera,1,2,2022-12-16,367316268,22,849,129,27,7,21,897,157,54,75,60,30,0,7,5,2,medio,3,alto,1,baixo,3,alto,2,medio,2,medio,1,baixo,1,baixo,2,medio
+7083603,all my life feat j cole,j cole lil durk,1,2,2023-05-12,144565150,23,2175,145,69,2,69,2313,143,83,69,44,15,0,10,33,1,baixo,3,alto,3,alto,3,alto,1,baixo,2,medio,1,baixo,1,baixo,3,alto
+3595953,el azul,junior h peso pluma,2,2,2023-02-10,354495408,25,692,107,10,3,6,708,144,56,84,65,23,0,10,6,2,medio,3,alto,1,baixo,3,alto,2,medio,2,medio,1,baixo,1,baixo,2,medio
+3608552,escapism,raye 070 shake,2,2,2022-10-12,532336353,25,5129,84,116,18,114,5359,96,54,25,74,14,0,9,11,3,alto,1,baixo,1,baixo,1,baixo,3,alto,2,medio,2,medio,1,baixo,3,alto
+7143216,prc,natanael cano peso pluma,1,2,2023-01-23,436027885,26,961,143,19,6,10,990,138,78,89,83,10,0,12,5,2,medio,3,alto,3,alto,3,alto,3,alto,2,medio,2,medio,2,medio,2,medio
+1001427,1035,tisto tate m,1,2,2022-11-01,325592432,26,4942,104,190,18,147,5279,120,70,70,79,7,0,18,10,2,medio,2,medio,2,medio,3,alto,3,alto,1,baixo,2,medio,3,alto,3,alto
+5152397,cairo,karol g ovy on the drums,1,2,2022-11-13,294352144,26,2418,66,52,1,55,2525,115,95,43,69,47,0,9,31,2,medio,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo,3,alto
+8110201,que vuelvas,carin leon grupo frontera,1,2,2022-12-09,2762,26,763,110,21,9,21,805,162,49,78,64,19,0,11,4,1,baixo,3,alto,1,baixo,3,alto,2,medio,2,medio,2,medio,2,medio,2,medio
+3007244,jimmy cooks feat 21 savage,drake 21 savage,8,2,2022-06-17,618885532,27,5871,121,81,1,58,6010,163,54,40,67,0,0,9,17,3,alto,3,alto,1,baixo,2,medio,2,medio,1,baixo,3,alto,1,baixo,3,alto
+2838411,mamiii,karol g becky g,1,2,2022-02-10,716591492,28,6809,102,151,5,175,7135,94,84,90,70,9,0,14,8,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo,1,baixo,2,medio,2,medio
+8399372,ferrari,james hype miggy dela rosa,1,2,2022-03-14,462791599,28,7758,79,173,0,175,8106,125,84,70,69,1,0,5,5,2,medio,2,medio,3,alto,3,alto,2,medio,1,baixo,1,baixo,1,baixo,2,medio
+7680579,until i found you with em beihold  em beihold version,em beihold stephen sanchez,1,2,2022-04-22,600976848,30,2790,96,60,0,71,2921,101,34,32,57,78,0,20,3,3,alto,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,2,medio,3,alto,1,baixo
+4826716,lovely  bonus track,billie eilish khalid,1,2,2017-08-11,2355719893,30,15032,96,221,2,1078,16331,115,35,12,30,93,0,10,3,3,alto,2,medio,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,1,baixo
+2339996,gato de noche,nengo flow bad bunny,1,2,2022-12-22,304118600,30,2651,55,21,3,32,2704,94,89,61,66,17,0,36,16,2,medio,1,baixo,3,alto,2,medio,2,medio,2,medio,2,medio,3,alto,3,alto
+2767209,la canci,j balvin bad bunny,1,2,2019-06-28,1435127549,31,6398,109,177,3,305,6880,176,75,43,65,15,0,11,32,3,alto,3,alto,3,alto,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto
+7811952,money trees,kendrick lamar jay rock,1,2,2012-01-01,1093605526,32,26792,113,69,0,695,27556,144,74,37,53,7,0,21,10,3,alto,3,alto,2,medio,1,baixo,1,baixo,1,baixo,2,medio,3,alto,3,alto
+8262356,rauw alejandro bzrp music sessions vol 56,rauw alejandro bizarrap,2,2,2023-06-21,66902503,32,871,59,25,5,32,928,128,78,59,65,10,0,26,5,1,baixo,2,medio,3,alto,2,medio,2,medio,2,medio,3,alto,3,alto,2,medio
+7910702,stargirl interlude,the weeknd lana del rey,1,2,2016-11-24,611700552,32,1275,8,13,0,5,1293,90,59,52,48,38,5,10,11,3,alto,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto,1,baixo,3,alto
+6778924,x si volvemos,karol g romeo santos,1,2,2023-02-02,266624541,33,2127,80,45,8,53,2225,178,79,58,78,34,0,11,25,2,medio,3,alto,3,alto,2,medio,3,alto,3,alto,1,baixo,2,medio,3,alto
+2708944,frgil feat grupo front,yahritza y su esencia grupo frontera,1,2,2023-04-07,188933502,34,672,108,19,9,24,715,150,61,39,73,37,0,11,3,2,medio,3,alto,1,baixo,1,baixo,2,medio,3,alto,3,alto,2,medio,1,baixo
+1183111,nia bo,sean paul feid,1,2,2023-04-21,115010040,34,1305,26,29,5,43,1377,91,82,47,62,10,0,10,15,1,baixo,1,baixo,3,alto,2,medio,2,medio,2,medio,1,baixo,1,baixo,3,alto
+6879361,desesperados,chencho corleone rauw alejandro,1,2,2021-06-25,809306935,34,6821,58,83,7,128,7032,90,87,51,69,36,0,9,8,3,alto,1,baixo,3,alto,2,medio,2,medio,3,alto,1,baixo,1,baixo,2,medio
+2869874,tulum,peso pluma grupo frontera,1,2,2023-06-28,52294266,34,266,185,20,8,13,299,168,56,63,87,39,0,11,5,1,baixo,3,alto,1,baixo,2,medio,3,alto,3,alto,3,alto,2,medio,2,medio
+1443757,la jumpa,arcangel bad bunny,1,2,2022-11-30,538115192,34,3794,77,47,10,53,3894,123,71,58,70,30,0,32,19,3,alto,2,medio,2,medio,2,medio,2,medio,2,medio,1,baixo,3,alto,3,alto
+3670203,baby hello,rauw alejandro bizarrap,2,2,2023-06-23,54266102,35,1004,80,42,3,58,1104,130,77,84,89,17,0,43,5,1,baixo,2,medio,3,alto,3,alto,3,alto,2,medio,2,medio,3,alto,2,medio
+2023156,stay with justin bieber,justin bieber the kid laroi,1,2,2021-07-09,2665343922,36,17050,99,492,31,798,18340,170,59,48,76,4,0,10,5,3,alto,3,alto,1,baixo,2,medio,3,alto,1,baixo,2,medio,1,baixo,2,medio
+3766692,danza kuduro,don omar lucenzo,1,2,2010-01-01,1279434863,37,17138,81,119,1,974,18231,130,47,86,92,8,0,5,24,3,alto,2,medio,1,baixo,3,alto,3,alto,1,baixo,2,medio,1,baixo,3,alto
+7402588,la inocente,feid mora,1,2,2022-04-01,477033549,37,2598,57,28,8,43,2669,92,76,46,79,31,0,7,6,2,medio,1,baixo,3,alto,2,medio,3,alto,2,medio,3,alto,1,baixo,2,medio
+1696728,rara vez,taiu milo j,1,2,2023-02-08,248088961,38,893,23,19,3,24,936,120,84,96,71,18,0,34,17,2,medio,2,medio,3,alto,3,alto,2,medio,2,medio,2,medio,3,alto,3,alto
+5560446,coco chanel,bad bunny eladio carrion,1,2,2023-03-17,250305248,38,1962,89,28,5,29,2019,150,68,14,76,4,0,10,4,2,medio,3,alto,2,medio,1,baixo,3,alto,1,baixo,2,medio,1,baixo,1,baixo
+7384134,ojitos lindos,bomba estreo bad b,1,2,2022-05-06,1133865788,38,6135,113,71,13,99,6305,80,65,27,69,8,0,53,4,3,alto,1,baixo,2,medio,1,baixo,2,medio,1,baixo,1,baixo,3,alto,1,baixo
+1899106,hey mor,ozuna feid,1,2,2022-10-06,674072710,38,4637,79,63,11,89,4789,98,90,40,59,0,0,10,29,3,alto,1,baixo,3,alto,1,baixo,2,medio,1,baixo,2,medio,1,baixo,3,alto
+2415106,yandel 150,yandel feid,2,2,2022-12-20,585695368,38,3618,74,47,14,80,3745,168,78,58,73,5,0,10,7,3,alto,3,alto,3,alto,2,medio,2,medio,1,baixo,2,medio,1,baixo,2,medio
+6456333,classy 101,feid young miko,1,2,2023-03-31,335222234,40,2610,100,43,14,54,2707,100,86,67,66,14,0,12,16,2,medio,1,baixo,3,alto,3,alto,2,medio,2,medio,3,alto,2,medio,3,alto
+1197669,un x100to,bad bunny grupo frontera,1,2,2023-04-17,505671438,40,2876,205,41,12,54,2971,83,57,56,72,23,0,27,5,3,alto,1,baixo,1,baixo,2,medio,2,medio,2,medio,2,medio,3,alto,2,medio
+7757967,peso pluma bzrp music sessions vol 55,bizarrap peso pluma,1,2,2023-05-31,200647221,40,1313,152,17,11,32,1362,133,85,81,67,26,0,12,5,2,medio,2,medio,3,alto,3,alto,2,medio,2,medio,2,medio,2,medio,2,medio
+4576591,mojabi ghost,tainy bad bunny,1,2,2023-06-29,61245289,40,859,109,35,14,41,935,122,81,74,71,14,0,56,4,1,baixo,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto,3,alto,1,baixo
+1726395,boys a liar pt 2,pinkpantheress ice spice,1,2,2023-02-03,156338624,41,5184,84,154,14,102,5440,133,70,86,81,25,0,25,5,1,baixo,2,medio,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto,2,medio
+2302386,unholy feat kim petras,sam smith kim petras,1,2,2022-09-22,1230675890,42,8576,108,216,26,331,9123,131,71,24,47,1,0,27,9,3,alto,2,medio,2,medio,1,baixo,1,baixo,1,baixo,2,medio,3,alto,3,alto
+3331159,me porto bonito,chencho corleone bad bunny,1,2,2022-05-06,1440757818,43,8870,120,104,26,141,9115,92,91,43,71,9,0,9,8,3,alto,1,baixo,3,alto,2,medio,2,medio,2,medio,3,alto,1,baixo,2,medio
+4669801,shakira bzrp music sessions vol 53,shakira bizarrap,1,2,2023-01-11,721975598,44,5724,108,119,29,254,6097,122,78,50,63,27,0,9,5,3,alto,2,medio,3,alto,2,medio,2,medio,2,medio,2,medio,1,baixo,2,medio
+7412049,el merengue,marshmello manuel turizo,1,2,2023-03-03,223633238,44,2114,75,80,11,110,2304,124,78,70,68,3,1,11,4,2,medio,2,medio,3,alto,3,alto,2,medio,1,baixo,3,alto,2,medio,1,baixo
+5586506,la bebe  remix,peso pluma yng lvcas,1,2,2023-03-17,553634067,44,2953,110,49,13,66,3068,170,81,56,48,21,0,8,33,3,alto,3,alto,3,alto,2,medio,1,baixo,2,medio,1,baixo,1,baixo,3,alto
+6416915,where are you now,lost frequencies calum scott,1,2,2021-07-30,972509632,44,10565,122,238,17,557,11360,121,67,26,64,52,0,17,10,3,alto,2,medio,2,medio,1,baixo,2,medio,3,alto,3,alto,2,medio,3,alto
+4431554,quevedo bzrp music sessions vol 52,bizarrap quevedo,1,2,2022-07-06,1356565093,45,8506,65,94,14,164,8764,128,62,55,78,1,3,23,4,3,alto,2,medio,2,medio,2,medio,3,alto,1,baixo,3,alto,3,alto,1,baixo
+6230777,die for you  remix,ariana grande the weeknd,2,2,2023-02-24,518745108,47,3408,86,87,1,74,3569,67,53,50,53,23,0,44,7,3,alto,1,baixo,1,baixo,2,medio,1,baixo,2,medio,3,alto,3,alto,2,medio
+1549051,miracle with ellie goulding,calvin harris ellie goulding,1,2,2023-03-10,211050784,48,5120,115,161,9,246,5527,143,64,31,87,4,4,8,4,2,medio,3,alto,2,medio,1,baixo,3,alto,1,baixo,3,alto,1,baixo,1,baixo
+3464535,tqg,karol g shakira,1,2,2023-02-23,618990393,49,4284,123,115,18,184,4583,180,72,61,63,67,0,9,28,3,alto,3,alto,2,medio,2,medio,2,medio,3,alto,1,baixo,1,baixo,3,alto
+1892693,ella baila sola,eslabon armado peso pluma,1,2,2023-03-16,725980112,50,3090,222,34,13,43,3167,148,67,83,76,48,0,8,3,3,alto,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,1,baixo,1,baixo
+3276282,beso,rauw alejandro rosal,1,2,2023-03-24,357925728,50,4053,121,82,12,182,4317,95,77,53,64,74,0,17,14,2,medio,1,baixo,3,alto,2,medio,2,medio,3,alto,1,baixo,3,alto,3,alto
+8274842,montagem  fr punk,ayparia unxbected,1,2,2012-06-20,58054811,50,641,52,1,0,8,650,129,63,84,82,70,8,9,7,1,baixo,2,medio,2,medio,3,alto,3,alto,3,alto,3,alto,1,baixo,2,medio
+3448376,calm down with selena gomez,rma selena g,1,2,2022-03-25,899183384,77,7112,119,202,38,318,7632,107,80,82,80,43,0,14,4,3,alto,1,baixo,3,alto,3,alto,3,alto,3,alto,2,medio,2,medio,1,baixo
+3827571,sunflower  spiderman into the spiderverse,post malone swae lee,1,2,2018-10-09,2808096550,78,24094,117,372,4,843,25309,90,76,91,50,54,0,7,5,3,alto,1,baixo,3,alto,3,alto,1,baixo,3,alto,1,baixo,1,baixo,2,medio
+4367298,starboy,the weeknd daft punk,1,2,2016-09-21,2565529693,79,29536,137,281,1,2445,32262,186,68,49,59,16,0,13,28,3,alto,3,alto,2,medio,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto
+5165382,im good blue,bebe rexha david guetta,1,2,2022-08-26,1109433169,80,12482,184,291,45,537,13310,128,56,38,97,4,0,35,4,3,alto,2,medio,1,baixo,1,baixo,3,alto,1,baixo,2,medio,3,alto,1,baixo
+5031502,sprinter,dave central cee,1,2,2023-06-01,183706234,91,2186,213,67,17,88,2341,141,92,66,58,19,0,8,24,1,baixo,3,alto,3,alto,3,alto,1,baixo,2,medio,2,medio,1,baixo,3,alto
+4082370,seven feat latto explicit ver,latto jung kook,1,2,2023-07-14,141381703,147,553,263,43,10,45,641,125,80,89,83,31,0,8,4,1,baixo,2,medio,3,alto,3,alto,3,alto,2,medio,3,alto,1,baixo,1,baixo
+2475712,agudo mgi,styrx utku inc thezth,1,3,1930-01-01,90598517,0,323,0,4,0,14,341,130,65,49,80,22,4,7,5,1,baixo,2,medio,2,medio,2,medio,3,alto,2,medio,3,alto,1,baixo,2,medio
+6909746,white christmas,bing crosby john scott trotter  his orchestra ken darby singers,1,3,1942-01-01,395591396,0,11940,79,73,0,123,12136,96,23,19,25,91,0,40,3,2,medio,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo
+1291434,its beginning to look a lot like christmas with mitchell ayres  his orchestra,perry como the fontane sisters mitchell ayres  his orchestra,1,3,1958-01-01,295998468,0,6290,39,89,0,158,6537,113,73,72,32,77,0,15,5,2,medio,2,medio,2,medio,3,alto,1,baixo,3,alto,3,alto,2,medio,2,medio
+5906167,get lucky  radio edit,pharrell williams nile rodgers daft punk,1,3,2013-01-01,933815613,0,52898,1,203,0,8215,61316,116,79,87,81,4,0,10,4,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,1,baixo,1,baixo,1,baixo
+5380546,fingers crossed,lauren spencer smith lauren spencer smith lauren spencer smith,1,3,2022-01-05,349585590,0,2235,7,65,16,70,2370,109,60,45,47,62,0,31,5,2,medio,2,medio,1,baixo,2,medio,1,baixo,3,alto,1,baixo,3,alto,2,medio
+6145430,here we go again feat tyler the cr,the weeknd tyler the creator,1,3,2022-01-07,88103848,0,1420,18,7,0,7,1434,135,41,27,64,36,0,60,3,1,baixo,3,alto,1,baixo,1,baixo,2,medio,3,alto,1,baixo,3,alto,1,baixo
+1582892,pushin p feat young thug,young thug future gunna,1,3,2022-01-07,311395144,0,3517,28,54,0,43,3614,78,77,49,42,1,1,13,19,2,medio,1,baixo,3,alto,2,medio,1,baixo,1,baixo,3,alto,2,medio,3,alto
+7741272,rumble,skrillex flowdan fred again,1,3,2022-01-17,78489819,0,2849,45,39,0,27,2915,140,81,6,84,5,23,6,6,1,baixo,3,alto,3,alto,1,baixo,3,alto,1,baixo,3,alto,1,baixo,2,medio
+2296238,im not here to make friends,sam smith calvin harris jessie reyez,1,3,2023-01-27,103787664,0,1890,1,86,0,49,2025,115,70,84,90,17,0,41,6,1,baixo,2,medio,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto,2,medio
+1336403,city of gods,kanye west alicia keys fivio foreign,1,3,2022-02-11,107255472,0,2096,3,34,0,30,2160,147,47,50,80,10,0,32,38,1,baixo,3,alto,1,baixo,2,medio,3,alto,2,medio,1,baixo,3,alto,3,alto
+3895305,private landing feat justin bieber  future,don toliver future justin bieber,1,3,2023-02-23,105062254,0,1190,3,29,0,18,1237,137,84,44,67,8,0,11,6,1,baixo,3,alto,3,alto,2,medio,2,medio,1,baixo,3,alto,2,medio,2,medio
+2079388,meet me at our spot,the anxiety willow tyler cole,1,3,2020-03-13,530511203,0,6734,14,47,0,90,6871,95,77,40,47,2,0,9,3,3,alto,1,baixo,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,1,baixo
+7345306,leave the door open,bruno mars anderson paak silk sonic,2,3,2021-03-05,1115880852,0,14417,123,237,0,569,15223,148,59,72,62,18,0,9,3,3,alto,3,alto,1,baixo,3,alto,2,medio,2,medio,1,baixo,1,baixo,1,baixo
+3252166,peaches feat daniel caesar  giveon,justin bieber daniel caesar giveon,1,3,2021-03-19,1445941661,0,14140,52,231,6,612,14983,90,63,49,68,38,0,42,18,3,alto,1,baixo,2,medio,2,medio,2,medio,3,alto,1,baixo,3,alto,3,alto
+7500786,pantysito,feid alejo robi,1,3,2022-03-18,273005485,0,2995,17,49,0,30,3074,98,83,63,74,14,0,16,6,2,medio,1,baixo,3,alto,2,medio,3,alto,2,medio,2,medio,2,medio,2,medio
+4342968,crazy what love can do,david guetta ella henderson becky hill,1,3,2022-03-18,286739476,0,5290,73,139,0,142,5571,123,60,46,71,3,0,16,4,2,medio,2,medio,1,baixo,2,medio,2,medio,1,baixo,2,medio,2,medio,2,medio
+3841850,si quieren frontear,de la ghetto duki quevedo,1,3,2022-03-31,178512385,0,859,0,14,0,11,884,82,79,48,84,13,0,21,23,1,baixo,1,baixo,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto,3,alto
+8555603,die hard,kendrick lamar blxst amanda reifer,1,3,2022-05-13,237351106,0,4627,13,38,0,32,4697,101,78,40,74,36,0,17,27,2,medio,1,baixo,3,alto,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto
+7762851,savior,kendrick lamar sam dew baby keem,1,3,2022-05-13,86176890,0,2291,0,9,0,8,2308,123,61,66,71,53,0,32,46,1,baixo,2,medio,1,baixo,3,alto,2,medio,3,alto,1,baixo,3,alto,3,alto
+6774092,purple hearts,kendrick lamar ghostface killah summer walker,1,3,2022-05-13,76831876,0,2308,0,7,0,7,2322,138,57,71,82,19,0,15,29,1,baixo,3,alto,1,baixo,3,alto,3,alto,2,medio,1,baixo,2,medio,3,alto
+3169976,potion with dua lipa  young thug,calvin harris dua lipa young thug,1,3,2022-05-27,190625045,0,3983,45,73,0,119,4175,100,82,76,70,16,0,8,5,2,medio,1,baixo,3,alto,3,alto,2,medio,2,medio,1,baixo,1,baixo,2,medio
+8454029,am remix,j balvin nio garcia bad bunny,1,3,2021-06-24,528544703,0,6556,5,93,1,67,6716,172,74,79,66,11,0,8,16,3,alto,3,alto,2,medio,3,alto,2,medio,2,medio,2,medio,1,baixo,3,alto
+2773298,dont you worry,david guetta shakira black eyed peas,1,3,2022-06-16,240918092,0,2442,4,81,1,248,2771,132,82,49,88,20,0,21,3,2,medio,2,medio,3,alto,2,medio,3,alto,2,medio,2,medio,3,alto,1,baixo
+4866757,all the way live spiderman across the spiderverse metro boomin  future lil uzi vert,future lil uzi vert metro boomin,1,3,2023-06-02,37126685,0,259,17,5,0,5,269,135,77,28,55,18,0,22,15,1,baixo,3,alto,3,alto,1,baixo,1,baixo,2,medio,3,alto,3,alto,3,alto
+6621439,hot shit feat ye  lil durk,kanye west lil durk cardi b,1,3,2022-07-01,85924992,0,1601,0,11,0,2,1614,157,88,52,69,0,0,8,23,1,baixo,3,alto,3,alto,2,medio,2,medio,1,baixo,1,baixo,1,baixo,3,alto
+5565096,la loto,anitta tini becky g,1,3,2022-07-06,121189256,0,945,3,49,0,57,1051,90,85,80,83,10,0,8,11,1,baixo,1,baixo,3,alto,3,alto,3,alto,2,medio,1,baixo,1,baixo,3,alto
+8725160,love nwantiti  remix,ckay axel dj yo,1,3,2019-08-30,540539717,0,2696,2,42,0,57,2795,120,58,44,60,44,9,5,6,3,alto,2,medio,1,baixo,2,medio,2,medio,3,alto,3,alto,1,baixo,2,medio
+6270180,bad decisions with bts  snoop dogg,snoop dogg bts benny blanco,1,3,2022-08-05,219196651,0,1456,2,53,0,33,1542,120,77,94,87,2,0,23,12,2,medio,2,medio,3,alto,3,alto,3,alto,1,baixo,3,alto,3,alto,3,alto
+6485441,staying alive feat drake  lil baby,drake dj khaled lil baby,1,3,2022-08-05,170732845,0,2107,1,51,0,50,2208,130,72,18,46,7,0,28,8,1,baixo,2,medio,2,medio,1,baixo,1,baixo,1,baixo,2,medio,3,alto,2,medio
+4666772,knife talk with 21 savage ft project pat,drake project pat 21 savage,1,3,2021-09-03,594482982,0,5199,43,45,0,45,5289,146,85,22,37,13,0,7,30,3,alto,3,alto,3,alto,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto
+6195210,way 2 sexy with future  young thug,drake future young thug,1,3,2021-09-03,489945871,0,5481,30,144,0,86,5711,136,80,33,60,0,0,32,14,3,alto,3,alto,3,alto,1,baixo,2,medio,1,baixo,3,alto,3,alto,3,alto
+6575753,sad girlz luv money remix feat kali uchis,kali uchis amaarae moliy,1,3,2021-09-16,354065229,0,3643,3,69,0,70,3782,110,86,31,53,43,0,11,6,2,medio,2,medio,3,alto,1,baixo,1,baixo,3,alto,1,baixo,2,medio,2,medio
+4727736,better days neiked x mae muller x polo g,neiked mae muller polo g,1,3,2021-09-24,421040617,0,4091,2,105,13,73,4269,110,72,67,68,0,0,14,4,2,medio,2,medio,2,medio,3,alto,2,medio,1,baixo,2,medio,2,medio,2,medio
+6055373,evoque prata,dj escobar mc menor sg mc menor hr,1,3,2022-09-09,174006928,0,852,1,14,0,50,916,87,87,52,52,31,0,28,24,1,baixo,1,baixo,3,alto,2,medio,1,baixo,2,medio,2,medio,3,alto,3,alto
+1367281,enemy  from the series arcane league of legends,imagine dragons league of legends arcane,1,3,2021-10-27,1223481149,0,824,8,8,2,8,840,77,73,54,74,23,0,41,23,3,alto,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio,3,alto,3,alto
+6773043,en la de ella,feid sech jhayco,1,3,2022-10-20,133895612,0,1320,26,29,0,17,1366,97,82,67,77,8,0,12,5,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo,1,baixo,2,medio,2,medio
+4439384,smokin out the window,bruno mars anderson paak silk sonic,2,3,2021-11-05,383550148,0,4963,40,63,0,76,5102,82,63,85,62,6,0,35,4,2,medio,1,baixo,2,medio,3,alto,2,medio,1,baixo,2,medio,3,alto,1,baixo
+2407166,s,anuel aa myke towers jhay cortez,1,3,2021-11-18,177129919,0,903,26,30,0,15,948,90,63,75,75,17,0,11,8,1,baixo,1,baixo,2,medio,3,alto,3,alto,2,medio,3,alto,2,medio,2,medio
+3559931,the family madrigal,olga merediz stephanie beatriz encanto  cast,1,3,2021-11-19,184937148,0,1150,38,20,0,12,1182,141,59,56,63,12,0,6,36,2,medio,3,alto,1,baixo,2,medio,2,medio,2,medio,1,baixo,1,baixo,3,alto
+2598352,pussy  millions feat travis scott,drake travis scott 21 savage,1,3,2022-11-04,191333656,0,1930,8,24,0,17,1971,122,75,45,63,6,0,35,12,2,medio,2,medio,3,alto,2,medio,2,medio,1,baixo,3,alto,3,alto,3,alto
+2828618,california love  original version explicit,dr dre 2pac roger,1,3,1995-12-28,579395142,0,18773,17,128,0,1663,20564,92,77,76,84,3,0,38,4,3,alto,1,baixo,3,alto,3,alto,3,alto,1,baixo,3,alto,3,alto,1,baixo
+1718193,niagara falls foot or 2 with travis scott  21 savage,travis scott 21 savage metro boomin,1,3,2022-12-02,195516622,0,1602,22,12,0,12,1626,88,49,24,66,19,0,18,29,2,medio,1,baixo,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto,3,alto
+6675451,mejor que yo,mambo kingz dj luian anuel aa,2,3,2023-05-04,50847624,1,675,13,9,0,11,695,178,62,56,66,18,0,12,5,1,baixo,3,alto,2,medio,2,medio,2,medio,2,medio,3,alto,2,medio,2,medio
+2503884,malvad,xam gustah neo b,1,3,2021-11-30,240684449,1,648,3,14,0,81,743,133,82,52,61,38,0,14,27,2,medio,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio,2,medio,3,alto
+5128815,me arrepent,ak420 cris mj pailita,1,3,2022-03-30,118381354,2,273,2,12,0,4,289,92,86,91,79,29,0,60,16,1,baixo,1,baixo,3,alto,3,alto,3,alto,2,medio,1,baixo,3,alto,3,alto
+8917301,baile no morro,mc vitin da igrejinha mc tairon dj win,1,3,2022-06-10,129314708,2,685,0,17,0,24,726,130,71,78,40,46,0,7,45,1,baixo,2,medio,2,medio,3,alto,1,baixo,3,alto,3,alto,1,baixo,3,alto
+6352056,nostl,chris brown rvssian rauw alejandro,1,3,2021-09-08,436695353,2,2780,76,86,0,59,2925,98,73,60,85,17,0,24,5,2,medio,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio
+6759871,medallo,justin quiles lenny tavrez bl,1,3,2021-10-27,393230256,2,2780,21,54,1,57,2891,90,79,79,70,57,0,66,8,2,medio,1,baixo,3,alto,3,alto,2,medio,3,alto,1,baixo,3,alto,2,medio
+2661792,vampiro,matu wiu ,1,3,2022-01-30,187772591,4,540,3,26,0,39,605,115,78,63,64,1,0,7,4,2,medio,2,medio,3,alto,2,medio,2,medio,1,baixo,2,medio,1,baixo,1,baixo
+6046483,pipoco,melody ana castela dj chris no beat,1,3,2022-05-20,191873381,4,1112,2,22,1,65,1199,135,77,74,74,47,0,34,8,2,medio,3,alto,3,alto,3,alto,3,alto,3,alto,2,medio,3,alto,2,medio
+3070266,ai preto,l7nnon dj biel do furduncinho bianca,1,3,2022-06-03,176103902,4,894,0,28,0,54,976,130,95,83,57,54,0,10,25,1,baixo,2,medio,3,alto,3,alto,1,baixo,3,alto,1,baixo,1,baixo,3,alto
+2816072,excuses,intense ap dhillon gurinder gill,1,3,2020-07-24,327498031,4,272,21,7,0,2,281,95,84,49,72,8,0,15,8,2,medio,1,baixo,3,alto,2,medio,2,medio,1,baixo,1,baixo,2,medio,2,medio
+1769305,casei com a putaria,mc ryan sp love funk mc paiva zs,1,3,2022-07-01,187701588,4,648,0,0,0,30,678,161,59,62,60,12,0,5,44,2,medio,3,alto,1,baixo,2,medio,2,medio,2,medio,1,baixo,1,baixo,3,alto
+8756692,mu,steve aoki tini la joaqui,1,3,2023-01-12,120972253,6,658,7,33,2,53,744,90,68,83,71,3,0,31,8,1,baixo,1,baixo,2,medio,3,alto,2,medio,1,baixo,3,alto,3,alto,2,medio
+3747351,phir aur kya chahiye from zara hatke zara bachke,arijit singh sachinjigar amitabha bhattacharya,1,3,2023-05-15,64533040,6,178,71,6,0,1,185,100,56,53,55,53,0,12,4,1,baixo,1,baixo,1,baixo,2,medio,1,baixo,3,alto,1,baixo,2,medio,1,baixo
+3163708,kesariya from brahmastra,pritam arijit singh amitabh bhattacharya,1,3,2022-07-17,366599607,6,292,98,26,0,4,322,94,58,44,57,57,0,10,3,2,medio,1,baixo,1,baixo,2,medio,1,baixo,3,alto,3,alto,1,baixo,1,baixo
+7654973,bamba feat aitch  bia,luciano aitch b,1,3,2022-09-22,146223492,7,869,12,14,2,12,895,138,80,82,81,14,0,13,36,1,baixo,3,alto,3,alto,3,alto,3,alto,2,medio,3,alto,2,medio,3,alto
+2313207,watch this  arizonatears pluggnb remix,sped up nightcore arizonatears lil uzi vert,1,3,2023-02-05,207033255,10,1638,0,0,0,21,1659,130,69,36,90,1,10,15,4,2,medio,2,medio,2,medio,1,baixo,3,alto,1,baixo,3,alto,2,medio,1,baixo
+3393833,thunder,prezioso gabry ponte lumx,1,3,2021-05-07,422691058,10,4846,16,54,0,259,5159,101,67,40,90,3,0,34,6,2,medio,1,baixo,2,medio,2,medio,3,alto,1,baixo,1,baixo,3,alto,2,medio
+3827734,wait for u feat drake  tems,drake future tems,1,3,2022-04-27,556585270,14,5491,84,128,0,75,5694,83,46,34,64,31,0,7,34,3,alto,1,baixo,1,baixo,1,baixo,2,medio,2,medio,1,baixo,1,baixo,3,alto
+1207987,un finde  crossover 2,big one fmk ke personajes,1,3,2023-04-04,142095275,14,561,14,4,5,12,577,192,50,85,52,11,0,28,6,1,baixo,3,alto,1,baixo,3,alto,1,baixo,2,medio,1,baixo,3,alto,2,medio
+6609930,am i dreaming metro boomin  aap rocky roisee,aap rocky metro boomin roisee,1,3,2023-06-02,94186466,16,727,60,17,1,28,772,90,60,13,53,4,0,21,4,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,1,baixo,3,alto,1,baixo
+3512881,superhero heroes  villains with future  chris brown,future chris brown metro boomin,1,3,2022-12-02,401036314,16,2959,69,41,0,38,3038,117,72,45,59,14,0,20,21,2,medio,2,medio,2,medio,2,medio,2,medio,2,medio,2,medio,3,alto,3,alto
+2011518,volando  remix,sech bad bunny mora,1,3,2021-07-08,610045621,19,3272,34,101,1,70,3443,154,66,63,69,21,0,11,7,3,alto,3,alto,2,medio,3,alto,2,medio,2,medio,3,alto,2,medio,2,medio
+8123858,amg,natanael cano gabito ballesteros peso pluma,1,3,2022-11-24,463564958,19,995,117,12,5,9,1016,136,77,79,73,15,0,27,10,2,medio,3,alto,3,alto,3,alto,2,medio,2,medio,1,baixo,3,alto,3,alto
+4978027,dreamers music from the fifa world cup qatar 2022 official soundtrack,bts jung kook fifa sound,1,3,2022-11-20,323358833,20,889,78,11,0,35,935,115,71,34,88,16,0,44,4,2,medio,2,medio,2,medio,1,baixo,3,alto,2,medio,3,alto,3,alto,2,medio
+5478299,mercho,migrantes lil cake nico valdi,1,3,2022-12-16,231332117,20,1267,22,41,4,56,1364,93,84,96,79,43,0,18,11,2,medio,1,baixo,3,alto,3,alto,3,alto,3,alto,3,alto,3,alto,3,alto
+1928790,one dance,drake wizkid kyla,1,3,2016-04-04,2713922350,24,43257,107,433,0,3631,47321,104,77,36,63,1,0,36,5,3,alto,1,baixo,3,alto,1,baixo,2,medio,1,baixo,1,baixo,3,alto,2,medio
+6452995,lady gaga,gabito ballesteros junior h peso pluma,1,3,2023-06-22,86444842,26,332,163,11,4,10,353,140,65,87,74,22,0,42,4,1,baixo,3,alto,2,medio,3,alto,3,alto,2,medio,2,medio,3,alto,1,baixo
+8990379,lo siento bb with bad bunny  julieta venegas,julieta venegas bad bunny tainy,1,3,2021-10-05,775542072,26,3423,65,61,6,53,3537,170,64,14,70,9,0,9,8,3,alto,3,alto,2,medio,1,baixo,2,medio,1,baixo,3,alto,1,baixo,2,medio
+1035366,lokera,brray rauw alejandro lyanno,1,3,2022-07-25,471819764,30,3301,64,72,6,64,3437,102,83,58,83,21,0,10,5,2,medio,1,baixo,3,alto,2,medio,3,alto,2,medio,1,baixo,1,baixo,2,medio
+4214662,quema,sog ryan castro peso pluma,1,3,2023-07-13,11599388,31,437,29,17,3,26,480,97,79,92,89,5,0,6,5,1,baixo,1,baixo,3,alto,3,alto,3,alto,1,baixo,2,medio,1,baixo,2,medio
+2484929,mas rica que ayer,mambo kingz dj luian anuel aa,2,3,2023-03-02,146409671,34,1208,41,10,0,20,1238,94,82,53,67,34,0,9,8,1,baixo,1,baixo,3,alto,2,medio,2,medio,3,alto,3,alto,1,baixo,2,medio
+7264781,vagabundo,sebastian yatra manuel turizo be,1,3,2023-05-12,90839753,34,1094,58,40,8,47,1181,127,82,89,85,4,0,23,6,1,baixo,2,medio,3,alto,3,alto,3,alto,1,baixo,1,baixo,3,alto,2,medio
+8760891,el cielo,feid myke towers sky rompiendo,1,3,2023-06-02,107753850,38,1298,64,44,10,57,1399,106,72,17,64,7,0,10,5,1,baixo,1,baixo,2,medio,1,baixo,2,medio,1,baixo,1,baixo,1,baixo,2,medio
+2577311,left and right feat jung kook of bts,charlie puth bts jung kook,1,3,2022-06-24,720434240,39,3107,0,38,0,4,3149,101,88,72,59,62,0,9,3,3,alto,1,baixo,3,alto,3,alto,2,medio,3,alto,1,baixo,1,baixo,1,baixo
+2121928,trance with travis scott  young thug,travis scott young thug metro boomin,1,3,2022-12-02,276259178,46,1682,90,24,1,30,1736,119,75,48,53,18,0,18,34,2,medio,2,medio,3,alto,2,medio,1,baixo,2,medio,3,alto,3,alto,3,alto
+3605651,cant hold us feat ray dalton,ray dalton ryan lewis macklemore,1,3,2011-08-16,1953533826,52,6074,44,201,2,6551,12826,146,63,88,93,3,0,10,8,3,alto,3,alto,2,medio,3,alto,3,alto,1,baixo,1,baixo,1,baixo,2,medio
+8797570,cold heart  pnau remix,dua lipa elton john pnau,1,3,2017-11-10,1605224506,52,21097,135,384,37,1034,22515,116,80,92,80,4,0,10,3,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,1,baixo,1,baixo,1,baixo
+2540650,too many nights feat don toliver  with future,future metro boomin don toliver,1,3,2022-12-02,286400165,58,2110,119,17,2,19,2146,88,68,17,71,15,0,11,5,2,medio,1,baixo,2,medio,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio
+4446199,see you again,tyler the creator kali uchis,1,3,2017-07-21,1047101291,64,13387,58,77,1,247,13711,79,56,58,56,37,0,11,10,3,alto,1,baixo,1,baixo,2,medio,1,baixo,3,alto,1,baixo,2,medio,3,alto
+7107144,baby dont hurt me,david guetta annemarie coi leray,1,3,2023-04-06,177740666,66,4277,111,145,11,213,4635,128,60,23,91,0,0,12,3,1,baixo,2,medio,1,baixo,1,baixo,3,alto,1,baixo,1,baixo,2,medio,1,baixo
+5168392,barbie world with aqua from barbie the album,nicki minaj aqua ice spice,1,3,2023-06-23,65156199,80,1117,145,82,16,65,1264,144,77,75,58,52,0,23,25,1,baixo,3,alto,3,alto,3,alto,1,baixo,3,alto,2,medio,3,alto,3,alto
+5420196,popular with playboi carti  madonna  the idol vol 1 music from the hbo original series,the weeknd madonna playboi carti,1,3,2023-06-02,115364561,87,1945,182,74,14,87,2106,99,85,83,68,7,0,36,20,1,baixo,1,baixo,3,alto,3,alto,2,medio,1,baixo,3,alto,3,alto,3,alto
+2927588,creepin,the weeknd 21 savage metro boomin,1,3,2022-12-02,843957510,88,6036,149,113,23,245,6394,98,71,17,61,36,0,8,5,3,alto,1,baixo,2,medio,1,baixo,2,medio,3,alto,3,alto,1,baixo,2,medio
+7271843,friday feat mufasa  hypeman  dopamine reedit,riton nightcrawlers mufasa  hypeman dopamine,1,4,2021-01-15,863756573,0,12043,54,209,0,710,12962,123,82,80,86,1,0,30,13,3,alto,2,medio,3,alto,3,alto,3,alto,1,baixo,1,baixo,3,alto,3,alto
+6577689,sentadona remix s2,lusa sonza mc frog dj gabriel do borel davi k,1,4,2022-03-17,176290831,0,870,0,32,0,49,951,135,93,77,45,25,0,13,27,1,baixo,3,alto,3,alto,3,alto,1,baixo,2,medio,1,baixo,2,medio,3,alto
+7688790,cash in cash out,pharrell williams tyler the creator 21 savage,1,4,2022-06-10,136676504,0,2313,0,34,0,29,2376,120,88,15,56,1,0,8,6,1,baixo,2,medio,3,alto,1,baixo,1,baixo,1,baixo,3,alto,1,baixo,2,medio
+2489568,stay with me with justin timberlake halsey  pharrell,calvin harris halsey pharrell williams justin timberlake,1,4,2022-07-15,123473120,0,3113,6,54,1,124,3291,126,81,90,73,28,0,29,4,1,baixo,2,medio,3,alto,3,alto,3,alto,2,medio,1,baixo,3,alto,1,baixo
+1513475,out out feat charli xcx  saweetie,charli xcx jax jones joel corry saweetie,1,4,2021-08-13,427486004,0,6890,11,122,0,201,7213,124,79,79,84,2,0,5,5,2,medio,2,medio,3,alto,3,alto,3,alto,1,baixo,2,medio,1,baixo,2,medio
+6026926,baby otaku,fran c polima westcoast nickoog clk pablito pesadilla,1,4,2022-08-18,159240673,0,836,1,14,0,13,863,102,84,43,75,5,0,6,8,1,baixo,1,baixo,3,alto,2,medio,3,alto,1,baixo,1,baixo,1,baixo,2,medio
+8164697,tubaro te,dj lk da esccia tchakabum mc jhenny m,1,4,2022-09-28,116144341,0,1003,0,21,0,44,1068,130,89,48,74,30,0,7,36,1,baixo,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto,1,baixo,3,alto
+2148200,happy xmas war is over,john lennon the harlem community choir the plastic ono band yoko ono,1,4,1971-12-01,460492795,0,10829,1,130,0,390,11349,147,33,39,61,32,0,77,3,2,medio,3,alto,1,baixo,1,baixo,2,medio,2,medio,1,baixo,3,alto,1,baixo
+8941056,entre nosotros remix con nicki nicole,lit killah maria becerra tiago pzk nicki nicole,1,4,2022-01-05,236940480,3,759,0,32,0,12,803,170,70,61,44,40,0,37,4,2,medio,3,alto,2,medio,2,medio,1,baixo,3,alto,1,baixo,3,alto,1,baixo
+7220913,la llevo al cielo ft engo f,nengo flow anuel aa chris jedi chencho corleone,1,4,2022-05-20,333146475,3,3559,1,36,0,31,3626,170,80,77,85,11,0,17,14,2,medio,3,alto,3,alto,3,alto,3,alto,2,medio,3,alto,2,medio,3,alto
+6470158,annihilate spiderman across the spiderverse metro boomin  swae lee lil wayne offset,swae lee lil wayne offset metro boomin,1,4,2023-06-02,86773632,4,551,46,13,1,20,584,146,61,20,48,21,0,12,6,1,baixo,3,alto,2,medio,1,baixo,1,baixo,2,medio,2,medio,2,medio,2,medio
+8129977,novo balan,veigh bvga beatz supernova ent prod malax,1,4,2023-05-19,81102253,7,283,9,6,1,26,315,124,84,65,50,67,0,13,6,1,baixo,2,medio,3,alto,3,alto,1,baixo,3,alto,1,baixo,2,medio,2,medio
+1519987,enemy with jid  from the series arcane league of legends,imagine dragons league of legends jid arcane,1,4,2021-09-03,1223481149,7,6180,88,122,21,580,6882,77,72,59,76,24,0,42,28,3,alto,1,baixo,2,medio,2,medio,3,alto,2,medio,2,medio,3,alto,3,alto
+4497491,calling spiderman across the spiderverse metro boomin  swae lee nav feat a boogie wit da hoodie,swae lee a boogie wit da hoodie metro boomin nav,1,4,2023-06-02,109276132,16,1051,37,31,0,31,1113,140,63,22,54,46,0,12,8,1,baixo,3,alto,2,medio,1,baixo,1,baixo,3,alto,3,alto,2,medio,2,medio
+7948655,polaris  remix,feid mora saiko quevedo,1,4,2023-06-08,57312735,33,773,46,20,8,21,814,170,62,55,80,15,0,37,7,1,baixo,3,alto,2,medio,2,medio,3,alto,2,medio,1,baixo,3,alto,2,medio
+8090551,ultra solo remix,de la ghetto feid polima westcoast paloma mami pailita,1,5,2022-06-16,279717388,0,2341,2,37,2,38,2416,110,91,59,82,8,0,6,8,2,medio,2,medio,3,alto,2,medio,3,alto,1,baixo,3,alto,1,baixo,2,medio
+6436155,link up metro boomin  don toliver wizkid feat beam  toian  spiderverse remix spiderman across the spiderverse ,wizkid toian metro boomin don toliver beam,1,5,2023-06-02,32761689,0,197,10,3,0,3,203,101,92,59,51,41,51,26,8,1,baixo,1,baixo,3,alto,2,medio,1,baixo,3,alto,3,alto,3,alto,2,medio
+6953068,tere vaaste from zara hatke zara bachke,sachinjigar shadab faridi altamash faridi amitabh bhattacharya varun jain,1,5,2023-05-22,54225632,8,182,88,3,0,1,186,110,76,96,72,32,0,9,4,1,baixo,2,medio,3,alto,3,alto,2,medio,2,medio,2,medio,1,baixo,1,baixo
+8666108,angel pt 1 feat jimin of bts jvke  muni long,kodak black nle choppa muni long jvke jimin,1,5,2023-05-01,133753727,14,577,18,22,1,15,614,74,53,24,67,11,0,10,28,1,baixo,1,baixo,1,baixo,1,baixo,2,medio,2,medio,1,baixo,1,baixo,3,alto
+8001796,marisola  remix,duki nicki nicole cris mj standly stars music chile,1,5,2022-12-15,223582566,16,1845,8,20,2,30,1895,95,77,72,87,17,0,7,5,2,medio,1,baixo,3,alto,3,alto,3,alto,2,medio,2,medio,1,baixo,2,medio
+5350195,nobody like u  from turning red,jordan fisher josh levi finneas oconnell 4town from disney and pixars turning red topher ngo grayson vill,1,6,2022-02-25,120847157,0,918,39,34,0,30,982,105,91,73,72,13,0,9,15,1,baixo,1,baixo,3,alto,3,alto,2,medio,2,medio,3,alto,1,baixo,3,alto
+1936946,besharam rang from pathaan,vishalshekhar shilpa rao caralisa monteiro kumaar vishal dadlani shekhar ravjiani,1,6,2022-12-12,140187018,4,130,79,21,0,2,153,116,77,65,80,6,0,15,4,1,baixo,2,medio,3,alto,3,alto,3,alto,1,baixo,2,medio,2,medio,1,baixo
+6602768,jhoome jo pathaan,arijit singh vishal dadlani sukriti kakar vishalshekhar shekhar ravjiani kumaar,1,6,2022-12-22,1365184,4,138,78,13,0,2,153,105,82,62,74,10,0,33,7,1,baixo,1,baixo,3,alto,2,medio,3,alto,2,medio,3,alto,3,alto,2,medio
+7235348,we dont talk about bruno,adassa mauro castillo stephanie beatriz encanto  cast rhenzy feliz diane guerrero carolina gaitan,1,7,2021-11-19,432719968,0,2785,89,95,0,44,2924,206,58,83,45,36,0,11,8,2,medio,3,alto,1,baixo,3,alto,1,baixo,3,alto,1,baixo,2,medio,2,medio
+7870658,cay la noche feat cruz cafun abhir hathi bejo el ima,quevedo la pantera juseph cruz cafun bjo abhir hathi,1,7,2022-01-14,245400167,1,1034,5,19,0,12,1065,174,67,74,75,44,0,7,30,2,medio,3,alto,2,medio,3,alto,3,alto,3,alto,2,medio,1,baixo,3,alto
+1647815,se le ve,arcangel de la ghetto justin quiles lenny tavrez sech dalex dimelo flow rich music,1,8,2021-08-12,223319934,0,1560,0,72,0,0,1632,84,56,61,76,10,0,14,11,2,medio,1,baixo,1,baixo,2,medio,3,alto,2,medio,3,alto,2,medio,3,alto
+4801316,los del espacio,big one duki lit killah maria becerra fmk rusherking emilia tiago pzk,1,8,2023-06-01,123122413,31,1150,33,22,7,34,1206,120,81,63,68,11,0,11,4,1,baixo,2,medio,3,alto,3,alto,2,medio,2,medio,1,baixo,2,medio,1,baixo
