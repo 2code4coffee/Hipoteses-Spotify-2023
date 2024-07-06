@@ -26,7 +26,7 @@ ________________________________________________________________________________
 **Linguagens**: SQL e Python
 **Organização:** Trello, Zoom, Notion
 ___________________________________________________________________________________
-- ## **📊 Processo documentado, fórmulas, resultados, conclusões e recomensações** :
+- ## **📊 Processo documentado, fórmulas, resultados, conclusões e recomendações** :
   https://www.notion.so/P2-Hip-teses-Spotify-13a035f6e34a41419e22860516aa2588?pvs=4
 ___________________________________________________________________________________
 - ## **🔗 Links de interesse** :
